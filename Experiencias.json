@@ -2,30 +2,30 @@
   "ExperienciasOnline": [
     {
     "nomeExperienciaOnline": "experiencia1",
-    "versao": 0,
-    "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia1",
-    "indice":0
+    "versaoOnline": 0,
+    "linkOnline": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia1",
+    "indiceOnline":0
     },
 
     {
     "nomeExperienciaOnline": "experiencia2",
-    "versao": 1,
-    "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia2",
-    "indice":1
+    "versaoOnline": 1,
+    "linkOnline": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia2",
+    "indiceOnline":1
     },
 
     {
     "nomeExperienciaOnline": "experiencia3",
-    "versao": 1,
-    "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia3",
-    "indice":2
+    "versaoOnline": 1,
+    "linkOnline": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia3",
+    "indiceOnline":2
     },
 
     {
     "nomeExperienciaOnline": "experiencia4",
-    "versao": 1,
-    "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia4",
-    "indice":3
+    "versaoOnline": 1,
+    "linkOnline": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia4",
+    "indiceOnline":3
     }
 
   ]
