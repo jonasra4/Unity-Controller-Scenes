@@ -3,25 +3,29 @@
     {
     "nome": "experiencia1",
     "versao": "1",
-    "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia1"
+    "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia1",
+    "indice":0
     },
 
     {
     "nome": "experiencia2",
     "versao": "1",
-    "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia2"
+    "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia2",
+    "indice":1
     },
 
     {
     "nome": "experiencia3",
     "versao": "1",
-    "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia3"
+    "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia3",
+    "indice":2
     },
 
     {
     "nome": "experiencia4",
     "versao": "1",
-    "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia4"
+    "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia4",
+    "indice":3
     },
 
   ]
