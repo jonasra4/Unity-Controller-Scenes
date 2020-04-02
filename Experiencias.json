@@ -2,28 +2,28 @@
   "ExperienciasOnline": [
     {
       "nomeExperiencia": "experiencia1",
-      "versao": 5,
+      "versao": 2,
       "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/ExperienciasPrefabs/experiencia1",
       "indice":0
     },
 
     {
       "nomeExperiencia": "experiencia2",
-      "versao": 1,
+      "versao": 2,
       "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/ExperienciasPrefabs/experiencia2",
       "indice":1
     },
 
     {
       "nomeExperiencia": "experiencia3",
-      "versao": 1,
+      "versao": 2,
       "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/ExperienciasPrefabs/experiencia3",
       "indice":2
     },
 
     {
       "nomeExperiencia": "experiencia4",
-      "versao": 1,
+      "versao": 2,
       "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/ExperienciasPrefabs/experiencia4",
       "indice":3
     }
