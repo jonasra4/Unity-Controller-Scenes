@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3352910558
+CRC: 578070657
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a965bcf91994871dbae2c9b7654826d7
+    Hash: 5a3c81212076b1aa640f09164fc2e657
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9f6880c55489dd6ca66efa33d7a5b6df
+    Hash: 0407f00e21e610710e7814556e63733d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -41,8 +41,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
-- Class: 114
-  Script: {fileID: 11500000, guid: d21297f06c17be1458f89d8f33ef2db0, type: 3}
+- Class: 111
+  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
@@ -56,10 +56,24 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: b2625607bd2d22042b6618ce307e6919, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 30820429dabc0a840a9bd01c1586030e, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: bc9bd91bf1b032345a06c51b2684a0e3, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 5d8bbeaf1838a7b459d0d12cd8a5266f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72e50913e7e62424fb84769094f5645f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fec05d8fe384476bbdcb7f8aafd325, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ff967b7ed48f2441bcf509edf6b889a, type: 3}
 - Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 136
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
@@ -72,5 +86,6 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/_Main/Prefabs/Prefabs Cenas/experiencia1.prefab
+- Assets/_Main/Prefabs/Cenas Prefabs/experiencia14.prefab
+- Assets/_Main/Prefabs/Cenas Prefabs/experiencia1.prefab
 Dependencies: []
