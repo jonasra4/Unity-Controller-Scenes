@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 173202955
+CRC: 1834333998
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3a215441ef7216324083d80b2ce70a82
+    Hash: 5f5a4994b04ee200aac1865340144caf
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b0b551a896b0fb29e6e339d21e855c96
+    Hash: f1f23f897daec67b8e8d0463b2cd8360
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,6 +24,8 @@ ClassTypes:
 - Class: 43
   Script: {instanceID: 0}
 - Class: 48
+  Script: {instanceID: 0}
+- Class: 54
   Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
@@ -44,6 +46,8 @@ ClassTypes:
 - Class: 111
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 73ca25c0bd8f93a4b88532a93cc03203, type: 3}
+- Class: 114
   Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
   Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
@@ -63,6 +67,12 @@ ClassTypes:
   Script: {fileID: 11500000, guid: bc9bd91bf1b032345a06c51b2684a0e3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5d8bbeaf1838a7b459d0d12cd8a5266f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ff967b7ed48f2441bcf509edf6b889a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72e50913e7e62424fb84769094f5645f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fec05d8fe384476bbdcb7f8aafd325, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 134
