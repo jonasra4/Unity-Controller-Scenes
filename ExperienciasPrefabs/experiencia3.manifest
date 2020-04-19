@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 69472439
+CRC: 3837760452
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4017c5243b9dc25724953bf9b5e5899b
+    Hash: 593ff0f592e5ea7bc916ebac84a62905
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0407f00e21e610710e7814556e63733d
+    Hash: 3afe450fc000f76115c88744bd655eda
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -41,8 +41,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
-- Class: 111
-  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
@@ -63,12 +61,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: bc9bd91bf1b032345a06c51b2684a0e3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5d8bbeaf1838a7b459d0d12cd8a5266f, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 72e50913e7e62424fb84769094f5645f, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: d7fec05d8fe384476bbdcb7f8aafd325, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 9ff967b7ed48f2441bcf509edf6b889a, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 134
@@ -86,5 +78,5 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/_Main/Prefabs/Cenas Prefabs/experiencia3.prefab
+- Assets/_Main/Prefabs/Cenas Prefabs/Experiencia3.prefab
 Dependencies: []
