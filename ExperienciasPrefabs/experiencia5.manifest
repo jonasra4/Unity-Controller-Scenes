@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3009231754
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 705d22a1969d77cadb2379ea50d14dd1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c69642b1008d25130c1cd84b686c2861
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbb097c07812299498915a0a3e793843, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 479d695282ba6cf4ba3ab3c4848f05e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d06b7dd2e66376b448962da5b1416192, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 600f45e7f05881c49af2414b126c952b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fc98219a83dff145947365dc914d06e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83dcd8dace8b7fe449d796b980cb121d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4eda371e5375f454490a86f21559ee38, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Main/Prefabs Cenas/experiencia5.prefab
+Dependencies: []
