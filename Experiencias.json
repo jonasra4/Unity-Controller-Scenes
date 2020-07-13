@@ -34,11 +34,20 @@
       "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/ExperienciasPrefabs/experiencia5",
       "indice":4
     },
+<<<<<<< HEAD
     {
       "nomeExperiencia": "experiencia6",
       "versao": 1,
       "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/ExperienciasPrefabs/experiencia6",
       "indice":4
+=======
+    
+    {
+      "nomeExperiencia": "experiencia6",
+      "versao": 1,
+      "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/ExperienciasPrefabs/experiencia5",
+      "indice":5
+>>>>>>> f65561afc2cab34982aea800fee931ad71e88705
     }
 
   ]
