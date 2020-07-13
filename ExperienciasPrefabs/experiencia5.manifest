@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3009231754
+CRC: 1815556441
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 705d22a1969d77cadb2379ea50d14dd1
+    Hash: 94ca79bad165d167d681a4c01f12129e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c69642b1008d25130c1cd84b686c2861
+    Hash: db278c4740ab4b4fa74c43270c5f361b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -29,14 +29,34 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: c19594a0dd9b3444893a3a6211e809a6, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: bbb097c07812299498915a0a3e793843, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 479d695282ba6cf4ba3ab3c4848f05e8, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: d06b7dd2e66376b448962da5b1416192, type: 3}
+  Script: {fileID: 11500000, guid: 37553564659493543ad4528650ae30ee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89853fe48ec90e04594a3a55d9b7ba68, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 600f45e7f05881c49af2414b126c952b, type: 3}
 - Class: 114
@@ -51,6 +71,14 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 136
   Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
 Assets:
-- Assets/_Main/Prefabs Cenas/experiencia5.prefab
+- Assets/_Main/Experiencias/XP5/Experiencia5.prefab
 Dependencies: []
