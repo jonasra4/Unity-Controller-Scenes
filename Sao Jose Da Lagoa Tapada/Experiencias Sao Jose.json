@@ -1,0 +1,19 @@
+{
+  "ExperienciasOnline": [
+    {
+      "nomeExperiencia": "experiencia1",
+      "versao": 0,
+      "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/ExperienciasPrefabs/experiencia1",
+      "indice":0
+    },
+
+    {
+      "nomeExperiencia": "experiencia2",
+      "versao": 0,
+      "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/ExperienciasPrefabs/experiencia2",
+      "indice":1
+    }
+    
+  ]
+
+}
