@@ -4,7 +4,7 @@
           "id": 0,
           "nomeExperiencia": "experiencia1",
           "versao": 1,
-          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia1",
+          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia1?raw=true",
           "indice": 0,
           "observacao": "",
           "tipo": "RA"
@@ -13,7 +13,7 @@
           "id": 1,
           "nomeExperiencia": "experiencia2",
           "versao": 1,
-          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia2",
+          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia2?raw=true",
           "indice": 1,
           "observacao": "",
           "tipo": "RA"
@@ -22,7 +22,7 @@
           "id": 2,
           "nomeExperiencia": "experiencia3",
           "versao": 1,
-          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia3",
+          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia3?raw=true",
           "indice": 2,
           "observacao": "",
           "tipo": "RA"
@@ -31,7 +31,7 @@
           "id": 3,
           "nomeExperiencia": "experiencia4",
           "versao": 1,
-          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia4",
+          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia4?raw=true",
           "indice": 3,
           "observacao": "",
           "tipo": "RA"
@@ -40,7 +40,7 @@
           "id": 4,
           "nomeExperiencia": "experiencia5",
           "versao": 1,
-          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia5",
+          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia5?raw=true",
           "indice": 4,
           "observacao": "",
           "tipo": "RA"
@@ -49,7 +49,7 @@
           "id": 5,
           "nomeExperiencia": "experiencia6",
           "versao": 1,
-          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia6",
+          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia6?raw=true",
           "indice": 5,
           "observacao": "",
           "tipo": "RA"
@@ -58,7 +58,7 @@
           "id": 6,
           "nomeExperiencia": "experiencia7",
           "versao": 1,
-          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia7",
+          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia7?raw=true",
           "indice": 6,
           "observacao": "",
           "tipo": "2D"
