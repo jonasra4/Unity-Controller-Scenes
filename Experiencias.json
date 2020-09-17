@@ -1,65 +1,65 @@
 {
-  "ExperienciasLocal": [
+  "ExperienciasOnline": [
       {   
           "id": 0,
-          "nomeExperienciaLocal": "experiencia1",
-          "versaoLocal": 1,
-          "linkLocal": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia1",
-          "indiceLocal": 0,
+          "nomeExperiencia": "experiencia1",
+          "versao": 1,
+          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia1",
+          "indice": 0,
           "observacao": "",
           "tipo": "RA"
       },
       {
           "id": 1,
-          "nomeExperienciaLocal": "experiencia2",
-          "versaoLocal": 1,
-          "linkLocal": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia2",
-          "indiceLocal": 1,
+          "nomeExperiencia": "experiencia2",
+          "versao": 1,
+          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia2",
+          "indice": 1,
           "observacao": "",
           "tipo": "RA"
       },
       {
           "id": 2,
-          "nomeExperienciaLocal": "experiencia3",
-          "versaoLocal": 1,
-          "linkLocal": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia3",
-          "indiceLocal": 2,
+          "nomeExperiencia": "experiencia3",
+          "versao": 1,
+          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia3",
+          "indice": 2,
           "observacao": "",
           "tipo": "RA"
       },
       {
           "id": 3,
-          "nomeExperienciaLocal": "experiencia4",
-          "versaoLocal": 1,
-          "linkLocal": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia4",
-          "indiceLocal": 3,
+          "nomeExperiencia": "experiencia4",
+          "versao": 1,
+          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia4",
+          "indice": 3,
           "observacao": "",
           "tipo": "RA"
       },
       {
           "id": 4,
-          "nomeExperienciaLocal": "experiencia5",
-          "versaoLocal": 1,
-          "linkLocal": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia5",
-          "indiceLocal": 4,
+          "nomeExperiencia": "experiencia5",
+          "versao": 1,
+          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia5",
+          "indice": 4,
           "observacao": "",
           "tipo": "RA"
       },
       {
           "id": 5,
-          "nomeExperienciaLocal": "experiencia6",
-          "versaoLocal": 1,
-          "linkLocal": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia6",
-          "indiceLocal": 5,
+          "nomeExperiencia": "experiencia6",
+          "versao": 1,
+          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia6",
+          "indice": 5,
           "observacao": "",
           "tipo": "RA"
       },
       {
           "id": 6,
-          "nomeExperienciaLocal": "experiencia7",
-          "versaoLocal": 1,
-          "linkLocal": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia7",
-          "indiceLocal": 6,
+          "nomeExperiencia": "experiencia7",
+          "versao": 1,
+          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/raw/master/Experiencias/experiencia7",
+          "indice": 6,
           "observacao": "",
           "tipo": "2D"
       }
