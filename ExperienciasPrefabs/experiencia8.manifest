@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1954987832
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc47f40796836056eac119f64bb01584
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5f5024ce2b75c917231b380749ce2371
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c19594a0dd9b3444893a3a6211e809a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c27af233824d129438833f60261ed33e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac5fb895edefd43468f13fa68ec97b94, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6807a93861763c24bac38a648dcc40d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 16a5f949997b66c43a0fd2a04295ceca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d2ca4bd17d8d104395fab874dc48104, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Main/Experiencias/XP8/experiencia8.prefab
+Dependencies: []

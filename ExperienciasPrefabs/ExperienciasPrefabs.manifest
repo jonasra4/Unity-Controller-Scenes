@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 4081344580
+CRC: 1464700846
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -22,4 +22,10 @@ AssetBundleManifest:
       Dependencies: {}
     Info_6:
       Name: experiencia7
+      Dependencies: {}
+    Info_7:
+      Name: experiencia8
+      Dependencies: {}
+    Info_8:
+      Name: experiencia9
       Dependencies: {}
