@@ -65,19 +65,19 @@
       },
       {
         "id": 7,
-        "nomeExperienciaLocal": "experiencia8",
-        "versaoLocal": 1,
-        "linkLocal": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia8?raw=true",
-        "indiceLocal": 7,
+        "nomeExperiencia": "experiencia8",
+        "versao": 1,
+        "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia8?raw=true",
+        "indice": 7,
         "observacao": "",
         "tipo": "RA"
     },
     {
         "id": 8,
-        "nomeExperienciaLocal": "experiencia9",
-        "versaoLocal": 1,
-        "linkLocal": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia9?raw=true",
-        "indiceLocal": 8,
+        "nomeExperiencia": "experiencia9",
+        "versao": 1,
+        "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia9?raw=true",
+        "indice": 8,
         "observacao": "",
         "tipo": "RA"
     }
