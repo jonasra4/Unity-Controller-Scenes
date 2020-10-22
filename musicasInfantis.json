@@ -1,0 +1,1032 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "yxUcqLF0tVnXjZszL-K1z_8f2_U",
+  "nextPageToken": "CB4QAA",
+  "regionCode": "BR",
+  "pageInfo": {
+    "totalResults": 92243,
+    "resultsPerPage": 30
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "578i1o0N-bN7Q9cuTTS6V1zaGbE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "40UNeS3mjXA"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-19T23:41:52Z",
+        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
+        "title": "Masha e o Urso Musica 🎤💥 LIVE 💥🎤 Coleção de canções de Masha e o Urso 🎵",
+        "description": "Bem-vindo ao canal de Masha e o Urso no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade Primavera para o Urso ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/40UNeS3mjXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/40UNeS3mjXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/40UNeS3mjXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaDaBoom Português",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-19T23:41:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7TrgejxE6IcG7n1Ttr7dgXPpKb8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "otzNoy6lR44"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-05T18:46:47Z",
+        "channelId": "UCXeFDGqdLayT0QlR_1WKgXg",
+        "title": "Músicas Infantis",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/otzNoy6lR44/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/otzNoy6lR44/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/otzNoy6lR44/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gerson Antunes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-05T18:46:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QYVKkvWQNJb-I2DjH4pHntqM7TU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mg4IlARSsV4"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-05T22:08:25Z",
+        "channelId": "UCxbZB2zNRL_wUzoITlBDZKg",
+        "title": "Pintadinha e amigos - músicas infantis 24 Horas.",
+        "description": "Se inscreva no canal para ser notificado quando estivermos online!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mg4IlARSsV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mg4IlARSsV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mg4IlARSsV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vicentube",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-05T22:08:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a8e8rXFpmqLaICNexnQGNVSgLOg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W-l7ywXq9Cs"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-27T17:37:39Z",
+        "channelId": "UCY90WSTGXGkhZ7ewHQUfodA",
+        "title": "Aprender japonês cantando: música infantil",
+        "description": "Quantas vezes você já pensou que gostaria de aprender japonês mas pensa que não tem tempo para aprender a língua e acaba postergando esse objetivo?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W-l7ywXq9Cs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W-l7ywXq9Cs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W-l7ywXq9Cs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "123 Japonês",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-27T17:37:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I-RBbVNcGL6XrZWYVhr2JQBDXUo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AeqRepHudKQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-27T09:02:53Z",
+        "channelId": "UCQzKxP2_rk7CqTKl4TxfsEg",
+        "title": "Live músicas Infantis Ao Vivo #fiqueemcasa Live Infantil #emcasa",
+        "description": "MúsicaLives Infantis Ao Vivo #fiqueemcasa Live Infantil músicas infantis do meu CANAL Muito mais aqui em baixo clique aqui ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AeqRepHudKQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AeqRepHudKQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AeqRepHudKQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Planeta Doce-Músicas Infantis e Desenhos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-27T09:02:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L40kNzfmGvHQm4TxPiisecZVKIY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CaiE6hMOfNM"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-25T01:08:21Z",
+        "channelId": "UCVUQAz2w3PxmFx1b9Heu_gw",
+        "title": "Aula ao vivo de Ukulele - Músicas Infantis",
+        "description": "Faça o download das cifras usadas nesta aula Carnaval das Minhocas: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CaiE6hMOfNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CaiE6hMOfNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CaiE6hMOfNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Curso de Ukulele On-line",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-25T01:08:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WsxUT2dp8zZ-mp6aeb8qHS17ubU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OkQcj1M-3zw"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-10T19:15:02Z",
+        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
+        "title": "TaDaBoom Português 🎤💥 LIVE 💥🎤 Coleção de canções de Masha e o Urso 🎵",
+        "description": "Bem-vindo ao canal de TaDaBoom Português - Masha e o Urso Musica no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OkQcj1M-3zw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OkQcj1M-3zw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OkQcj1M-3zw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaDaBoom Português",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-10T19:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FP2dVQhKsaqphY5vnzOsND5XMdg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AXQOdHjnrDU"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-10T10:04:49Z",
+        "channelId": "UCa0U4ouy5y3bQcxXhGqYAcQ",
+        "title": "Live - Músicas Infantis - Escola Jandira",
+        "description": "Live especial para as crianças da Escola Jandira (Educação Infantil) e para todas as crianças que quiserem assistir!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AXQOdHjnrDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AXQOdHjnrDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AXQOdHjnrDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Luis Barcellos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-10T10:04:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UfHXE4L4Erb0W5EyKaKozxa2Zwg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R3oNMJ7cpfs"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-02T20:14:32Z",
+        "channelId": "UCb08zJgXapidkizIaEN5EfQ",
+        "title": "Live 3 Palavrinhas - Ao Vivo - Sábado - 15 horas - #FiqueEmCasa e Cante #Comigo",
+        "description": "A nossa Live foi demais, amiguinhos! Agradecemos pelo carinho ... nos divertimos muito com vocês! Agora, acompanhem também todas as empresas e ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R3oNMJ7cpfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R3oNMJ7cpfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R3oNMJ7cpfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "3Palavrinhas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-02T20:14:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I9N0mku0X8Qt2jo_ct1g4qhzpLg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_9F3DyeSJT4"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-09T20:59:44Z",
+        "channelId": "UCHhqWdR0h-jJSWLNcV_EOPw",
+        "title": "Desejo No Mundo Dos Sonhos Músicas Infantis",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_9F3DyeSJT4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_9F3DyeSJT4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_9F3DyeSJT4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Emerson Guimarães",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-09T20:59:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8n0h_5RMXaaG2ERsfGotQCMrYIs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IVWESu1M_UA"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-08T21:39:32Z",
+        "channelId": "UCY3zfHNiJwu1AOVRYhB0BIA",
+        "title": "MÚSICAS INFANTIS CRISTÃS 🎶 - Pri Mastrocolla",
+        "description": "Spotify: https://open.spotify.com/user/alokaporgatos/playlist/0r3eMdRlMsLE0BlPg4AslE.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IVWESu1M_UA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IVWESu1M_UA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IVWESu1M_UA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pri Mastrocolla",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-08T21:39:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jeonLVTVEEq_hF5ivtMVVhDnl60",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zB3KmQBdQz0"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-24T00:20:12Z",
+        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
+        "title": "ATIVIDADES LÚDICAS PARA FAZER EM CASA",
+        "description": "Link do Material em pdf: https://drive.google.com/file/d/16NaKZBhgXRbBJYCpbenAK3zvDWXvGcwp/view?usp=sharing Links das Músicas utilizadas na aula: A ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zB3KmQBdQz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zB3KmQBdQz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zB3KmQBdQz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taise Agostini",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-24T00:20:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B_Or-J5jLw6S36KXedtj8baH734",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qdQReO3pNik"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-08T20:52:00Z",
+        "channelId": "UC0cGVh96osM7yqMu0ENSKKQ",
+        "title": "LIVE MUNDO BITA #FICAEMCASA",
+        "description": "O Bita e a Flora se juntam ao cantor e criador do Mundo Bita Chaps Melo nessa live cheia de aprendizados, surpresas e músicas que fazem a cabeça das ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qdQReO3pNik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qdQReO3pNik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qdQReO3pNik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mundo Bita",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-08T20:52:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dqwJV2xViIJpYqv-NwkAuzQ3_tM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cxYmQmX6rbs"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-22T02:16:13Z",
+        "channelId": "UCDIYAmAv7hdouRQqWyB-h2Q",
+        "title": "A Música como estímulo para o desenvolvimento da linguagem infantil",
+        "description": "A Michael e a Allegro Momento vão promover três imperdíveis encontros para falar de música e desenvolvimento infantil, evento 100% ONLINE e GRATUITO.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cxYmQmX6rbs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cxYmQmX6rbs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cxYmQmX6rbs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Michael Instrumentos Musicais",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-22T02:16:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JGUnzQAVldFjeegMfkvLjJEGrd0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yOcaGfDG7Xw"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-06T01:40:34Z",
+        "channelId": "UCWN2C-dqZ1_PSsE9IplrB6A",
+        "title": "Músicas espíritas infantis - CEICAL - Anápolis/GO",
+        "description": "Apresentação de músicas espíritas infantis realizado no dia 05/07/2020 no Centro Espírita e Instituição Caminho da Luz/CEICAL em Anápolis/GO.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yOcaGfDG7Xw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yOcaGfDG7Xw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yOcaGfDG7Xw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Centro Espírita e Instituição Caminho da Luz/CEICAL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-06T01:40:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Eb6H9ylhulsR7Lwqb3tGTc6iJzo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6pDOJXa2jz0"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-23T12:58:43Z",
+        "channelId": "UC-pT43RBrlQ-CbsXNVx0vLw",
+        "title": "LIVE - MÚSICAS E CANTORES INFANTIS PARTE 2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6pDOJXa2jz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6pDOJXa2jz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6pDOJXa2jz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Beatriz No Mundo Dos Livros",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-23T12:58:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XPW_Ws1puTj3XdDLMMwO_9kFD0A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Pt1KeeX_ohY"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-10T19:46:01Z",
+        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
+        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2019!",
+        "description": "Os Três Mashqueteiros ⚔️ https://youtu.be/OhOPmlJ1ipo Halloween 2019 https://youtu.be/TuSrOu9i83w Deus Salve A Rainha!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pt1KeeX_ohY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pt1KeeX_ohY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pt1KeeX_ohY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masha e o Urso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-10T19:46:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jx2bqPQb1VI7LLVAUqadUG9n65A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r3y2fuT5i2M"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-24T20:00:38Z",
+        "channelId": "UCMQGjL7ft6aNLKPp5xN-P3A",
+        "title": "MINHA FESTA DE ANIVERSÁRIO AO VIVO  #FiqueEmCasa e Cante #Comigo - 14 Anos",
+        "description": "Estou muito feliz de poder comemorar meu aniversário junto com vocês! Vai ser minha primeira live de 2020 e minha primeira live de aniversário. Vem cantar e ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r3y2fuT5i2M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r3y2fuT5i2M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r3y2fuT5i2M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MILENINHA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-24T20:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4w37jzWmeTIvTKqlOB993gmDpdk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2aWjmDMKnes"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-02T08:52:24Z",
+        "channelId": "UCjBC0jBdXOfvQv9-cv6NEtA",
+        "title": "LIVE DO CANAL MUSICAL DA GRA- MÚSICAS INFANTIS",
+        "description": "Assista na integra a live realizada no dia 01 de outubro de 2020 no House Estudio localizado na na cidade de Araras SP onde apresento um pouco do meu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2aWjmDMKnes/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2aWjmDMKnes/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2aWjmDMKnes/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CANAL MUSICAL DA GRA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-02T08:52:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NXqvU2JW13HhQYmd0y26MuJxPYE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cBQUm_-BR4Q"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-02T07:58:56Z",
+        "channelId": "UCMmx-kjdQW4liX_jqhZIeZw",
+        "title": "musicas infantis",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cBQUm_-BR4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cBQUm_-BR4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cBQUm_-BR4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bê e Du kids",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-02T07:58:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tFYSN3gJNb3OWeYU9dI6ahyTT2Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2asRrXe7jtA"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-18T22:46:03Z",
+        "channelId": "UCLYjo8bfsOSxWvnNVxUNmQw",
+        "title": "Um girassol | 3 acordes | Música Infantil religiosa",
+        "description": "Curso Completo de Violão (Apoio exclusivo comigo via Whatsapp) - https://cursodeviolaoemcasa.com/ Facebook: https://www.facebook.com/janeteonline ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2asRrXe7jtA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2asRrXe7jtA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2asRrXe7jtA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Janete Online - Violão para iniciantes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-18T22:46:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HEmohUPvayL-12F7XdD2DM4td6E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IG6hpvB7uv0"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-31T00:23:30Z",
+        "channelId": "UCab3tgxjVbmje2FAkdKREyQ",
+        "title": "A Mamãe está Dodói e Mais! | Historinhas e Músicas Infantis | Canal do Joãozinho",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IG6hpvB7uv0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IG6hpvB7uv0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IG6hpvB7uv0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Desenhos & cia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-31T00:23:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tCfk50czYbD0fs-2fz80JSfbsKE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IHFzcaTfi8M"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-11T22:37:15Z",
+        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
+        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2020!",
+        "description": "Aulas De Direção https://youtu.be/ZFOP-9QN0tE #MashaUrso Bem-vindo ao canal de Masha e o Urso no YouTube Inscrever-se agora! Masha e o Urso lista ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IHFzcaTfi8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IHFzcaTfi8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IHFzcaTfi8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masha e o Urso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-11T22:37:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oL_18kVAB0jFggkMgH4tcE6qWSQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hofxgUjWvAc"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-13T00:11:40Z",
+        "channelId": "UCMMWsN_25G-74OAlXwz1DKg",
+        "title": "Luvas Pedagógicas | Histórias  infantis | Músicas infantis",
+        "description": "Prof. Larissa Muriele Pós em Educação Infantil e Ludopedagogia Facebook: https://www.facebook.com/larissamuriele Página do facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hofxgUjWvAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hofxgUjWvAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hofxgUjWvAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Arte & Cia. Larissa Muriele",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-13T00:11:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l0qiMrucItZizyqhLkaBEZEqxbc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XrnCsOzaCHs"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-06T21:04:56Z",
+        "channelId": "UCK_FvuzJN7rP4k2Ppwnvj5g",
+        "title": "Live infantil",
+        "description": "Nome vídeo Inscreva-se no meu canal: http://bit.ly/AlineBarrosYouTube -- Ouça Álbum Completo [NOME DO ALBÚM] nas Plataformas Digitais: -- LETRA: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XrnCsOzaCHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XrnCsOzaCHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XrnCsOzaCHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Aline Barros",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-06T21:04:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9DOqlU9IWlZeSC61COEY18OlhPI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AyH-NsHLiW4"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-30T22:23:39Z",
+        "channelId": "UCe-BBpsnL89BMr6WbvBQ9dw",
+        "title": "Live Patati Patatá - Seus Melhores Amigos | #FiqueEmCasa e Cante #Comigo",
+        "description": "Patati Patatá apresenta Live \"Seus Melhores Amigos\" Data e horário: sábado, 30 de maio às 17h. Para as doações, Patati Patatá se juntou a duas instituições ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AyH-NsHLiW4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AyH-NsHLiW4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AyH-NsHLiW4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Patati Patatá",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-30T22:23:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k8hozyB3EtXIUdN_JqfMn2_c88M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "soeGXObgvM8"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-17T23:54:11Z",
+        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
+        "title": "COMO MONTAR UMA AULA CRIATIVA",
+        "description": "Live especial Dia da Água. Por ser uma aula ao vivo especial em comemoração ao dia da água o material esteve disponível por 48 horas após a Live.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/soeGXObgvM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/soeGXObgvM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/soeGXObgvM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taise Agostini",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-17T23:54:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "APMCZciRWb_ZAnKHCPxjkVgJ8C8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Jg2Sb8dvG8Y"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-08T06:54:37Z",
+        "channelId": "UCD-VDP8LIkJEmmlaD2GTpHw",
+        "title": "musicas infantis da marilove",
+        "description": "canta um pouco e homenagem á alicia que fará ano no dia 13 de outubro #7anos.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jg2Sb8dvG8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jg2Sb8dvG8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jg2Sb8dvG8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Paula Roberta Da Silva Santos Roberta",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-08T06:54:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E-BzxDZ8lgLIobaka4OphsFqq2M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s76YyeNXOjs"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-08T22:25:55Z",
+        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
+        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2020!",
+        "description": "TOP 10 https://youtu.be/JhCSfP0sYTg Amigos Para Sempre🦄 https://youtu.be/V-V-rCHZj-8 Maravilhas Do Inverno ⛄ https://youtu.be/Hz5sjIMafDc ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s76YyeNXOjs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s76YyeNXOjs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s76YyeNXOjs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masha e o Urso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-08T22:25:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KEwxnryXflnYXCSnfINkNqOIpqs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CqgwP7zxCTs"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-03T01:35:17Z",
+        "channelId": "UCBaUdLZRgkwe87MCt4mtCJw",
+        "title": "TRIO R3 - Live Kids 2 #FiqueEmCasa Cante #Comigo",
+        "description": "Oi, pessoal. Nós somos o Trio R3! Para comprar os produtos da loja Menina Shoes, use nosso cupom de desconto \"TRIOR3\" no link: https://bit.ly/2BkIDH5 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CqgwP7zxCTs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CqgwP7zxCTs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CqgwP7zxCTs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Trio R3",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-03T01:35:17Z"
+      }
+    }
+  ]
+}
