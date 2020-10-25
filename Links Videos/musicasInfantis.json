@@ -1,1031 +1,1031 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "-aBUBQ59BUE0pMosfQf2ZBErdDo",
+  "etag": "jCIRIxx5UtoY3auI5E6oIzCVz_o",
   "nextPageToken": "CB4QAA",
   "regionCode": "BR",
   "pageInfo": {
-    "totalResults": 47370,
+    "totalResults": 1000000,
     "resultsPerPage": 30
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "578i1o0N-bN7Q9cuTTS6V1zaGbE",
+      "etag": "wn76RgcrliJlwbKQnPUfvzk8OMU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "40UNeS3mjXA"
+        "videoId": "9CFwU5RsD-I"
       },
       "snippet": {
-        "publishedAt": "2019-11-19T23:41:52Z",
-        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
-        "title": "Masha e o Urso Musica 🎤💥 LIVE 💥🎤 Coleção de canções de Masha e o Urso 🎵",
-        "description": "Bem-vindo ao canal de Masha e o Urso no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade Primavera para o Urso ...",
+        "publishedAt": "2016-05-24T23:16:11Z",
+        "channelId": "UCXyGbNdywPKSJ88vPKN0vgw",
+        "title": "Borboletinha  + 30 minutos de musica Infantil com Os amiguinhos",
+        "description": "Acompanha-nos http://www.os-amiguinhos.com/ https://twitter.com/OsAmiguinhosTV ---- Clique aqui para subescrever.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/40UNeS3mjXA/default.jpg",
+            "url": "https://i.ytimg.com/vi/9CFwU5RsD-I/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/40UNeS3mjXA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9CFwU5RsD-I/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/40UNeS3mjXA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9CFwU5RsD-I/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "TaDaBoom Português",
+        "channelTitle": "Os Amiguinhos",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-11-19T23:41:52Z"
+        "publishTime": "2016-05-24T23:16:11Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "btxZSa-i_glWoyluGeCUO7lPc6g",
+      "etag": "zyobScJwmkple_tR3VooNrCBerc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "KhAfUv3ZbbM"
+        "videoId": "2Vf4VhAGhlY"
       },
       "snippet": {
-        "publishedAt": "2020-03-21T17:39:39Z",
-        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
-        "title": "TaDaBoom Português 🎤💥 LIVE 💥🎤 Coleção de canções de Masha e o Urso 🎵",
-        "description": "Bem-vindo ao canal de TaDaBoom Português - Masha e o Urso Musica no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade ...",
+        "publishedAt": "2016-10-14T21:43:41Z",
+        "channelId": "UCXyGbNdywPKSJ88vPKN0vgw",
+        "title": "O Sapo Não Lava o Pé  + 1 Hora de musica infantil com Os Amiguinhos",
+        "description": "Acompanha-nos http://www.os-amiguinhos.com/ https://twitter.com/OsAmiguinhosTV ---- Clique aqui para subescrever.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/KhAfUv3ZbbM/default.jpg",
+            "url": "https://i.ytimg.com/vi/2Vf4VhAGhlY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/KhAfUv3ZbbM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2Vf4VhAGhlY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/KhAfUv3ZbbM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2Vf4VhAGhlY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "TaDaBoom Português",
+        "channelTitle": "Os Amiguinhos",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-03-21T17:39:39Z"
+        "publishTime": "2016-10-14T21:43:41Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "uy0gpOs6aCsaXsSsv9-BcXKgnUc",
+      "etag": "h8mjVl3a9_ULKbs8G8BbhKb47l0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "wH269R2CXE4"
+        "videoId": "tQOaH9GooIo"
       },
       "snippet": {
-        "publishedAt": "2020-05-02T22:54:47Z",
-        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
-        "title": "TaDaBoom Português 🎤💥 LIVE 💥🎤 Coleção de canções de Masha e o Urso 🎵",
-        "description": "Bem-vindo ao canal de TaDaBoom Português - Masha e o Urso Musica no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade ...",
+        "publishedAt": "2020-08-03T20:00:10Z",
+        "channelId": "UCooY3HgjOMWoDpIHMDM4ghQ",
+        "title": "As Melhores e Mais Divertidas Músicas Infantis | O Reino Infantil",
+        "description": "Inscreva-se ▻ http://bit.ly/oreino_Inscrevase Trackist Cinco Patinhos Estás dormindo irmão João? Incy Wincy Aranha Canção dos números O Seu Lobatto tinha ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/wH269R2CXE4/default.jpg",
+            "url": "https://i.ytimg.com/vi/tQOaH9GooIo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/wH269R2CXE4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tQOaH9GooIo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/wH269R2CXE4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tQOaH9GooIo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "TaDaBoom Português",
+        "channelTitle": "O Reino Infantil",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-05-02T22:54:47Z"
+        "publishTime": "2020-08-03T20:00:10Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "i6NhNE7Tbm-l5tTRvt0QCOtwZ_k",
+      "etag": "8cdON-0QJ8bYJwdnHDrJ-YNOHqg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "ZQecKeqACz4"
+        "videoId": "tX9hdbLCwew"
       },
       "snippet": {
-        "publishedAt": "2020-01-16T13:48:21Z",
-        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
-        "title": "TaDaBoom Português 🎤❄️ LIVE ❄️🎤 Coleção de canções de Masha e o Urso 🎵",
-        "description": "Bem-vindo ao canal de TaDaBoom Português - Masha e o Urso Musica no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade ...",
+        "publishedAt": "2020-10-24T12:52:02Z",
+        "channelId": "UCL7jOlb_fr5jNr_YLycovPA",
+        "title": "Bob os vídeos e músicas do trem | Rimas de berçário para crianças | Vídeos de desenho animado",
+        "description": "Bob Train é bem conhecido em terras de rimas. Hoje, neste vídeo, Bob Train nos ensina rima 'Alfabetos Abc' como parte de sua educação pré-escolar.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ZQecKeqACz4/default.jpg",
+            "url": "https://i.ytimg.com/vi/tX9hdbLCwew/default_live.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ZQecKeqACz4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tX9hdbLCwew/mqdefault_live.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ZQecKeqACz4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tX9hdbLCwew/hqdefault_live.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "TaDaBoom Português",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-01-16T13:48:21Z"
+        "channelTitle": "Kids Tv em Português - musica infantil e educação",
+        "liveBroadcastContent": "live",
+        "publishTime": "2020-10-24T12:52:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "XPW_Ws1puTj3XdDLMMwO_9kFD0A",
+      "etag": "wVKAtEZJrxgMWTMa6UI6AUYv3qY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Pt1KeeX_ohY"
+        "videoId": "VkCZ6UUXwEo"
       },
       "snippet": {
-        "publishedAt": "2019-11-10T19:46:01Z",
-        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
-        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2019!",
-        "description": "Os Três Mashqueteiros ⚔️ https://youtu.be/OhOPmlJ1ipo Halloween 2019 https://youtu.be/TuSrOu9i83w Deus Salve A Rainha!",
+        "publishedAt": "2018-03-30T01:21:16Z",
+        "channelId": "UCFxgbdL-FJvlG3xZbClKkZQ",
+        "title": "MÚSICAS INFANTIL PARA FESTA DE CRIANÇA",
+        "description": "MÚSICAS GOSPEL INFANTIL ANIMADAS PARA FESTA DE ANIVERSÁRIO DE CRIANÇAS MÚSICAS PARA LOJA DE ROUPAS / MÚSICAS PARA ESCOLA ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Pt1KeeX_ohY/default.jpg",
+            "url": "https://i.ytimg.com/vi/VkCZ6UUXwEo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Pt1KeeX_ohY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VkCZ6UUXwEo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Pt1KeeX_ohY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VkCZ6UUXwEo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Masha e o Urso",
+        "channelTitle": "Turma Kids e Cia",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-11-10T19:46:01Z"
+        "publishTime": "2018-03-30T01:21:16Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "a8e8rXFpmqLaICNexnQGNVSgLOg",
+      "etag": "9YurRth1jt_DaMFvQ0Tt3lctdxI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "W-l7ywXq9Cs"
+        "videoId": "A-tMGUtzj8s"
       },
       "snippet": {
-        "publishedAt": "2019-06-27T17:37:39Z",
-        "channelId": "UCY90WSTGXGkhZ7ewHQUfodA",
-        "title": "Aprender japonês cantando: música infantil",
-        "description": "Quantas vezes você já pensou que gostaria de aprender japonês mas pensa que não tem tempo para aprender a língua e acaba postergando esse objetivo?",
+        "publishedAt": "2018-09-26T10:54:08Z",
+        "channelId": "UC63c3NhbEzdG6tha4amE3kg",
+        "title": "Eu Entrei na Roda - 35 Minutos de Música Infantil - Canções Populares",
+        "description": "Ai, Eu Entrei Na Roda eu entrei na roda para ver como se dança eu entrei na contra dança eu não sei dançar sete,sete são quatorze com mais sete vinte um ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/W-l7ywXq9Cs/default.jpg",
+            "url": "https://i.ytimg.com/vi/A-tMGUtzj8s/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/W-l7ywXq9Cs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/A-tMGUtzj8s/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/W-l7ywXq9Cs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/A-tMGUtzj8s/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "123 Japonês",
+        "channelTitle": "MundoDasCriancasTV",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-06-27T17:37:39Z"
+        "publishTime": "2018-09-26T10:54:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "WsxUT2dp8zZ-mp6aeb8qHS17ubU",
+      "etag": "wVZZqiwwdfNRXwlV6MBuQ3l9jr4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "OkQcj1M-3zw"
+        "videoId": "YyZPz1yZ3xg"
       },
       "snippet": {
-        "publishedAt": "2019-12-10T19:15:02Z",
-        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
-        "title": "TaDaBoom Português 🎤💥 LIVE 💥🎤 Coleção de canções de Masha e o Urso 🎵",
-        "description": "Bem-vindo ao canal de TaDaBoom Português - Masha e o Urso Musica no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade ...",
+        "publishedAt": "2016-10-25T21:00:03Z",
+        "channelId": "UCXyGbNdywPKSJ88vPKN0vgw",
+        "title": "A Canoa virou + 30 minutos de musica infantil com Os Amiguinhos",
+        "description": "Acompanha-nos http://www.os-amiguinhos.com/ https://twitter.com/OsAmiguinhosTV ---- Clique aqui para subescrever.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/OkQcj1M-3zw/default.jpg",
+            "url": "https://i.ytimg.com/vi/YyZPz1yZ3xg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/OkQcj1M-3zw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YyZPz1yZ3xg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/OkQcj1M-3zw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YyZPz1yZ3xg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "TaDaBoom Português",
+        "channelTitle": "Os Amiguinhos",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-12-10T19:15:02Z"
+        "publishTime": "2016-10-25T21:00:03Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "QlXu0Yx-G-xl-aGo8CSAe2ZLVI8",
+      "etag": "i96mYXC_8Gu9ED5zqkTe3FHM_rk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "7ZTmNjngM3s"
+        "videoId": "4WtpFjzTSgg"
       },
       "snippet": {
-        "publishedAt": "2020-10-04T05:18:43Z",
-        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
-        "title": "🔴 LIVE! TaDaBoom Português 🧸🎈 VAMOS JOGAR! 🎈🧸 Coleção de canções 🎵 Masha e o Urso",
-        "description": "Bem-vindo ao canal de TaDaBoom Português - Masha e o Urso Musica no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade, ...",
+        "publishedAt": "2016-10-29T20:00:04Z",
+        "channelId": "UCXyGbNdywPKSJ88vPKN0vgw",
+        "title": "Borboletinha  + 1 Hora de musica Infantil com Os amiguinhos",
+        "description": "Acompanha-nos http://www.os-amiguinhos.com/ https://twitter.com/OsAmiguinhosTV ---- Clique aqui para subescrever.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/7ZTmNjngM3s/default.jpg",
+            "url": "https://i.ytimg.com/vi/4WtpFjzTSgg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/7ZTmNjngM3s/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4WtpFjzTSgg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/7ZTmNjngM3s/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4WtpFjzTSgg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "TaDaBoom Português",
+        "channelTitle": "Os Amiguinhos",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-04T05:18:43Z"
+        "publishTime": "2016-10-29T20:00:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "B_Or-J5jLw6S36KXedtj8baH734",
+      "etag": "cAqTmUaXfjrkKffSYa9t-qkTPFk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "qdQReO3pNik"
+        "videoId": "cjONzZPJONc"
       },
       "snippet": {
-        "publishedAt": "2020-05-08T20:52:00Z",
+        "publishedAt": "2012-11-26T16:44:04Z",
         "channelId": "UC0cGVh96osM7yqMu0ENSKKQ",
-        "title": "LIVE MUNDO BITA #FICAEMCASA",
-        "description": "O Bita e a Flora se juntam ao cantor e criador do Mundo Bita Chaps Melo nessa live cheia de aprendizados, surpresas e músicas que fazem a cabeça das ...",
+        "title": "Mundo Bita - Fazendinha [clipe infantil]",
+        "description": "Deixa de manha e vem pra cá! Este é um grande clássico do Mundo Bita. A criançada curte e aprende com os animais da fazenda como a vaquinha, a galinha, ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/qdQReO3pNik/default.jpg",
+            "url": "https://i.ytimg.com/vi/cjONzZPJONc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/qdQReO3pNik/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cjONzZPJONc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/qdQReO3pNik/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cjONzZPJONc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "Mundo Bita",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-05-08T20:52:00Z"
+        "publishTime": "2012-11-26T16:44:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "rK_8c0WUod8zsz9-3yilUHr9W8k",
+      "etag": "lQT2kPpf23ehFB60mObMsdVKCWY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "fNUe-fye8xs"
+        "videoId": "MgG13r2fVOw"
       },
       "snippet": {
-        "publishedAt": "2020-01-28T22:24:20Z",
-        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
-        "title": "TaDaBoom Português 🎤❄️ LIVE ❄️🎤 Coleção de canções de Masha e o Urso 🎵",
-        "description": "Bem-vindo ao canal de TaDaBoom Português - Masha e o Urso Musica no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade ...",
+        "publishedAt": "2017-12-15T17:24:46Z",
+        "channelId": "UCZcsG6kUpOLQZZpTMSAernw",
+        "title": "Pula Pipoquinha - Bob Zoom | Video Infantil Musical Oficial",
+        "description": "Pula Pipoquinha - Bob Zoom | Video Infantil Musical Oficial Venha fazer parte da turma do Bob Zoom! Conheça nossos vídeos musicais e divirta-se conosco.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/fNUe-fye8xs/default.jpg",
+            "url": "https://i.ytimg.com/vi/MgG13r2fVOw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/fNUe-fye8xs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MgG13r2fVOw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/fNUe-fye8xs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MgG13r2fVOw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "TaDaBoom Português",
+        "channelTitle": "Bob Zoom",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-01-28T22:24:20Z"
+        "publishTime": "2017-12-15T17:24:46Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "xz9R5OaewHCasm4-4w5zo9oAdjM",
+      "etag": "BXlK-qldFZI6bAFLdNxazqnwoTQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "-7NyP15mkAY"
+        "videoId": "NbFgdEwG-hk"
       },
       "snippet": {
-        "publishedAt": "2019-12-29T22:03:14Z",
-        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
-        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2019!",
-        "description": "Amigos Para Sempre🦄 https://youtu.be/V-V-rCHZj-8 Maravilhas Do Inverno ⛄ https://youtu.be/Hz5sjIMafDc 🤶 Salvando o Natal!",
+        "publishedAt": "2016-08-31T17:36:25Z",
+        "channelId": "UCOD2Fygr_xeVgEawvgi5tIw",
+        "title": "Polegares e Mais Músicas Para Crianças - Músicas Infantis Compiladas - HooplaKidz Brasil",
+        "description": "VENHA SE DIVERTIR COM A GENTE OUVINDO POLEGARES E MUITAS OUTRAS MÚSICAS INFANTIS! Polegares e Mais Músicas Para Crianças - Músicas ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/-7NyP15mkAY/default.jpg",
+            "url": "https://i.ytimg.com/vi/NbFgdEwG-hk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/-7NyP15mkAY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NbFgdEwG-hk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/-7NyP15mkAY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NbFgdEwG-hk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Masha e o Urso",
+        "channelTitle": "HooplaKidz Brasil",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-12-29T22:03:14Z"
+        "publishTime": "2016-08-31T17:36:25Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "S7g4BJ4yzZ7NAkmNQR1_sCj_zG0",
+      "etag": "cvGGG8od5v0AQ65xNXZFTPLFSVc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "MwGo3T1G7w8"
+        "videoId": "Ae1Akw4uIBM"
       },
       "snippet": {
-        "publishedAt": "2019-02-02T21:50:16Z",
-        "channelId": "UCxEmJEJ2O9fyTq-mEhPNntw",
-        "title": "Desenho infantil em português | Transmissão ao vivo novelinha de bonecas",
-        "description": "Desenho infantil em português | Transmissão ao vivo novelinha de bonecas. Nesse vídeo você vai assistir todos os episódios da novelinha de bonecas do ...",
+        "publishedAt": "2018-08-08T13:35:02Z",
+        "channelId": "UC63c3NhbEzdG6tha4amE3kg",
+        "title": "Sapo Cururú - 30 Minutos de Música Infantil - Canções Populares",
+        "description": "Sapo Cururu Na beira do rio Quando o sapo canta, oh maninha É que porque faz frio A mulher do sapo Deve estar tá lá dentro Fazendo rendinha, oh maninha ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/MwGo3T1G7w8/default.jpg",
+            "url": "https://i.ytimg.com/vi/Ae1Akw4uIBM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/MwGo3T1G7w8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ae1Akw4uIBM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/MwGo3T1G7w8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ae1Akw4uIBM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Diver Channel",
+        "channelTitle": "MundoDasCriancasTV",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-02-02T21:50:16Z"
+        "publishTime": "2018-08-08T13:35:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "8n0h_5RMXaaG2ERsfGotQCMrYIs",
+      "etag": "r6zoKrECAadUUxylrsKol_zZg4o",
       "id": {
         "kind": "youtube#video",
-        "videoId": "IVWESu1M_UA"
+        "videoId": "1lOlP1G1u1s"
       },
       "snippet": {
-        "publishedAt": "2017-08-08T21:39:32Z",
-        "channelId": "UCY3zfHNiJwu1AOVRYhB0BIA",
-        "title": "MÚSICAS INFANTIS CRISTÃS 🎶 - Pri Mastrocolla",
-        "description": "Spotify: https://open.spotify.com/user/alokaporgatos/playlist/0r3eMdRlMsLE0BlPg4AslE.",
+        "publishedAt": "2016-07-23T08:39:24Z",
+        "channelId": "UCXyGbNdywPKSJ88vPKN0vgw",
+        "title": "O Sapo Não Lava o Pé  + 30 minutos de musica infantil com Os Amiguinhos",
+        "description": "Acompanha-nos https://www.facebook.com/OsAmiguinhos/ https://twitter.com/OsAmiguinhosTV ---- Clique aqui para subscrever.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/IVWESu1M_UA/default.jpg",
+            "url": "https://i.ytimg.com/vi/1lOlP1G1u1s/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/IVWESu1M_UA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1lOlP1G1u1s/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/IVWESu1M_UA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1lOlP1G1u1s/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Pri Mastrocolla",
+        "channelTitle": "Os Amiguinhos",
         "liveBroadcastContent": "none",
-        "publishTime": "2017-08-08T21:39:32Z"
+        "publishTime": "2016-07-23T08:39:24Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "UfHXE4L4Erb0W5EyKaKozxa2Zwg",
+      "etag": "KQsJ0gSiuOwg4Mjh1c62g1VYCEE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "R3oNMJ7cpfs"
+        "videoId": "qVPofp8vwQI"
       },
       "snippet": {
-        "publishedAt": "2020-05-02T20:14:32Z",
-        "channelId": "UCb08zJgXapidkizIaEN5EfQ",
-        "title": "Live 3 Palavrinhas - Ao Vivo - Sábado - 15 horas - #FiqueEmCasa e Cante #Comigo",
-        "description": "A nossa Live foi demais, amiguinhos! Agradecemos pelo carinho ... nos divertimos muito com vocês! Agora, acompanhem também todas as empresas e ...",
+        "publishedAt": "2016-11-25T23:49:01Z",
+        "channelId": "UCXyGbNdywPKSJ88vPKN0vgw",
+        "title": "Pintinho Amarelinho  + 1 hora de Musica Infantil com os Amiguinhos",
+        "description": "Acompanha-nos http://www.os-amiguinhos.com/ https://twitter.com/OsAmiguinhosTV ---- Clique aqui para subescrever.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/R3oNMJ7cpfs/default.jpg",
+            "url": "https://i.ytimg.com/vi/qVPofp8vwQI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/R3oNMJ7cpfs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qVPofp8vwQI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/R3oNMJ7cpfs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qVPofp8vwQI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "3Palavrinhas",
+        "channelTitle": "Os Amiguinhos",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-05-02T20:14:32Z"
+        "publishTime": "2016-11-25T23:49:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "VjZVlfx7tqQLMsX__psFLCpxFWY",
+      "etag": "fWPHaELU9PsK6C60rQnPU-VNt7w",
       "id": {
         "kind": "youtube#video",
-        "videoId": "vI9aui6r0_Q"
+        "videoId": "2dTjI_zgSzw"
       },
       "snippet": {
-        "publishedAt": "2019-12-16T01:37:15Z",
-        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
-        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2019!",
-        "description": "Amigos Para Sempre🦄 https://youtu.be/V-V-rCHZj-8 Maravilhas Do Inverno ⛄ https://youtu.be/Hz5sjIMafDc 🤶 Salvando o Natal!",
+        "publishedAt": "2019-06-28T20:00:00Z",
+        "channelId": "UCooY3HgjOMWoDpIHMDM4ghQ",
+        "title": "Tubarão Bebê, Cinco Patinhos e Mais Músicas Infantis | O Reino Infantil",
+        "description": "Inscreva-se ▻ http://bit.ly/oreino_Inscrevase Curta O Reino das Crianças no Facebook ▻ http://on.fb.me/1PYCN8t Tubarão Bebê, Cinco Patinhos e Mais ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/vI9aui6r0_Q/default.jpg",
+            "url": "https://i.ytimg.com/vi/2dTjI_zgSzw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/vI9aui6r0_Q/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2dTjI_zgSzw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/vI9aui6r0_Q/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2dTjI_zgSzw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Masha e o Urso",
+        "channelTitle": "O Reino Infantil",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-12-16T01:37:15Z"
+        "publishTime": "2019-06-28T20:00:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "SddhKWkbZYo_1Zs3_x4slknEr4k",
+      "etag": "WyxulNdM5IP1XgIcJ1Nqn60T_VY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "zZfrDflZEiE"
+        "videoId": "b5MGrLavoUs"
       },
       "snippet": {
-        "publishedAt": "2020-04-05T00:27:43Z",
-        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
-        "title": "TaDaBoom Português 🎤💥 LIVE 💥🎤 Coleção de canções de Masha e o Urso 🎵",
-        "description": "Bem-vindo ao canal de TaDaBoom Português - Masha e o Urso Musica no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade ...",
+        "publishedAt": "2020-03-09T20:00:02Z",
+        "channelId": "UCooY3HgjOMWoDpIHMDM4ghQ",
+        "title": "Tubarão Bebê e Mais Músicas Infantis | O Reino Infantil",
+        "description": "Inscreva-se ▻ http://bit.ly/oreino_Inscrevase Tracklist Tubarão Bebê (Baby Shark) Um, Dois, Eu Amarro Meu Sapato Estás Dormindo Irmão João? Perto do Rio ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/zZfrDflZEiE/default.jpg",
+            "url": "https://i.ytimg.com/vi/b5MGrLavoUs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/zZfrDflZEiE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/b5MGrLavoUs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/zZfrDflZEiE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/b5MGrLavoUs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "TaDaBoom Português",
+        "channelTitle": "O Reino Infantil",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-04-05T00:27:43Z"
+        "publishTime": "2020-03-09T20:00:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "yRLliwjMxjWlr0DIczPTVEZCusw",
+      "etag": "E2yeTD-2xWiVnHb3IAcdT8amhzE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Kf_bj-nhjXg"
+        "videoId": "liludY14Lmo"
       },
       "snippet": {
-        "publishedAt": "2020-01-12T22:37:29Z",
-        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
-        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2020!",
-        "description": "TOP 10 https://youtu.be/JhCSfP0sYTg Amigos Para Sempre🦄 https://youtu.be/V-V-rCHZj-8 Maravilhas Do Inverno ⛄ https://youtu.be/Hz5sjIMafDc ...",
+        "publishedAt": "2020-07-03T15:00:19Z",
+        "channelId": "UCWurQSGgLBQU-Lgy4ilu5-g",
+        "title": "Mix Melhores Músicas Infantis Brasileira | músicas para bebês - looloo kıds dublado",
+        "description": "Compilação de desenhos animados de carros em português brasil para pré-escolares. Melhores Músicas Infantil Brasileira | Rimas Pré-escolares Vídeos e ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Kf_bj-nhjXg/default.jpg",
+            "url": "https://i.ytimg.com/vi/liludY14Lmo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Kf_bj-nhjXg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/liludY14Lmo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Kf_bj-nhjXg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/liludY14Lmo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Masha e o Urso",
+        "channelTitle": "LooLoo Kids Português - Músicas Infantis",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-01-12T22:37:29Z"
+        "publishTime": "2020-07-03T15:00:19Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "iwVlAuM-qXuNUXAGV8rpk-GLn1A",
+      "etag": "_IwXMa7hIfhp6vn0DavqPbJRSMw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Ac3xtB3qynQ"
+        "videoId": "oL3bFJ9gbiM"
       },
       "snippet": {
-        "publishedAt": "2018-11-27T00:42:16Z",
-        "channelId": "UCnY02liF-iMzV3ozxQhW8jQ",
-        "title": "Ovos Surpresa | Canções em Português para Crianças | ChuChuTV Brazil Live Stream",
-        "description": "Ovos Surpresa | Canções em Português para Crianças | ChuChuTV Brazil Live Stream.",
+        "publishedAt": "2019-05-12T15:33:57Z",
+        "channelId": "UCAdpXDXkrrYQXFtAbJixRUg",
+        "title": "O Bebê Aprende a Falar! 👩💞👶! | Historinhas e Músicas Infantis | Canal do Joãozinho",
+        "description": "Joãozinho está aprendendo a falar! A mamãe ensina com toda paciência e amor… Mas o que será que o sapequinha vai falar primeiro? #músicainfantil ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Ac3xtB3qynQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/oL3bFJ9gbiM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Ac3xtB3qynQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oL3bFJ9gbiM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Ac3xtB3qynQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oL3bFJ9gbiM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "ChuChuTV Brazil",
+        "channelTitle": "O Canal do Joãozinho - Little Angel Português",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-11-27T00:42:16Z"
+        "publishTime": "2019-05-12T15:33:57Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "hg7VuSzfE-_Gq0fJiJ1k-Ei6leg",
+      "etag": "d88Qe90LyncpdFQwBaVxqJ7XmnM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "UPGeFFU9KD8"
+        "videoId": "qXp2mHqrzlQ"
       },
       "snippet": {
-        "publishedAt": "2020-06-21T23:01:07Z",
-        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
-        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2020!",
-        "description": "Aulas De Direção https://youtu.be/ZFOP-9QN0tE #MashaUrso Bem-vindo ao canal de Masha e o Urso no YouTube Inscrever-se agora! Masha e o Urso lista ...",
+        "publishedAt": "2020-04-13T20:34:12Z",
+        "channelId": "UCooY3HgjOMWoDpIHMDM4ghQ",
+        "title": "Músicas Infantis para Cantar e Dançar | O Reino Infantil",
+        "description": "Inscreva-se ▻ http://bit.ly/oreino_Inscrevase Tracklist Zigalú Tubarão Bebê Cesta, Cestinha A roda do onibus Johny Johny sim Papa Coelhos Dorminhocos ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/UPGeFFU9KD8/default.jpg",
+            "url": "https://i.ytimg.com/vi/qXp2mHqrzlQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/UPGeFFU9KD8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qXp2mHqrzlQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/UPGeFFU9KD8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qXp2mHqrzlQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Masha e o Urso",
+        "channelTitle": "O Reino Infantil",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-06-21T23:01:07Z"
+        "publishTime": "2020-04-13T20:34:12Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "C_hkYBFvvWx1NntnYNWqYOvlhiw",
+      "etag": "cTviDnMxW7cxc3JSELibOJxbzQg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "AeLdEvT3APQ"
+        "videoId": "pI8xZ-gflZg"
       },
       "snippet": {
-        "publishedAt": "2020-05-17T22:09:56Z",
-        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
-        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2020!",
-        "description": "Fique bem! https://youtu.be/ORdP_aVAPq0 Aulas De Direção https://youtu.be/ZFOP-9QN0tE #MashaUrso Bem-vindo ao canal de Masha e o Urso no ...",
+        "publishedAt": "2018-05-10T17:44:21Z",
+        "channelId": "UCphYY8sRngsE4QDjDfd6zcA",
+        "title": "Mix das melhores Músicas Infantis ♫ Para crianças HD ☁️🦁☁️",
+        "description": "Descargar nosso aplicativo para Android: https://play.google.com/store/apps/de... ♫ Visita nossa FanPage: https://www.facebook.com/leaozinho.vo.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/AeLdEvT3APQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/pI8xZ-gflZg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/AeLdEvT3APQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pI8xZ-gflZg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/AeLdEvT3APQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pI8xZ-gflZg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Masha e o Urso",
+        "channelTitle": "Leaozinho Voador",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-05-17T22:09:56Z"
+        "publishTime": "2018-05-10T17:44:21Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "jeonLVTVEEq_hF5ivtMVVhDnl60",
+      "etag": "VddcIvpoM9OIAkLOFDUr4AgAOMY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "zB3KmQBdQz0"
+        "videoId": "8_oeQUHlvqY"
       },
       "snippet": {
-        "publishedAt": "2020-03-24T00:20:12Z",
-        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
-        "title": "ATIVIDADES LÚDICAS PARA FAZER EM CASA",
-        "description": "Link do Material em pdf: https://drive.google.com/file/d/16NaKZBhgXRbBJYCpbenAK3zvDWXvGcwp/view?usp=sharing Links das Músicas utilizadas na aula: A ...",
+        "publishedAt": "2020-02-07T13:03:37Z",
+        "channelId": "UCCIyWuqqJKI9Hoyr0JwwW4w",
+        "title": "A Música dos Dinossauros! | Músicas infantis Aqui Bebês Cantam",
+        "description": "Você vai cantar e amar todos os melhores sons dos animais e as músicas mais divertidas aqui no canal! Venha dançar, cantar, se divertir e fazer o melhor que ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/zB3KmQBdQz0/default.jpg",
+            "url": "https://i.ytimg.com/vi/8_oeQUHlvqY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/zB3KmQBdQz0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8_oeQUHlvqY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/zB3KmQBdQz0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8_oeQUHlvqY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Taise Agostini",
+        "channelTitle": "Aqui Bebês Cantam - All Babies Channel Brasil",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-03-24T00:20:12Z"
+        "publishTime": "2020-02-07T13:03:37Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "J9FRGC9ubafpwXJtvTdsTc3ZhPY",
+      "etag": "wobl7cA0ajh93y2XYRtlwNZwtTA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "BAcnHAZBmOg"
+        "videoId": "Qf9Vno0lOsc"
       },
       "snippet": {
-        "publishedAt": "2020-04-17T13:20:01Z",
-        "channelId": "UCGkLuQt34WUEc2FmHNvgdBQ",
-        "title": "Simon LIVE EPISÓDIO Português Brasileiro - Compilação HD [Oficial]",
-        "description": "YouTube : http://bit.ly/SimonINSCREVER-SE_ @Facebook : https://www.facebook.com/simonsuperrabbit/ @Instagram ...",
+        "publishedAt": "2018-07-20T11:28:27Z",
+        "channelId": "UCARqvdX3eXjz6NbleTMC9pQ",
+        "title": "Papagaio loiro - Musicas infantis - 25 minutos",
+        "description": "Papagaio loiro De bico doirado Leva-me esta carta Ao meu namorado Ele não é frade Nem homem casado É rapaz solteiro Lindo como um cravo Papagaio ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/BAcnHAZBmOg/default.jpg",
+            "url": "https://i.ytimg.com/vi/Qf9Vno0lOsc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/BAcnHAZBmOg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Qf9Vno0lOsc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/BAcnHAZBmOg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Qf9Vno0lOsc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Simon [Português Brasileiro] Oficial",
+        "channelTitle": "BuBU TV PT",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-04-17T13:20:01Z"
+        "publishTime": "2018-07-20T11:28:27Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "tCfk50czYbD0fs-2fz80JSfbsKE",
+      "etag": "J6G1V1-VvT9fsiqtVjKklAqY1Fc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "IHFzcaTfi8M"
+        "videoId": "-CaAW1sZOTE"
       },
       "snippet": {
-        "publishedAt": "2020-06-11T22:37:15Z",
-        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
-        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2020!",
-        "description": "Aulas De Direção https://youtu.be/ZFOP-9QN0tE #MashaUrso Bem-vindo ao canal de Masha e o Urso no YouTube Inscrever-se agora! Masha e o Urso lista ...",
+        "publishedAt": "2020-05-11T20:00:01Z",
+        "channelId": "UCooY3HgjOMWoDpIHMDM4ghQ",
+        "title": "As Melhores Músicas Infantis  | O Reino Infantil",
+        "description": "Inscreva-se ▻ http://bit.ly/oreino_Inscrevase Tracklist Johny Johny sim papa A Roda do Ônibus Cinco Patinhos Tubarão Bebê Dorme Pequeninho Hickory ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/IHFzcaTfi8M/default.jpg",
+            "url": "https://i.ytimg.com/vi/-CaAW1sZOTE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/IHFzcaTfi8M/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-CaAW1sZOTE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/IHFzcaTfi8M/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-CaAW1sZOTE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Masha e o Urso",
+        "channelTitle": "O Reino Infantil",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-06-11T22:37:15Z"
+        "publishTime": "2020-05-11T20:00:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "BoG2Aigue7dqtFoU5CP6pngyyPk",
+      "etag": "tqizfvH3fF-gFDOKD7jvGOTBo1c",
       "id": {
         "kind": "youtube#video",
-        "videoId": "MnG3oumiQgw"
+        "videoId": "zbceK6unBMU"
       },
       "snippet": {
-        "publishedAt": "2020-05-25T13:24:23Z",
-        "channelId": "UCpqDUBzpN78meaFtlqWCAWQ",
-        "title": "🔴 #FiqueEmCasa e Brinque com o FREELY | DESENHOS ANIMADOS EDUCATIVOS para as crianças",
-        "description": "Inscreva-se no canal do Freely para receber novos vídeos: http://bit.ly/Freely_Inscreva-Se ♫ FREELY – APRENDER É MÁGICO tem como propósito ensinar e ...",
+        "publishedAt": "2020-03-07T12:00:11Z",
+        "channelId": "UCVSfuiPlQKVGAYrMp4ToHtg",
+        "title": "Tubarão 123 e mais músicas infantis | + Compilação | Pinkfong Canções para crianças",
+        "description": "FiqueEmCasa #StayHome ❤️Plano semanal para ajudar as crianças a Cantar, Brincar e Aprender em casa! ❤️ Clique no link e obtenha páginas para colorir ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/MnG3oumiQgw/default.jpg",
+            "url": "https://i.ytimg.com/vi/zbceK6unBMU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/MnG3oumiQgw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zbceK6unBMU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/MnG3oumiQgw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zbceK6unBMU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Freely - Aprender é Mágico",
+        "channelTitle": "Pinkfong, Bebê Tubarão! Canções para Crianças",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-05-25T13:24:23Z"
+        "publishTime": "2020-03-07T12:00:11Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "xKHNN2_HuL2MdKeZ7fvk8d_h5O8",
+      "etag": "Z3VrvqnsLuRVpht9TEpOKvG5Od8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Br8QCDFDynE"
+        "videoId": "kxIHffijHiM"
       },
       "snippet": {
-        "publishedAt": "2020-05-24T21:28:23Z",
-        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
-        "title": "Masha e o Urso - ❤️ Episódios favoritos de Masha ❤️",
-        "description": "Um dia com a Masha https://youtu.be/VJVi2YjvOTI 🥨 Doçuras e alegrias https://youtu.be/Tb8V51ERiDo ❤️ O amor é… ❤️ https://youtu.be/zokETZxEOHs ...",
+        "publishedAt": "2019-12-18T12:00:07Z",
+        "channelId": "UCVSfuiPlQKVGAYrMp4ToHtg",
+        "title": "Carro Bebê e mais músicas infantis | + Compilação | Canção Infantis | Pinkfong Canções para crianças",
+        "description": "FiqueEmCasa #StayHome ❤️Plano semanal para ajudar as crianças a Cantar, Brincar e Aprender em casa! ❤️ Clique no link e obtenha páginas para colorir ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Br8QCDFDynE/default.jpg",
+            "url": "https://i.ytimg.com/vi/kxIHffijHiM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Br8QCDFDynE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kxIHffijHiM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Br8QCDFDynE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kxIHffijHiM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Masha e o Urso",
+        "channelTitle": "Pinkfong, Bebê Tubarão! Canções para Crianças",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-05-24T21:28:23Z"
+        "publishTime": "2019-12-18T12:00:07Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "3KUjqGRMaqh_ZQM2aXfHGB_OAjg",
+      "etag": "2cmdBHmRuJaKV_o-AYQiqCEZp2g",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Tl7xm7vQajg"
+        "videoId": "FqQpClemt6A"
       },
       "snippet": {
-        "publishedAt": "2020-05-14T22:37:18Z",
-        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
-        "title": "Masha e o Urso - ⚽  Estilo de vida saudável com a Masha 🏀",
-        "description": "Fique bem! https://youtu.be/ORdP_aVAPq0 Aulas De Direção https://youtu.be/ZFOP-9QN0tE #MashaUrso Bem-vindo ao canal de Masha e o Urso no ...",
+        "publishedAt": "2019-09-25T11:24:16Z",
+        "channelId": "UCOD2Fygr_xeVgEawvgi5tIw",
+        "title": "OS SONS DOS ANIMAIS! Músicas Infantis 🐮 HooplaKidz Brasil",
+        "description": "VENHA APRENDA OS SONS DOS ANIMAIS E MAIS MÚSICAS DIVERTIDAS COM A HOOPLAKIDZ BRASIL! Assista Nossa último Vídeo ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Tl7xm7vQajg/default.jpg",
+            "url": "https://i.ytimg.com/vi/FqQpClemt6A/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Tl7xm7vQajg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FqQpClemt6A/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Tl7xm7vQajg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FqQpClemt6A/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Masha e o Urso",
+        "channelTitle": "HooplaKidz Brasil",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-05-14T22:37:18Z"
+        "publishTime": "2019-09-25T11:24:16Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "sYFLah4bHam0MAzRbY9dOFAfjQk",
+      "etag": "rr9CF2iPwSFAzev3CF9SdCfujRo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "4_tHaohj9b0"
+        "videoId": "d5e07LSvIqo"
       },
       "snippet": {
-        "publishedAt": "2020-05-23T01:59:41Z",
-        "channelId": "UCDIYAmAv7hdouRQqWyB-h2Q",
-        "title": "A Música no processo de desenvolvimento motor infantil",
-        "description": "A Michael e a Allegro Momento vão promover três imperdíveis encontros para falar de música e desenvolvimento infantil, evento 100% ONLINE e GRATUITO.",
+        "publishedAt": "2015-04-16T12:58:49Z",
+        "channelId": "UC63c3NhbEzdG6tha4amE3kg",
+        "title": "A dona Aranha e outras músicas Infantis",
+        "description": "A Dona Aranha 02:00 A roda do ônibus 04:53 Escravos de Jó 05:51 Borboletinha 08:16 Meu lancinho 11:44 O Sapo não lava o pé 14:02 Ursinho Pimpão 16:55 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4_tHaohj9b0/default.jpg",
+            "url": "https://i.ytimg.com/vi/d5e07LSvIqo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4_tHaohj9b0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/d5e07LSvIqo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4_tHaohj9b0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/d5e07LSvIqo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Michael Instrumentos Musicais",
+        "channelTitle": "MundoDasCriancasTV",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-05-23T01:59:41Z"
+        "publishTime": "2015-04-16T12:58:49Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "dqwJV2xViIJpYqv-NwkAuzQ3_tM",
+      "etag": "rgkKUKEhJojIOwn7bO9Ql8rzjmI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "cxYmQmX6rbs"
+        "videoId": "HGpYyWubpng"
       },
       "snippet": {
-        "publishedAt": "2020-05-22T02:16:13Z",
-        "channelId": "UCDIYAmAv7hdouRQqWyB-h2Q",
-        "title": "A Música como estímulo para o desenvolvimento da linguagem infantil",
-        "description": "A Michael e a Allegro Momento vão promover três imperdíveis encontros para falar de música e desenvolvimento infantil, evento 100% ONLINE e GRATUITO.",
+        "publishedAt": "2018-07-13T16:08:03Z",
+        "channelId": "UCARqvdX3eXjz6NbleTMC9pQ",
+        "title": "A machadinha - Musicas infantis - 25 minutos",
+        "description": "A Machadinha Ah, ah, ah, minha machadinha, Ah, ah, ah, minha machadinha, Quem te pôs a mão sabendo que és minha? Quem te pôs a mão sabendo que és ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cxYmQmX6rbs/default.jpg",
+            "url": "https://i.ytimg.com/vi/HGpYyWubpng/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cxYmQmX6rbs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HGpYyWubpng/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cxYmQmX6rbs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HGpYyWubpng/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Michael Instrumentos Musicais",
+        "channelTitle": "BuBU TV PT",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-05-22T02:16:13Z"
+        "publishTime": "2018-07-13T16:08:03Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "yVLJHWXr6kgOexSrUboyBw5jFAk",
+      "etag": "gYeA7JGJVb8bvap1pC3APnnJrWE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "R69pDYCCFZs"
+        "videoId": "sjT-nEwauec"
       },
       "snippet": {
-        "publishedAt": "2020-04-26T15:39:19Z",
-        "channelId": "UC_vLMlX_JkPct41_nHpdw_Q",
-        "title": "LIVE INFANTIL",
-        "description": "",
+        "publishedAt": "2020-06-03T15:00:29Z",
+        "channelId": "UCTnS4SCiHHzy0LZ0iSyRyvQ",
+        "title": "20 MINUTOS DE MUSICAS INFANTIS DO LOPERS E RAFAEL",
+        "description": "Ouça Lopers E Rafael: Spotify: https://spoti.fi/3f1cEKl Deezer: https://n9.cl/deezer Apple Music: https://apple.co/3f63lZR Tidal: Loper E Rafael ©️ 2020 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/R69pDYCCFZs/default.jpg",
+            "url": "https://i.ytimg.com/vi/sjT-nEwauec/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/R69pDYCCFZs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sjT-nEwauec/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/R69pDYCCFZs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sjT-nEwauec/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Igreja Evangélica Assembleia de Deus de Ji-Paraná",
+        "channelTitle": "Lopers e Rafael",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-04-26T15:39:19Z"
+        "publishTime": "2020-06-03T15:00:29Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "l0qiMrucItZizyqhLkaBEZEqxbc",
+      "etag": "O6LmRNi5-KCNz8AO6HUa0BdoANk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "XrnCsOzaCHs"
+        "videoId": "yTyeqijkYXs"
       },
       "snippet": {
-        "publishedAt": "2020-06-06T21:04:56Z",
-        "channelId": "UCK_FvuzJN7rP4k2Ppwnvj5g",
-        "title": "Live infantil",
-        "description": "Nome vídeo Inscreva-se no meu canal: http://bit.ly/AlineBarrosYouTube -- Ouça Álbum Completo [NOME DO ALBÚM] nas Plataformas Digitais: -- LETRA: ...",
+        "publishedAt": "2020-02-15T12:00:18Z",
+        "channelId": "UCVSfuiPlQKVGAYrMp4ToHtg",
+        "title": "Ação Animal e mais músicas infantis | + Compilação | Pinkfong Canções para crianças",
+        "description": "FiqueEmCasa #StayHome ❤️Plano semanal para ajudar as crianças a Cantar, Brincar e Aprender em casa! ❤️ Clique no link e obtenha páginas para colorir ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/XrnCsOzaCHs/default.jpg",
+            "url": "https://i.ytimg.com/vi/yTyeqijkYXs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/XrnCsOzaCHs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yTyeqijkYXs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/XrnCsOzaCHs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yTyeqijkYXs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Aline Barros",
+        "channelTitle": "Pinkfong, Bebê Tubarão! Canções para Crianças",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-06-06T21:04:56Z"
+        "publishTime": "2020-02-15T12:00:18Z"
       }
     }
   ]

@@ -1,1031 +1,1031 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "wq7g3JG3kt1TphKqDX3Fero9w1w",
+  "etag": "uMUwiczY78INOiQwnwR9iVkJydE",
   "nextPageToken": "CB4QAA",
   "regionCode": "BR",
   "pageInfo": {
-    "totalResults": 148211,
+    "totalResults": 1000000,
     "resultsPerPage": 30
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "KCmBT-6djIrfYRnVrfNz-0Hke5A",
+      "etag": "QxswyRH19_4iH5UimSkOMgKThaY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "vXXRZ3fj6Ow"
+        "videoId": "DBAuR19EiuI"
       },
       "snippet": {
-        "publishedAt": "2020-10-07T10:57:41Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "07/10 - 1º ano EF - Língua Portuguesa - Letras do alfabeto",
-        "description": "Kelly Cristina de Souza Barroso Muniz Moraes - Professora de Língua Portuguesa.",
+        "publishedAt": "2018-02-24T14:00:01Z",
+        "channelId": "UCHclrXg11nJf2T1IhF40zaQ",
+        "title": "Aprender o Alfabeto em Português | Como Ensinar as Letras na Educação Infantil | Vídeos Educativos",
+        "description": "Olá, Amiguinhos! Tudo bem com vocês? Neste vídeo animado a gente vai conhecer todas as letras do nosso alfabeto. Além disso, vamos aprender, também, ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/vXXRZ3fj6Ow/default.jpg",
+            "url": "https://i.ytimg.com/vi/DBAuR19EiuI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/vXXRZ3fj6Ow/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DBAuR19EiuI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/vXXRZ3fj6Ow/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DBAuR19EiuI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "Brink & Aprenda",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-07T10:57:41Z"
+        "publishTime": "2018-02-24T14:00:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "53DuzLxGagxqwReGQfYkwiIagmw",
+      "etag": "6z20xRXdp-LWbKxzM2mbG_pQYfE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "dDSa969gvqQ"
+        "videoId": "Er2utOJ_QRI"
       },
       "snippet": {
-        "publishedAt": "2020-10-08T10:57:34Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "08/10 - 1º ano EF - Língua Portuguesa - Alfabeto",
-        "description": "Kelly Cristina de Souza Barroso Muniz Moraes - Professora de Língua Portuguesa Viviane da Costa Batista Pereira - Moderadora CMSP.",
+        "publishedAt": "2016-02-11T14:52:17Z",
+        "channelId": "UCL7jOlb_fr5jNr_YLycovPA",
+        "title": "ABC música | aprender o alfabeto | alfabeto em português para crianças",
+        "description": "abc canção para cantar e aprender em português para crianças de. aprendizagem do alfabeto com a canção cantar e recitar para os seus filhos. Visit our ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/dDSa969gvqQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/Er2utOJ_QRI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/dDSa969gvqQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Er2utOJ_QRI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/dDSa969gvqQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Er2utOJ_QRI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "Kids Tv em Português - musica infantil e educação",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-08T10:57:34Z"
+        "publishTime": "2016-02-11T14:52:17Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "jFLDbsED1FlSCNHT6H8Lf61OXRI",
+      "etag": "QJn1eak1tHW99esb5CWFcFKdNNY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "oSNIcUmXkio"
+        "videoId": "gEaERQlOiAY"
       },
       "snippet": {
-        "publishedAt": "2019-06-26T18:20:44Z",
-        "channelId": "UC53LwjR_dwCDyvXmyK8pO2A",
-        "title": "Francês básico: o alfabeto",
-        "description": "",
+        "publishedAt": "2016-09-19T02:32:14Z",
+        "channelId": "UCCCRheoVjPqlTNtZFMWZhXg",
+        "title": "Aprenda o Alfabeto Cantando A🐝B⚽️C🏠 a Musica do Alfabeto",
+        "description": "Letra da Música: Aprenda o Alfabeto Cantando A  B⚽️C   a Musica do Alfabeto A de Abelha, B de Bola, C de Casa, D de Dado, E de Elefante, F de Faca, G de ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/oSNIcUmXkio/default.jpg",
+            "url": "https://i.ytimg.com/vi/gEaERQlOiAY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/oSNIcUmXkio/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gEaERQlOiAY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/oSNIcUmXkio/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gEaERQlOiAY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "123 Francês",
+        "channelTitle": "Zooimole",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-06-26T18:20:44Z"
+        "publishTime": "2016-09-19T02:32:14Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "_UqSWEoCFvAYF9HOKHqwLINHTYY",
+      "etag": "A-hK3mD8ztZJLt1t9qNtkAEi8Ro",
       "id": {
         "kind": "youtube#video",
-        "videoId": "39zon1DLdyw"
+        "videoId": "RjGuonH01hM"
       },
       "snippet": {
-        "publishedAt": "2020-07-22T08:31:24Z",
-        "channelId": "UCnctqKwYtgKnXnbV4uw466g",
-        "title": "APRENDA O ALFABETO EM PORTUGUÊS",
-        "description": "Na aula ao vivo de hoje vamos aprender o alfabeto em português.",
+        "publishedAt": "2017-11-13T10:00:03Z",
+        "channelId": "UCfQiA455x2qMpnYNyfyYi-w",
+        "title": "música do alfabeto para crianças | crianças músicas portuguesas | ABC Song | Preschool Songs",
+        "description": "canção ABC, canção de ninar para as crianças a aprender e cantar. Esperamos que você goste de assistir a essa rima. Visit our website ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/39zon1DLdyw/default.jpg",
+            "url": "https://i.ytimg.com/vi/RjGuonH01hM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/39zon1DLdyw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RjGuonH01hM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/39zon1DLdyw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RjGuonH01hM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Marcia Cypriano",
+        "channelTitle": "Farmees Português - canção infantil e animação",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-07-22T08:31:24Z"
+        "publishTime": "2017-11-13T10:00:03Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "pC_zFAWmoZGk4qiGloMbqwyjwMg",
+      "etag": "_I14mIDYCpqnX7r1TyUsoaaccIc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "G7ciOUIzypY"
+        "videoId": "j6JTRujqtdM"
       },
       "snippet": {
-        "publishedAt": "2020-09-03T10:57:41Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "03/09 - 1º ano EF - Língua Portuguesa - Diferentes tipos de letras do alfabeto",
-        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa Kelly Cristina de Souza Barroso Muniz Moraes - Moderadora CMSP.",
+        "publishedAt": "2017-11-29T01:59:44Z",
+        "channelId": "UCZ4k4jTFJZw5l19aSZpyTyA",
+        "title": "Alfabeto para crianças Narrado - Aprender o ABC é Divertido",
+        "description": "Aprender as letras do alfabeto é muito divertido. Um vídeo especialmente feito para crianças em fase de alfabetização.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/G7ciOUIzypY/default.jpg",
+            "url": "https://i.ytimg.com/vi/j6JTRujqtdM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/G7ciOUIzypY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/j6JTRujqtdM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/G7ciOUIzypY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/j6JTRujqtdM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "Bambolê",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-09-03T10:57:41Z"
+        "publishTime": "2017-11-29T01:59:44Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ZZlcYu73Syau9hjXgRRJV3pnQTY",
+      "etag": "RHwcopIpvxl_1JfU80RFGmhLAtI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "-_LrNVYe2HM"
+        "videoId": "Gai_qvnCLlk"
       },
       "snippet": {
-        "publishedAt": "2020-10-02T01:26:30Z",
-        "channelId": "UCyLFt2mI7bgRzkCnu5eM0Fw",
-        "title": "Como fazer para a criança aprender as letras",
-        "description": "Hoje é dia de responder a uma das perguntas mais feitas pro Google. Eu não sou o Google, mas também te ajudo muito a encontrar respostas! (risos) - que ...",
+        "publishedAt": "2020-06-08T11:56:48Z",
+        "channelId": "UC2er-0jdBN_TzK6D8q8wM2Q",
+        "title": "Alfabeto Infantil com som dos animais | Alfabeto Completo | ABC Português Infantil | ABC dos animais",
+        "description": "Nesse vídeo vamos aprender o alfabeto infantil com som dos animais Nome e som dos animais de A ao Z ABC Português infantil Alfabeto completo para ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/-_LrNVYe2HM/default.jpg",
+            "url": "https://i.ytimg.com/vi/Gai_qvnCLlk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/-_LrNVYe2HM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Gai_qvnCLlk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/-_LrNVYe2HM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Gai_qvnCLlk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Clarissa Pereira Pedagoga",
+        "channelTitle": "Aprender e Crescer",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-02T01:26:30Z"
+        "publishTime": "2020-06-08T11:56:48Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "3q_l8zxzEhlkc7POdB_JnAglQ7g",
+      "etag": "1-gcB7SVvsy1eVbWBuVgrQ7tfeM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "bW8ZDgGU2Yo"
+        "videoId": "S4ChFeu2q7g"
       },
       "snippet": {
-        "publishedAt": "2019-06-19T14:22:06Z",
-        "channelId": "UCHGsksWULbnSWLnJkkwLVvA",
-        "title": "🔴 COMO é o ALFABETO CHINÊS? | Clube de Chinês",
-        "description": "Nesse aula vamos começar a conhecer o alfabeto chinês! Primeiro, você vai aprender o que é o pinyin: o sistema fonético do chinês! Serão apresentadas as ...",
+        "publishedAt": "2017-02-13T20:00:04Z",
+        "channelId": "UC6eKlmQ1S8ye10rt41K2-7g",
+        "title": "Bob trem alfabeto Aventura | educativo vídeo | Learn Alphabets | Bob Train Alphabet Adventure",
+        "description": "As crianças podem aprender alfabetos de forma divertida e interativa, juntamente com trem bob e se divertir. Visit our website http://www.uspstudios.co/ for more ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/bW8ZDgGU2Yo/default.jpg",
+            "url": "https://i.ytimg.com/vi/S4ChFeu2q7g/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/bW8ZDgGU2Yo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S4ChFeu2q7g/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/bW8ZDgGU2Yo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S4ChFeu2q7g/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Clube de Chinês",
+        "channelTitle": "Bob The Train em Português - canção infantil",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-06-19T14:22:06Z"
+        "publishTime": "2017-02-13T20:00:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "lx3Va0WEwZrOaSdl9RUlIPcuL24",
+      "etag": "4QH4nTMMQS4jqmtublcxN2dYNf8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "sM-N8xXZqT8"
+        "videoId": "sz5HE4zntMc"
       },
       "snippet": {
-        "publishedAt": "2020-10-05T10:57:35Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "05/10 - 1º ano EF - Língua Portuguesa - Bingo de letras",
-        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa.",
+        "publishedAt": "2019-05-08T15:00:13Z",
+        "channelId": "UCYzfXFXFBTdvmt9u4ipUqrQ",
+        "title": "ABC - MÚSICA DO ALFABETO. Canta e aprende com Cleo &amp; Cuquin | Músicas infantis para crianças",
+        "description": "Inscreva-se no canal de Cleo e Cuquin - Música infantil em Português: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/sM-N8xXZqT8/default.jpg",
+            "url": "https://i.ytimg.com/vi/sz5HE4zntMc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/sM-N8xXZqT8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sz5HE4zntMc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/sM-N8xXZqT8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sz5HE4zntMc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "Cleo e Cuquin - Música infantil em Português",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-05T10:57:35Z"
+        "publishTime": "2019-05-08T15:00:13Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "QC6K0DA-w-H-_eWnmNbsBkKdKYI",
+      "etag": "xS6pZkOpC3eveiw-w-NmgwRaMks",
       "id": {
         "kind": "youtube#video",
-        "videoId": "oWxYlnLWsWU"
+        "videoId": "RIedmvDqcQE"
       },
       "snippet": {
-        "publishedAt": "2019-03-23T23:57:35Z",
-        "channelId": "UCj-1K7e84cKQXIt415r9pSQ",
-        "title": "AULÃO - PORTUGUÊS COMEÇANDO DO ZERO..",
-        "description": "https://drive.google.com/file/d/1tFL19IPK7HX_7aGDX8exd2NsEwqFQXLv/view?usp=sharing.",
+        "publishedAt": "2018-02-09T11:55:00Z",
+        "channelId": "UCyTCpuEtLjhnzfNjnPcEz8w",
+        "title": "ENSINANDO O Alfabeto 😃ABC infantil para criançinhas👍👍",
+        "description": "Oi Criançada nesse vídeo vocês vão aprender o alfabeto completo, deixe seu comentário, seu joinha, e ative o sininho para receber novos vídeos e não se ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/oWxYlnLWsWU/default.jpg",
+            "url": "https://i.ytimg.com/vi/RIedmvDqcQE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/oWxYlnLWsWU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RIedmvDqcQE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/oWxYlnLWsWU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RIedmvDqcQE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Gabarito Concursos",
+        "channelTitle": "CRIANÇAS KIDS",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-03-23T23:57:35Z"
+        "publishTime": "2018-02-09T11:55:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "7o8g7FfnJHn2CaP3IWOKhqyzoc8",
+      "etag": "SjiDfIegFAdrlcPsZWRl_OSm35M",
       "id": {
         "kind": "youtube#video",
-        "videoId": "OhKuY8U887s"
+        "videoId": "bcaERJ2VxJw"
       },
       "snippet": {
-        "publishedAt": "2020-07-16T16:10:20Z",
-        "channelId": "UCs3vpdQWaAtmRv7hcNt1jIw",
-        "title": "COMO MELHORAR A PRONÚNCIA DO PORTUGUÊS?#04/20",
-        "description": "INFORMAÇÕES SOBRE O CURSO DE PORTUGUÊS FLUENTI: http://fluenti.com.br/ INSCREVA-SE NO CANAL: http://bit.ly/yOUTUBe FACEBOOK: ...",
+        "publishedAt": "2020-06-24T14:02:17Z",
+        "channelId": "UCA_cNiyHvf-vDOmLwB84kyw",
+        "title": "Aprendendo a ler o alfabeto infantil - letras do alfabeto - Atividades educativas infantil",
+        "description": "Aprendendo a ler as letras do alfabeto facil de aprender com Atividades educativas infantil para as crianças que estão Aprendendo a ler o alfabeto infantil .",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/OhKuY8U887s/default.jpg",
+            "url": "https://i.ytimg.com/vi/bcaERJ2VxJw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/OhKuY8U887s/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bcaERJ2VxJw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/OhKuY8U887s/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bcaERJ2VxJw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Português com Marcia Macedo",
+        "channelTitle": "ABC e Aprender",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-07-16T16:10:20Z"
+        "publishTime": "2020-06-24T14:02:17Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "05FzAwrD0Qwr0C6ADWUPkN9U3jE",
+      "etag": "1Kmdu1SA3J8-WDTLjgyJuF7bcYU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "uwzouA0sjIk"
+        "videoId": "ll7w5NW1bmk"
       },
       "snippet": {
-        "publishedAt": "2020-01-10T15:25:13Z",
-        "channelId": "UCoihrBTsIlpFnTkJFU-kdtQ",
-        "title": "Aulão de Ortografia para concursos - Profº Noslen Borges - AlfaCon",
-        "description": "Fique por dentro de todas as AULAS GRÁTIS que o AlfaCon prepara para você: acesse nossa agenda: http://bit.ly/2BVZiQw #AlfaCon #AulaGratuita Este é O ...",
+        "publishedAt": "2018-05-31T15:44:03Z",
+        "channelId": "UCo_GJ-xMCWCeJ4jrPxcFk_A",
+        "title": "Ensinar o alfabeto - Aprender o alfabeto - vídeo educativo infantil",
+        "description": "Apoie o canal inscreva-se: https://www.youtube.com/channel/UCo_GJ-xMCWCeJ4jrPxcFk_A?sub_confirmation=1 Vamos aprender o alfabeto? Alfabeto ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/uwzouA0sjIk/default.jpg",
+            "url": "https://i.ytimg.com/vi/ll7w5NW1bmk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/uwzouA0sjIk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ll7w5NW1bmk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/uwzouA0sjIk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ll7w5NW1bmk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "AlfaCon Concursos Públicos",
+        "channelTitle": "Ensinando meu filho",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-01-10T15:25:13Z"
+        "publishTime": "2018-05-31T15:44:03Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Arinv_1IGzROFJ4LCXkJ-RmdWUY",
+      "etag": "Zj-NcosMcq06DGKFCzwLmWTDXug",
       "id": {
         "kind": "youtube#video",
-        "videoId": "eRBVO_8lcZk"
+        "videoId": "YTAnjjaeVzU"
       },
       "snippet": {
-        "publishedAt": "2016-02-24T23:35:40Z",
-        "channelId": "UCIMj0dOMA3m2zKbSZrwX-2g",
-        "title": "Fonética e fonologia - Português",
-        "description": "Assista a aula sobre fonética e fonologia com o professor Romulo Bolivar. Faça o download do material da aula no link: http://www.promilitares.com.br/conten...",
+        "publishedAt": "2018-07-05T09:00:02Z",
+        "channelId": "UC0cGVh96osM7yqMu0ENSKKQ",
+        "title": "Mundo Bita - Alfabita [clipe infantil]",
+        "description": "Ideias, emoções, elementos naturais, é só juntar as letrinhas que conseguimos expressar o que a imaginação desejar. O Mundo Bita orgulhosamente ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/eRBVO_8lcZk/default.jpg",
+            "url": "https://i.ytimg.com/vi/YTAnjjaeVzU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/eRBVO_8lcZk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YTAnjjaeVzU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/eRBVO_8lcZk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YTAnjjaeVzU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "ProMilitares",
+        "channelTitle": "Mundo Bita",
         "liveBroadcastContent": "none",
-        "publishTime": "2016-02-24T23:35:40Z"
+        "publishTime": "2018-07-05T09:00:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "EDZQ6yPIY-cONVhOUaRi78tnyhc",
+      "etag": "ONHLymY7mZ61x1N7Ad6MHrAW2mo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "1KqdT6KnEJ8"
+        "videoId": "oJr2qdc1-DA"
       },
       "snippet": {
-        "publishedAt": "2020-10-14T10:57:15Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "14/10 - 1º ano EF - Língua Portuguesa - Parlenda do ABC e descubra as palavras: Parte I",
-        "description": "Kelly Cristina de Souza Barroso Muniz Moraes - Professora de Língua Portuguesa.",
+        "publishedAt": "2018-05-12T15:00:04Z",
+        "channelId": "UCHclrXg11nJf2T1IhF40zaQ",
+        "title": "Música do Alfabeto Infantil (Letras Minúsculas) | Canções Infantis",
+        "description": "Seus filhos gostam do alfabeto? Então, está na hora de aprender as letras minúsculas com a nova versão da nossa canção do ABC! ;) Essa animação é ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/1KqdT6KnEJ8/default.jpg",
+            "url": "https://i.ytimg.com/vi/oJr2qdc1-DA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/1KqdT6KnEJ8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oJr2qdc1-DA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/1KqdT6KnEJ8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oJr2qdc1-DA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "Brink & Aprenda",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-14T10:57:15Z"
+        "publishTime": "2018-05-12T15:00:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "114C95s8f4nnl5G2Lv-9Mn6bwBo",
+      "etag": "yosYNLap98pvBmJCHPxkfvVqgC4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "hMQx4A3aeeI"
+        "videoId": "pcoytu9R9BI"
       },
       "snippet": {
-        "publishedAt": "2020-07-06T10:57:44Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "06/07 - 1º ano EF - Língua Portuguesa - Alfabetização",
-        "description": "Kátia Cristina Kovacs de Faria - Professora de Língua Portuguesa.",
+        "publishedAt": "2020-03-05T17:30:02Z",
+        "channelId": "UCL6K78fBTFzsNzLwHAdaDTA",
+        "title": "Aprenda o Alfabeto com a rima infantil do Cleo e Cuquin - Cocotoons em português",
+        "description": "Inscreva-se no canal de Cocotoons Brasil: https://www.youtube.com/channel/UCL6K78fBTFzsNzLwHAdaDTA/featured?sub_confirmation=1 Os desenhos ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/hMQx4A3aeeI/default.jpg",
+            "url": "https://i.ytimg.com/vi/pcoytu9R9BI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/hMQx4A3aeeI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pcoytu9R9BI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/hMQx4A3aeeI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pcoytu9R9BI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "Cocotoons - Brasil",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-07-06T10:57:44Z"
+        "publishTime": "2020-03-05T17:30:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "NwQBHpIuCWclrK9UDq-DT1gAres",
+      "etag": "tdplOwYpwvtaXDC-XNEuEaTQZ_g",
       "id": {
         "kind": "youtube#video",
-        "videoId": "2YQHgtQ73iw"
+        "videoId": "JNA4-mjSf00"
       },
       "snippet": {
-        "publishedAt": "2020-09-24T10:57:42Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "24/09 - 1º ano EF - Língua Portuguesa - Bingo de letras!",
-        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa Kelly Cristina de Souza Barroso Muniz Moraes - Moderadora CMSP.",
+        "publishedAt": "2017-11-01T19:34:11Z",
+        "channelId": "UCBAb_DK4GYZqZR9MFA7y2Xg",
+        "title": "ABC - Clipe Música Oficial - Galinha Pintadinha DVD 1",
+        "description": "Ouça a Galinha Pintadinha no Spotify: https://open.spotify.com/artist/070CnHC2iZh5oLpyWYPf8h Veja os clipes no Netflix: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/2YQHgtQ73iw/default.jpg",
+            "url": "https://i.ytimg.com/vi/JNA4-mjSf00/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/2YQHgtQ73iw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JNA4-mjSf00/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/2YQHgtQ73iw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JNA4-mjSf00/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "Galinha Pintadinha",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-09-24T10:57:42Z"
+        "publishTime": "2017-11-01T19:34:11Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "UtO5wHqYH30KmmSIRe-dBEdXm40",
+      "etag": "zA6hzzYqmKGguaZLDD8wAOeXJIw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "HKJp3aoHGKc"
+        "videoId": "Bew4usO_eOc"
       },
       "snippet": {
-        "publishedAt": "2020-05-05T01:14:24Z",
-        "channelId": "UCwpEtd9d_4n3sQSDhDvu9jQ",
-        "title": "Minimaratona de Língua Portuguesa - Sidney Martins - Focus Concursos",
-        "description": "Assinatura Focus: Clique neste link e entenda por que os alunos do Focus têm maiores chances de aprovação em concursos públicos.",
+        "publishedAt": "2017-12-23T13:00:01Z",
+        "channelId": "UCHclrXg11nJf2T1IhF40zaQ",
+        "title": "Aprender o Alfabeto Maiúsculo e Minúsculo | Educação Infantil | Vídeo Educativo Infantil  |",
+        "description": "Olá, Amiguinhos! Nesta coletânea de vídeos juntamos os nossos maiores sucessos para você conhecer (e aprender) as letras maiúsculas e minúsculas do ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/HKJp3aoHGKc/default.jpg",
+            "url": "https://i.ytimg.com/vi/Bew4usO_eOc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/HKJp3aoHGKc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bew4usO_eOc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/HKJp3aoHGKc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bew4usO_eOc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Focus Concursos",
+        "channelTitle": "Brink & Aprenda",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-05-05T01:14:24Z"
+        "publishTime": "2017-12-23T13:00:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "bkRKtshpSj4OvznGRmGA-XyxrEM",
+      "etag": "nfMVgjZHrWoN80TETe4i52ZkQD4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "oL1X7G-2pSY"
+        "videoId": "Z405Rf-g7x4"
       },
       "snippet": {
-        "publishedAt": "2020-10-15T11:27:52Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "15/10 - 1º ano EF - Língua Portuguesa - Leitura de cantigas e parlendas",
-        "description": "Kelly Cristina de Souza Barroso Muniz Moraes - Professora de Língua Portuguesa Viviane da Costa Batista Pereira - Moderadora CMSP.",
+        "publishedAt": "2019-01-07T08:30:02Z",
+        "channelId": "UCo_GJ-xMCWCeJ4jrPxcFk_A",
+        "title": "Alfabeto infantil - Aprendendo palavras com as letras do alfabeto - Educativo infantil",
+        "description": "Apoie o canal inscreva-se: https://www.youtube.com/channel/UCo_GJ-xMCWCeJ4jrPxcFk_A?sub_confirmation=1 Aprendendo novas palavras que começam ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/oL1X7G-2pSY/default.jpg",
+            "url": "https://i.ytimg.com/vi/Z405Rf-g7x4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/oL1X7G-2pSY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Z405Rf-g7x4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/oL1X7G-2pSY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Z405Rf-g7x4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "Ensinando meu filho",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-15T11:27:52Z"
+        "publishTime": "2019-01-07T08:30:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "RgD24qEsj7uhNMetfg1vyYfQruA",
+      "etag": "nkR71f_l68rES0ydPNOOY85EJbo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "oVHVGVbhEPg"
+        "videoId": "7pYzfOayCvI"
       },
       "snippet": {
-        "publishedAt": "2020-10-01T10:57:11Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "01/10 - 1º ano EF - Língua Portuguesa - A casinha do conto João e Maria",
-        "description": "Kelly Cristina de Souza Barroso Muniz Moraes - Professora de Língua Portuguesa Viviane da Costa Batista Pereira - Moderadora CMSP.",
+        "publishedAt": "2017-09-15T08:08:46Z",
+        "channelId": "UCrLGxGb8qMPbQtF7GNUVn8Q",
+        "title": "CANÇÃO DO ABC | APRENDENDO O ALFABETO CANTANDO",
+        "description": "Aprendendo o Alfabeto Cantando.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/oVHVGVbhEPg/default.jpg",
+            "url": "https://i.ytimg.com/vi/7pYzfOayCvI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/oVHVGVbhEPg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7pYzfOayCvI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/oVHVGVbhEPg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7pYzfOayCvI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "MUNDO DA CRIANÇA",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-01T10:57:11Z"
+        "publishTime": "2017-09-15T08:08:46Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "77yQ4d9jse1JU6lU03RfoLNWYS8",
+      "etag": "jcvdWZhkiZPnwXJcnKoKb3kXZJQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "_0YtKoRs23Y"
+        "videoId": "i0TlHRXdGng"
       },
       "snippet": {
-        "publishedAt": "2020-10-06T10:57:12Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "06/10 - 1º ano EF - Língua Portuguesa - Brincadeira com parlenda",
-        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa Kelly Cristina de Souza Barroso Muniz Moraes - Moderadora CMSP.",
+        "publishedAt": "2019-09-27T15:42:31Z",
+        "channelId": "UC63c3NhbEzdG6tha4amE3kg",
+        "title": "ABC música - Alfabeto fonético em português para crianças - Aprender o alfabeto",
+        "description": "Aprenda o alfabeto português com esta música divertida! #alfabeto #português #musica infantil.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/_0YtKoRs23Y/default.jpg",
+            "url": "https://i.ytimg.com/vi/i0TlHRXdGng/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/_0YtKoRs23Y/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/i0TlHRXdGng/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/_0YtKoRs23Y/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/i0TlHRXdGng/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "MundoDasCriancasTV",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-06T10:57:12Z"
+        "publishTime": "2019-09-27T15:42:31Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "kMePH4YKMddeZSVGYUZKRPLP27M",
+      "etag": "A--2NDHaujIubOYJga7FJOwlEng",
       "id": {
         "kind": "youtube#video",
-        "videoId": "NKWBtLpz_oc"
+        "videoId": "_zwAMhHao0Q"
       },
       "snippet": {
-        "publishedAt": "2020-04-30T19:39:08Z",
-        "channelId": "UCs3vpdQWaAtmRv7hcNt1jIw",
-        "title": "COMO FALAR PORTUGUÊS COM MAIS SEGURANÇA?",
-        "description": "INFORMAÇÕES SOBRE O CURSO DE PORTUGUÊS FLUENTI: http://fluenti.com.br/ INSCREVA-SE NO CANAL: http://bit.ly/yOUTUBe FACEBOOK: ...",
+        "publishedAt": "2020-02-13T14:45:42Z",
+        "channelId": "UCfwZCL3gq8PaIg_i1VcnocQ",
+        "title": "ABC musica infantil 🔠 Aprendendo o alfabeto em  português - HeyKids",
+        "description": "Música educativa Infantil, com animação 3D: Alfabeto ABC + 26 minutos de músicas para crianças Playlist com musicas infantis ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/NKWBtLpz_oc/default.jpg",
+            "url": "https://i.ytimg.com/vi/_zwAMhHao0Q/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/NKWBtLpz_oc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_zwAMhHao0Q/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/NKWBtLpz_oc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_zwAMhHao0Q/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Português com Marcia Macedo",
+        "channelTitle": "HeyKids - Música Infantil",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-04-30T19:39:08Z"
+        "publishTime": "2020-02-13T14:45:42Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "I7JJfFRfUdaBy9jCUBFbqAn58eg",
+      "etag": "iC4JibcS4H3b7vtE8EV4BMtMDgg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "esFZ3tRMQZs"
+        "videoId": "1dIzh1b9eqQ"
       },
       "snippet": {
-        "publishedAt": "2020-07-13T10:57:24Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "13/07 - 1º ano EF - Língua Portuguesa - Hora da leitura",
-        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa.",
+        "publishedAt": "2017-06-06T00:06:27Z",
+        "channelId": "UCHclrXg11nJf2T1IhF40zaQ",
+        "title": "Aprender o Alfabeto com a PATRULHA CANINA | Melhor Vídeo para Alfabetizar na Educação Infantil",
+        "description": "Quer brincar e aprender ao mesmo tempo? Neste vídeo vamos aprender a soletrar as letras do alfabeto com a ajuda dos filhotes da PATRULHA CANINA.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/esFZ3tRMQZs/default.jpg",
+            "url": "https://i.ytimg.com/vi/1dIzh1b9eqQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/esFZ3tRMQZs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1dIzh1b9eqQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/esFZ3tRMQZs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1dIzh1b9eqQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "Brink & Aprenda",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-07-13T10:57:24Z"
+        "publishTime": "2017-06-06T00:06:27Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "y0j4wCqARwMUD8FOy8xB6T5-T7c",
+      "etag": "PsfaQAIz84FcKFtq9oVoGJVbRo8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "nviktt_7rPA"
+        "videoId": "kdtYfAnS6fg"
       },
       "snippet": {
-        "publishedAt": "2020-09-08T10:58:10Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "08/09 - 1º ano EF - Língua Portuguesa - Produção de escrita",
-        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa Kelly Cristina de Souza Barroso Muniz Moraes - Moderadora CMSP.",
+        "publishedAt": "2020-04-12T22:35:27Z",
+        "channelId": "UC9rmmEZe8ydjCxvns1jysTA",
+        "title": "História do alfabeto - O reino das letras",
+        "description": "O vídeo conta a história de duas fadas: a fada das letras e a fada dos números. Certo dia, as consoantes desobedeceram a fada rosa e foram à festa no castelo ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/nviktt_7rPA/default.jpg",
+            "url": "https://i.ytimg.com/vi/kdtYfAnS6fg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/nviktt_7rPA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kdtYfAnS6fg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/nviktt_7rPA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kdtYfAnS6fg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "Prof Fabíola Dias",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-09-08T10:58:10Z"
+        "publishTime": "2020-04-12T22:35:27Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "EiSEfIvEIiz7rKsi57iSE3A_gnI",
+      "etag": "HaoKflDkqXX5oX21vzmHsWw2NR4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Wgl1cr_B_xE"
+        "videoId": "A9r9rs0RZNA"
       },
       "snippet": {
-        "publishedAt": "2020-06-30T10:57:29Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "30/06 - 1º ano EF - Língua Portuguesa - Recitação",
-        "description": "Joyce Andrade Souza de Aguiar - Professora de Língua Portuguesa.",
+        "publishedAt": "2019-08-25T01:52:15Z",
+        "channelId": "UClymOZVE6usHJyd24rgHzUA",
+        "title": "Alfabeto completo em Português || Aprendendo o ABC com os DESENHOS || Ensinando o ALFABETO",
+        "description": "ALFABETO DOS Alfabeto completo em Português || Aprendendo o ABC com os DESENHOS || Ensinando as letras do ALFABETO para Crianças Aprender o ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Wgl1cr_B_xE/default.jpg",
+            "url": "https://i.ytimg.com/vi/A9r9rs0RZNA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Wgl1cr_B_xE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/A9r9rs0RZNA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Wgl1cr_B_xE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/A9r9rs0RZNA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "Estação Criança - Por Lucimara Maciel",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-06-30T10:57:29Z"
+        "publishTime": "2019-08-25T01:52:15Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "h1ENrc7ZeYx7tyErefboVz0IohQ",
+      "etag": "9EtGmG6bf_tkvwWHT2ELm-j0No0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "oxx30WdZEZo"
+        "videoId": "tOFrQZ4q4r0"
       },
       "snippet": {
-        "publishedAt": "2020-07-22T10:57:50Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "22/07 - 1º ano EF - Língua Portuguesa - Construção do sistema da escrita: Parte I",
-        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa Viviane da Costa Batista Pereira - Moderadora CMSP.",
+        "publishedAt": "2017-12-13T14:16:27Z",
+        "channelId": "UCo_GJ-xMCWCeJ4jrPxcFk_A",
+        "title": "Alfabeto ilustrado - Aprender a ler palavras e o abc.",
+        "description": "Apoie o canal inscreva-se: https://www.youtube.com/channel/UCo_GJ-xMCWCeJ4jrPxcFk_A?sub_confirmation=1 Vamos aprender o alfabeto e as primeiras ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/oxx30WdZEZo/default.jpg",
+            "url": "https://i.ytimg.com/vi/tOFrQZ4q4r0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/oxx30WdZEZo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tOFrQZ4q4r0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/oxx30WdZEZo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tOFrQZ4q4r0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "Ensinando meu filho",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-07-22T10:57:50Z"
+        "publishTime": "2017-12-13T14:16:27Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "LKlIcifxBp-7teRlLWN7jnSWVeI",
+      "etag": "Z4A8PlgTeEzObrQgHI_Cnus9ako",
       "id": {
         "kind": "youtube#video",
-        "videoId": "c28dzm9B-R4"
+        "videoId": "HQgsbujkalw"
       },
       "snippet": {
-        "publishedAt": "2020-09-23T10:57:30Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "23/09 - 1º ano EF - Língua Portuguesa - Análise e reflexão da escrita",
-        "description": "Kelly Cristina de Souza Barroso Muniz Moraes - Professora de Língua Portuguesa Viviane da Costa Batista Pereira - Moderadora CMSP.",
+        "publishedAt": "2020-02-19T19:58:53Z",
+        "channelId": "UC8CEwn2efW6pPuN56ydWq7Q",
+        "title": "10 brincadeiras para ensinar o alfabeto para seu filho 🔤",
+        "description": "Não deixe que seu filho se torne um adulto sem criatividade. Inscreva-se para a Semana da Criatividade do Tempojunto e saiba como estimular correta e ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/c28dzm9B-R4/default.jpg",
+            "url": "https://i.ytimg.com/vi/HQgsbujkalw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/c28dzm9B-R4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HQgsbujkalw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/c28dzm9B-R4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HQgsbujkalw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "Tempojunto",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-09-23T10:57:30Z"
+        "publishTime": "2020-02-19T19:58:53Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "0u7yRRJkk1-rOJxYv4C0y13Hslo",
+      "etag": "tgJO_kJnlsco79Ut9wJIJ8MbM6Q",
       "id": {
         "kind": "youtube#video",
-        "videoId": "VNMBYxiUjoo"
+        "videoId": "Yjnq6Nvhprg"
       },
       "snippet": {
-        "publishedAt": "2020-08-11T10:57:50Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "11/08 - 1º ano EF - Língua Portuguesa - Lista de animais da reunião do zoológico",
-        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa Kelly Cristina de Souza Barroso Muniz Moraes - Moderadora CMSP.",
+        "publishedAt": "2018-07-11T09:45:00Z",
+        "channelId": "UCo_GJ-xMCWCeJ4jrPxcFk_A",
+        "title": "Musica do alfabeto - Canção do ABC - Educativo infantil",
+        "description": "Apoie o canal inscreva-se: https://www.youtube.com/channel/UCo_GJ-xMCWCeJ4jrPxcFk_A?sub_confirmation=1 Neste vídeo vamos aprender a musica do ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/VNMBYxiUjoo/default.jpg",
+            "url": "https://i.ytimg.com/vi/Yjnq6Nvhprg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/VNMBYxiUjoo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Yjnq6Nvhprg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/VNMBYxiUjoo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Yjnq6Nvhprg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "Ensinando meu filho",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-08-11T10:57:50Z"
+        "publishTime": "2018-07-11T09:45:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "9UGg9Uo2H4D4HNTdfKs-SCBvtrc",
+      "etag": "ZYpzlQmvpEMXY0XtpCn3NOouWC4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "jOTgUyKVSik"
+        "videoId": "XLaeyZVpTBg"
       },
       "snippet": {
-        "publishedAt": "2020-09-10T10:58:40Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "10/09 - 1º ano EF - Língua Portuguesa - Diferentes tipos de letras",
-        "description": "Ana Paula Gugelmin - Professora de Língua Portuguesa Kelly Cristina de Souza Barroso Muniz Moraes - Moderadora CMSP.",
+        "publishedAt": "2016-10-05T13:49:00Z",
+        "channelId": "UCC4E7Aq1qE7TlPjHJxn7sfg",
+        "title": "O Alfabeto Vamos Aprender | ABCs | Músicas Educacionais | Desenho Infantil | PlayKids",
+        "description": "Nesse episódio vamos aprender o alfabeto com Junior, seus pais e mais um monte de amigos. Essa história, que vai de A a Z, tem um bocado de coisa ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/jOTgUyKVSik/default.jpg",
+            "url": "https://i.ytimg.com/vi/XLaeyZVpTBg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/jOTgUyKVSik/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XLaeyZVpTBg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/jOTgUyKVSik/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XLaeyZVpTBg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "PlayKids Brasil",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-09-10T10:58:40Z"
+        "publishTime": "2016-10-05T13:49:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "CGCITHJDGI0OZSzHwl9mgrYCegM",
+      "etag": "kf7vcIhxp-ex2PZzdJPYAuGzcgA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "hCtl3kP3BnA"
+        "videoId": "ylP5vEZ43hQ"
       },
       "snippet": {
-        "publishedAt": "2020-06-23T11:01:15Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "23/06 - 1º ano EF - Língua Portuguesa - Recitação",
-        "description": "Joyce Andrade Souza de Aguiar - Professora de Língua Portuguesa Lilian Barboza - Moderadora do CMSP.",
+        "publishedAt": "2016-10-01T14:02:22Z",
+        "channelId": "UCtK643oS4BsoYJPoyxFLC_w",
+        "title": "GUGUDADA - A Festa do Alfabeto | Letras Maiúsculas e Minúsculas (animação infantil)",
+        "description": "Chegou a hora da festa! É a festa das letras maiúsculas e minúsculas!",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/hCtl3kP3BnA/default.jpg",
+            "url": "https://i.ytimg.com/vi/ylP5vEZ43hQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/hCtl3kP3BnA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ylP5vEZ43hQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/hCtl3kP3BnA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ylP5vEZ43hQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "Gugu DadaTV",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-06-23T11:01:15Z"
+        "publishTime": "2016-10-01T14:02:22Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "2F_oTYE1HLLomg-ldtClSiDdcVs",
+      "etag": "3dyIQJ9uGotz7xzcfa-6O-fmphU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "8210tSaLgCw"
+        "videoId": "lGry7XgRX1o"
       },
       "snippet": {
-        "publishedAt": "2020-08-05T15:58:46Z",
-        "channelId": "UCs3vpdQWaAtmRv7hcNt1jIw",
-        "title": "MDS| VIRA-LATA| TENGO SUEÑO? VIU? PROF RESPONDE!!  #18/20",
-        "description": "INSCREVA-SE NO CANAL: http://bit.ly/yOUTUBe FACEBOOK: https://facebook.com/professoramarciamacedo INSTAGRAM: ...",
+        "publishedAt": "2017-03-07T14:04:33Z",
+        "channelId": "UCo_GJ-xMCWCeJ4jrPxcFk_A",
+        "title": "ABC - Alfabeto completo - Video educativo infantil",
+        "description": "Apoie o canal inscreva-se: https://www.youtube.com/channel/UCo_GJ-xMCWCeJ4jrPxcFk_A?sub_confirmation=1 ABC - Alfabeto completo - Video educativo ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/8210tSaLgCw/default.jpg",
+            "url": "https://i.ytimg.com/vi/lGry7XgRX1o/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/8210tSaLgCw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lGry7XgRX1o/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/8210tSaLgCw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lGry7XgRX1o/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Português com Marcia Macedo",
+        "channelTitle": "Ensinando meu filho",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-08-05T15:58:46Z"
+        "publishTime": "2017-03-07T14:04:33Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "gY3hkHUVk7EdAEVQ8c-RfQBjRQw",
+      "etag": "VkYXJ4IMoPdTlXGWVAwKj175tqY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "59iqZzLTk7U"
+        "videoId": "qlgrgtgy3PU"
       },
       "snippet": {
-        "publishedAt": "2019-02-28T16:39:40Z",
-        "channelId": "UChJF0WY5izNn7oBz-yneuCQ",
-        "title": "Aula #1: Das Deutsche Alphabet (O Alfabeto Alemão) - Nível A1",
-        "description": "estudealemãocomigo #aulasdealemão #professoradealemão Este canal tem por objetivo o ensino da língua alemã através de vídeo aulas para falantes do ...",
+        "publishedAt": "2017-09-11T22:00:03Z",
+        "channelId": "UCHclrXg11nJf2T1IhF40zaQ",
+        "title": "Brincando com as Letras do Abecedário | Atividades com Alfabeto na Educação Infantil | Brink&amp;Aprenda",
+        "description": "Quer brincar e aprender ao mesmo tempo? Neste vídeo vamos aprender a soletrar todas as letras do alfabeto! Gostou? Então, inscreva-se no nosso canal pra ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/59iqZzLTk7U/default.jpg",
+            "url": "https://i.ytimg.com/vi/qlgrgtgy3PU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/59iqZzLTk7U/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qlgrgtgy3PU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/59iqZzLTk7U/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qlgrgtgy3PU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Cristiane Heinrichs",
+        "channelTitle": "Brink & Aprenda",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-02-28T16:39:40Z"
+        "publishTime": "2017-09-11T22:00:03Z"
       }
     }
   ]

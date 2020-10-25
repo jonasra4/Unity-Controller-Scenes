@@ -1,1031 +1,1031 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "kAlz7cL-VEoXbmBaI5zlsIgi0oM",
+  "etag": "MVqv0tMXmpAgLIs_4XhtoXQ_7-s",
   "nextPageToken": "CB4QAA",
   "regionCode": "BR",
   "pageInfo": {
-    "totalResults": 313304,
+    "totalResults": 1000000,
     "resultsPerPage": 30
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "KG_2RJ_zDlycVCh8YVCGJ8Lru8o",
+      "etag": "Pt0l7dSVxntj-KvwTMcZT58Wc7o",
       "id": {
         "kind": "youtube#video",
-        "videoId": "ZSpxq3hBr2g"
+        "videoId": "H66tTFTN3ug"
       },
       "snippet": {
-        "publishedAt": "2020-08-26T00:43:21Z",
-        "channelId": "UCyLFt2mI7bgRzkCnu5eM0Fw",
-        "title": "Ensinando os números para crianças",
-        "description": "Como começar a ensinar os números? Basta repetir uma sequência para as crianças? Que estratégias utilizar? Se você quer saber, assista ao vídeo!",
+        "publishedAt": "2016-10-02T13:00:00Z",
+        "channelId": "UCrJiWoyA4TV6b_zdPanB75A",
+        "title": "Ensinando os números para crianças - Teaching numbers in Portuguese",
+        "description": "Olá pessoal, nesse vídeo ensinamos os números em português, mostramos a diferença entre a contagem de substantivos femininos (uma menina, duas ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ZSpxq3hBr2g/default.jpg",
+            "url": "https://i.ytimg.com/vi/H66tTFTN3ug/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ZSpxq3hBr2g/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/H66tTFTN3ug/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ZSpxq3hBr2g/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/H66tTFTN3ug/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Clarissa Pereira Pedagoga",
+        "channelTitle": "Super Jamila Inglês",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-08-26T00:43:21Z"
+        "publishTime": "2016-10-02T13:00:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "jrobOv2YzkGI_Gk6Y1MvCEg5sSg",
+      "etag": "RYFYV0_qfI94NGkFUvwmK7Ng1Mk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "FiNLH7-ZYfw"
+        "videoId": "MipLKD8zXL0"
       },
       "snippet": {
-        "publishedAt": "2018-06-18T15:53:22Z",
-        "channelId": "UCwoEscYbiqMUwjo_LfHSs9Q",
-        "title": "Devocional Infantil - Números 22.36-40",
-        "description": "A Barbara vai ler para as crianças e amigos o devocional que ela sempre faz antes de dormir. Acompanhe. É muito bom que, antes de dormir, as crianças ...",
+        "publishedAt": "2018-09-07T20:30:00Z",
+        "channelId": "UCnC5FEYCvpN_Tq2eOpyg9pw",
+        "title": "MÚSICA DOS NÚMEROS MAIS DIVERTIDA DO MUNDO - CANÇÃO INFANTIL",
+        "description": "Você sabe contar até dez? Então faça isso de maneira divertida! Cante com Aquarela Kids a Música dos Números mais divertida do mundo! Aprenda a contar ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/FiNLH7-ZYfw/default.jpg",
+            "url": "https://i.ytimg.com/vi/MipLKD8zXL0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/FiNLH7-ZYfw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MipLKD8zXL0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/FiNLH7-ZYfw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MipLKD8zXL0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "As Guedes",
+        "channelTitle": "AQUARELA KIDS",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-06-18T15:53:22Z"
+        "publishTime": "2018-09-07T20:30:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "BovEf4kto9G_OUEWKa6qBeiyNmA",
+      "etag": "I0tzHTyfhoO2HteinpLnvX4FybU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "r7pMfc7NHDA"
+        "videoId": "O6uhssemxeg"
       },
       "snippet": {
-        "publishedAt": "2020-06-30T23:55:58Z",
-        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
-        "title": "Live 30/06 - Atividades para aulas on-line e pós-pandemia",
-        "description": "INSCRIÇÕES ABERTAS POR TEMPO LIMITADO PARA O CURSO DE ADAPTAÇÃO INFANTIL NA PRÁTICA https://go.hotmart.com/A17437755R MUSICA ...",
+        "publishedAt": "2017-01-07T15:00:04Z",
+        "channelId": "UCooY3HgjOMWoDpIHMDM4ghQ",
+        "title": "Cantando Os Números - Músicas e Canções para Crianças",
+        "description": "Inscreva-se ▻ http://bit.ly/oreino_Inscrevase Curta O Reino das Crianças no Facebook ▻ http://on.fb.me/1PYCN8t.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/r7pMfc7NHDA/default.jpg",
+            "url": "https://i.ytimg.com/vi/O6uhssemxeg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/r7pMfc7NHDA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O6uhssemxeg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/r7pMfc7NHDA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O6uhssemxeg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Taise Agostini",
+        "channelTitle": "O Reino Infantil",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-06-30T23:55:58Z"
+        "publishTime": "2017-01-07T15:00:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "14h_OcvXBANjSAfJFofS6BnS8Kg",
+      "etag": "CvNM_vUhHkkAsRh23JqHYl1-lHw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "C3esoZOyz1w"
+        "videoId": "99FXHN-3fPg"
       },
       "snippet": {
-        "publishedAt": "2020-04-10T01:07:47Z",
-        "channelId": "UCfa3fDotsisKmBemsDvxR1w",
-        "title": "números de 0 a 10 / representando a quantidade",
-        "description": "Agrupamento 5 A.",
+        "publishedAt": "2016-03-05T19:27:24Z",
+        "channelId": "UC6eKlmQ1S8ye10rt41K2-7g",
+        "title": "Bob o trem número português aventura | aprender os números em português | bob a compilação de trem",
+        "description": "aprender lições pré-escolares com bob o trem de diversão ..",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/C3esoZOyz1w/default.jpg",
+            "url": "https://i.ytimg.com/vi/99FXHN-3fPg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/C3esoZOyz1w/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/99FXHN-3fPg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/C3esoZOyz1w/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/99FXHN-3fPg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Colégio Saber Mais",
+        "channelTitle": "Bob The Train em Português - canção infantil",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-04-10T01:07:47Z"
+        "publishTime": "2016-03-05T19:27:24Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "slRa4rd79__2RJaQ127rSA0ZLvk",
+      "etag": "YscosiYkrbu_2xpnW4PCY-75ZPQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "4mTzN9JSk14"
+        "videoId": "p05PaGx4m3Q"
       },
       "snippet": {
-        "publishedAt": "2020-10-16T05:39:55Z",
-        "channelId": "UCr9C7GJh4e4mduvlzkMvFRg",
-        "title": "Inglês para crianças - Inglês Infantil - NÚMEROS",
-        "description": "Inglês para crianças - Inglês Infantil #inglês #para #crianças #inglêsparacrianças Abaixo temos diversos cursos, saiba mais clicando no link: CURSO Donuts ...",
+        "publishedAt": "2019-04-23T16:00:08Z",
+        "channelId": "UCEnXFTwKRy4zSafAGPkooNA",
+        "title": "🔢Aprendendo OS NÚMEROS em PORTUGUÊS com Pocoyó (1 a 10) 🎓 | Vídeos Educativos para Crianças",
+        "description": "INSCREVA-SE Para Novos Vídeos: https://www.youtube.com/channel/UCEnXFTwKRy4zSafAGPkooNA?sub_confirmation=1 ➜ MAIS Vídeos Educativos Aquí: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4mTzN9JSk14/default.jpg",
+            "url": "https://i.ytimg.com/vi/p05PaGx4m3Q/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4mTzN9JSk14/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/p05PaGx4m3Q/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4mTzN9JSk14/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/p05PaGx4m3Q/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "LAM",
+        "channelTitle": "POCOYO em PORTUGUÊS BRASIL - Canal Oficial",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-16T05:39:55Z"
+        "publishTime": "2019-04-23T16:00:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "MguSLkYNNAR0I4wHZVH5KfS4SJQ",
+      "etag": "d-lf8kPMfFe-5udaGZpNEdiNqY0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "QrFGEN9Kf0w"
+        "videoId": "hAY7P54Q7jY"
       },
       "snippet": {
-        "publishedAt": "2020-02-19T00:27:59Z",
-        "channelId": "UCyLFt2mI7bgRzkCnu5eM0Fw",
-        "title": "Como ensinar a contar os números #9/20",
-        "description": "Você tem alunos que só sabem contar com o auxílio das mãos? Você mesmo precisa dos dedos? Hoje, quero te ensinar estratégias que vão avançar as suas ...",
+        "publishedAt": "2018-10-18T17:30:21Z",
+        "channelId": "UCphYY8sRngsE4QDjDfd6zcA",
+        "title": "Canções de NÚMEROS ♫ Músicas infantis ♫ HD ☁️🦁☁️",
+        "description": "É um compilado divertido de músicas para crianças aprenderem números: 5 Macaquinhos, Dez indiozinhos, Números de 1 a 10, Brincando com a macaquinho, ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/QrFGEN9Kf0w/default.jpg",
+            "url": "https://i.ytimg.com/vi/hAY7P54Q7jY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/QrFGEN9Kf0w/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hAY7P54Q7jY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/QrFGEN9Kf0w/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hAY7P54Q7jY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Clarissa Pereira Pedagoga",
+        "channelTitle": "Leaozinho Voador",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-02-19T00:27:59Z"
+        "publishTime": "2018-10-18T17:30:21Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "IXQflIuiRY6v9tCSgxojDPpQCzk",
+      "etag": "ax0_8U5Any5w7nRJuGIJKeGpSPg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "F-opA8Yl6Ns"
+        "videoId": "P59r2u9mOeA"
       },
       "snippet": {
-        "publishedAt": "2020-10-16T06:06:55Z",
-        "channelId": "UCr9C7GJh4e4mduvlzkMvFRg",
-        "title": "Inglês para crianças - Inglês Infantil - ACERTE OS BALÕES COM NÚMEROS",
-        "description": "Inglês para crianças - Inglês Infantil #inglês #para #crianças #inglêsparacrianças Abaixo temos diversos cursos, saiba mais clicando no link: CURSO Donuts ...",
+        "publishedAt": "2017-11-30T10:00:02Z",
+        "channelId": "UCHclrXg11nJf2T1IhF40zaQ",
+        "title": "Aprender as Letras e os Números na Educação Infantil | Vídeos Educativos para Crianças",
+        "description": "Quer brincar e aprender ao mesmo tempo? Nesta coletânea de vídeos compilamos os nossos maiores sucessos para você conhecer (e aprender) os números ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/F-opA8Yl6Ns/default.jpg",
+            "url": "https://i.ytimg.com/vi/P59r2u9mOeA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/F-opA8Yl6Ns/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/P59r2u9mOeA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/F-opA8Yl6Ns/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/P59r2u9mOeA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "LAM",
+        "channelTitle": "Brink & Aprenda",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-16T06:06:55Z"
+        "publishTime": "2017-11-30T10:00:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "NEdAiIFIMHxGLEQm8OUTlKlQZ4c",
+      "etag": "nxqPztnkZTL_9oUH4q6455y-6SM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "vNGtA6D1gks"
+        "videoId": "pSqnl2eSu9Y"
       },
       "snippet": {
-        "publishedAt": "2020-09-22T13:30:26Z",
-        "channelId": "UCUUEpvwJfOktmiwhc2DIOeA",
-        "title": "22/09 - 2º ano EF - Matemática - Comparar, ordenar e registrar números: Parte II",
-        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa Viviane da Costa Batista Pereira - Moderadora CMSP.",
+        "publishedAt": "2016-03-12T12:00:01Z",
+        "channelId": "UCK1i2UviaXLUNrZlAFpw_jA",
+        "title": "Cantando los Números - Canciones y Clásicos Infantiles",
+        "description": "Suscríbete ▻ http://bit.ly/SuscribeteElReinoInfantil Síguenos/Follow us: Facebook ▻ https://www.facebook.com/ElReinoInfantil Instagram▻ ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/vNGtA6D1gks/default.jpg",
+            "url": "https://i.ytimg.com/vi/pSqnl2eSu9Y/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/vNGtA6D1gks/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pSqnl2eSu9Y/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/vNGtA6D1gks/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pSqnl2eSu9Y/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "2o ano EF - CMSP",
+        "channelTitle": "El Reino Infantil",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-09-22T13:30:26Z"
+        "publishTime": "2016-03-12T12:00:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "PEJnHgH8Oir2EI0Lk2D7NwYO7ks",
+      "etag": "Qa3PHxJ-S0I7VbymsL04x7u3K4o",
       "id": {
         "kind": "youtube#video",
-        "videoId": "NVG6cud-dss"
+        "videoId": "-eJoCYu2NHA"
       },
       "snippet": {
-        "publishedAt": "2018-08-29T15:55:13Z",
-        "channelId": "UCXbpBgQUDi-hwP3-VF3navQ",
-        "title": "Niños Unir los puntos Animales - niños aprenden números y animales en la granja",
-        "description": "Xem tôi chơi Unir Puntos - Animales! Niños Unir los puntos Animales - niños aprenden números y animales en la granja Aprender números y letras con este ...",
+        "publishedAt": "2018-04-03T10:00:01Z",
+        "channelId": "UCnybelbfSEHOI76bVN-nv-g",
+        "title": "números dedo família   desenho animado   Vídeo para crianças   Nursery Rhyme   Number Finger Family",
+        "description": "Ei crianças! Seus amigos da terra das rimas estão de volta com algumas compilações de vídeo mais emocionantes para vocês, crianças pequenas! Estamos ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/NVG6cud-dss/default.jpg",
+            "url": "https://i.ytimg.com/vi/-eJoCYu2NHA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/NVG6cud-dss/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-eJoCYu2NHA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/NVG6cud-dss/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-eJoCYu2NHA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "TE Channel",
+        "channelTitle": "Baby Box Português - Poesia infantil",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-08-29T15:55:13Z"
+        "publishTime": "2018-04-03T10:00:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ukrIIxMJpwJia5WG8mKmtDCYjUQ",
+      "etag": "6smv3N7JUs04JmG5sIwTmlU4KfQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "SGOUeWaExnM"
+        "videoId": "X3OG3R63QKA"
       },
       "snippet": {
-        "publishedAt": "2020-03-28T00:16:50Z",
-        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
-        "title": "CRIANÇA EM CASA, VAMOS APRENDER! Aula interativa ao vivo 4",
-        "description": "A Pulguinha - Palavra Cantada https://youtu.be/v4AcZqDR6BA Grupo Triii - Dedinhos https://youtu.be/fplRBcKqXCM Palavra Cantada | Dá Sua Mão ...",
+        "publishedAt": "2019-06-06T13:00:20Z",
+        "channelId": "UC6eKlmQ1S8ye10rt41K2-7g",
+        "title": "Bob,The Train Número canção | Desenhos animados para crianças | vídeo educativo | Compilação",
+        "description": "Bob,The Train Número canção, vídeos populares para crianças. \"Aprender e cantam 'em\" Português \"de\" Bob o trem \". \"Visit our website ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/SGOUeWaExnM/default.jpg",
+            "url": "https://i.ytimg.com/vi/X3OG3R63QKA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/SGOUeWaExnM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/X3OG3R63QKA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/SGOUeWaExnM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/X3OG3R63QKA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Taise Agostini",
+        "channelTitle": "Bob The Train em Português - canção infantil",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-03-28T00:16:50Z"
+        "publishTime": "2019-06-06T13:00:20Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "oG6sR4UIAnHxRioTHQB2qmDtpas",
+      "etag": "R34JLtH2lABKayrxFo3VvR0Rv7U",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Sg9jgPRTlPc"
+        "videoId": "bbaaI4BMa60"
       },
       "snippet": {
-        "publishedAt": "2018-12-10T22:56:20Z",
-        "channelId": "UC1seW4xOOONEQtorUaZJ63Q",
-        "title": "PRENDO LOS NÚMEROS 🎅 COLOREANDO NÚMEROS DEL 1 AL 10 PARA NIÑOS / PREESCOLAR",
-        "description": "HOY APRENDEMOS LOS NÚMEROS. APRENDEMOS A CONTAR DEL 1 AL 10 Y COLOREAMOS. APRENDEMOS LOS COLORES. Suscribe: ...",
+        "publishedAt": "2019-04-23T08:00:03Z",
+        "channelId": "UCnB5W_ZJgiDFnklejRGADxw",
+        "title": "🔢 POCOYÓ en ESPAÑOL - Aprende LOS NÚMEROS [ 13 min ] | CARICATURAS y DIBUJOS ANIMADOS para niños",
+        "description": "EL SHOW DE POCOYÓ ➜➜ https://youtu.be/BIxwtXo3RPs POCOYÓ LA PELÍCULA ➜ https://youtu.be/2v8qrxyyYGI ❤️ Suscríbete al canal de Pocoyó: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Sg9jgPRTlPc/default.jpg",
+            "url": "https://i.ytimg.com/vi/bbaaI4BMa60/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Sg9jgPRTlPc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bbaaI4BMa60/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Sg9jgPRTlPc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bbaaI4BMa60/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Luna Mia Kids",
+        "channelTitle": "POCOYÓ en ESPAÑOL - Canal Oficial",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-12-10T22:56:20Z"
+        "publishTime": "2019-04-23T08:00:03Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "7o-7MBSqM8NsYfR2ViB8mNrTujQ",
+      "etag": "5E7ruUkAvYzmU4t9OY-jdScDxFw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "rHXmte6al30"
+        "videoId": "JziMDyQd1Ds"
       },
       "snippet": {
-        "publishedAt": "2020-09-23T11:57:36Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "23/09 - 1º ano EF - Matemática - Ler e comparar números",
-        "description": "Viviane da Costa Batista Pereira - Professora de Matemática Kelly Cristina de Souza Barroso Muniz Moraes - Moderadora CMSP.",
+        "publishedAt": "2019-11-28T16:30:01Z",
+        "channelId": "UCCZpm6436NiU__lcBAlEZmQ",
+        "title": "LOS NÚMEROS del 1 al 10 - Canciones de los números - Vídeo educativo para aprender a contar",
+        "description": "Vídeo educativo para niños en el que aprenderán los números del 1 al 10. Los niños aprenderán como se escriben los números, como se pronuncian los ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rHXmte6al30/default.jpg",
+            "url": "https://i.ytimg.com/vi/JziMDyQd1Ds/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rHXmte6al30/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JziMDyQd1Ds/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rHXmte6al30/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JziMDyQd1Ds/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "Smile and Learn - Español",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-09-23T11:57:36Z"
+        "publishTime": "2019-11-28T16:30:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "9r-Ce8EcLuVz4_VxBBgggBQoam4",
+      "etag": "HMWTVkM52tRj5bc3a3w1hmtk5MY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "nbON2T4htlU"
+        "videoId": "zkPCOtPKD2E"
       },
       "snippet": {
-        "publishedAt": "2020-05-19T16:27:43Z",
-        "channelId": "UCeq_SgWZDF8h-ujzwBXI5jQ",
-        "title": "#ProfesMelos, Números de más de seis cifras e invitaciones  - Teleantioquia",
-        "description": "Suscríbete A Nuestro Canal Aquí https://goo.gl/BXYMM7 Hoy en clase de matemáticas aprenderemos sobre números de más de seis cifras y en la clase de ...",
+        "publishedAt": "2018-11-24T18:11:29Z",
+        "channelId": "UCrLGxGb8qMPbQtF7GNUVn8Q",
+        "title": "SUPER NÚMEROS  PARA CRIANÇAS ! APRENDE A CONTAR DE 1 ATÉ 10",
+        "description": "Nunca houve uma maneira tão super interessante e super intrigante de aprender os números para crianças! Jogo para crianças da idade 2-5 é um jogos de ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/nbON2T4htlU/default.jpg",
+            "url": "https://i.ytimg.com/vi/zkPCOtPKD2E/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/nbON2T4htlU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zkPCOtPKD2E/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/nbON2T4htlU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zkPCOtPKD2E/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Teleantioquia",
+        "channelTitle": "MUNDO DA CRIANÇA",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-05-19T16:27:43Z"
+        "publishTime": "2018-11-24T18:11:29Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "rb1TkUDyHLKjuFz-cp9LIufHOiQ",
+      "etag": "eUkMb1A9WM3_LJD0Ry1JEIViqCI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "vXCgW2Ck_Lk"
+        "videoId": "u82pFYPVZb4"
       },
       "snippet": {
-        "publishedAt": "2016-03-26T20:03:59Z",
-        "channelId": "UC14UlmYlSNiQCBe9Eookf_A",
-        "title": "[ESP] Final Torneo MIC 2016 (Alevín): FC Barcelona A - Real Madrid (2-0)",
-        "description": "Partido correspondiente a la gran final de la categoría D del Torneo MIC entre el Alevín A del FC Barcelona y el Real Madrid. ---- FC Barcelona on Social Media ...",
+        "publishedAt": "2020-07-23T10:50:17Z",
+        "channelId": "UCo_GJ-xMCWCeJ4jrPxcFk_A",
+        "title": "Aprendendo os números de 1 até 50. Vídeo educativo infantil",
+        "description": "Apoie o canal inscreva-se: https://www.youtube.com/channel/UCo_GJ-xMCWCeJ4jrPxcFk_A?sub_confirmation=1 Vamos aprender os números de 1 até 50?",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/vXCgW2Ck_Lk/default.jpg",
+            "url": "https://i.ytimg.com/vi/u82pFYPVZb4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/vXCgW2Ck_Lk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/u82pFYPVZb4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/vXCgW2Ck_Lk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/u82pFYPVZb4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "FC Barcelona",
+        "channelTitle": "Ensinando meu filho",
         "liveBroadcastContent": "none",
-        "publishTime": "2016-03-26T20:03:59Z"
+        "publishTime": "2020-07-23T10:50:17Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "S02xnnrC6Nv8DQyLO7rZ1kKgaKk",
+      "etag": "Ct_PIL8pxTLBR5kOS28I4ERKfSs",
       "id": {
         "kind": "youtube#video",
-        "videoId": "LMMUZN0OaEQ"
+        "videoId": "5TAyN7wGdfs"
       },
       "snippet": {
-        "publishedAt": "2020-09-11T02:55:14Z",
-        "channelId": "UCuSo4gcgxJRf4Bzu43wwVyg",
-        "title": "LIVE! Masha y el Oso 👱\u200d♀️🐻 Las mejores canciones infantiles para niños 👶👧",
-        "description": "Masha y el Oso - Todos Los Episodios https://bit.ly/Masha-y-el-Oso-Episodios Masha y el Oso - Compilación https://bit.ly/Masha-y-el-Oso-Compilacion LIVE!",
+        "publishedAt": "2018-10-30T16:30:00Z",
+        "channelId": "UCYKeu41LiJOIoyEkStWqCLw",
+        "title": "Números para crianças - Aprenda a escrever os números",
+        "description": "Hoje vamos aprender a escrever os números. Você não pode perder! Este vídeo forma parte de uma série de vídeos para que as crianças aprendam os ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/LMMUZN0OaEQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/5TAyN7wGdfs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/LMMUZN0OaEQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5TAyN7wGdfs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/LMMUZN0OaEQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5TAyN7wGdfs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Masha y el Oso",
+        "channelTitle": "Smile and Learn - Português",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-09-11T02:55:14Z"
+        "publishTime": "2018-10-30T16:30:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "9bMaIDClcHdWwd36KNHaiWSVdV0",
+      "etag": "IRvasZEx7fPFupKLn-M1E1F-QTQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "2YKEJVHgrPE"
+        "videoId": "9BX6c0vhUSE"
       },
       "snippet": {
-        "publishedAt": "2020-08-10T11:59:45Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "10/08 - 1º ano EF - Matemática - Ler e comparar números",
-        "description": "Viviane da Costa Batista Pereira - Professora de Matemática.",
+        "publishedAt": "2017-07-25T14:39:57Z",
+        "channelId": "UCBbsyG0o_cWlyY46ZRSdYJg",
+        "title": "Los Números del 1 al 10 (Learn Numbers 1 to 10) | Canciones Infantiles en Español | ChuChu TV",
+        "description": "Los Números del 1 al 10 (Learn Numbers 1 to 10) | Canciones Infantiles en Español | ChuChu TV 00:07 Canción de Números 04:29 Canción de Fonética con ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/2YKEJVHgrPE/default.jpg",
+            "url": "https://i.ytimg.com/vi/9BX6c0vhUSE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/2YKEJVHgrPE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9BX6c0vhUSE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/2YKEJVHgrPE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9BX6c0vhUSE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "ChuChuTV Español",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-08-10T11:59:45Z"
+        "publishTime": "2017-07-25T14:39:57Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "jeonLVTVEEq_hF5ivtMVVhDnl60",
+      "etag": "fU1u31eZAcseRucEvJ6pBC2KvFE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "zB3KmQBdQz0"
+        "videoId": "0TijcluqtKI"
       },
       "snippet": {
-        "publishedAt": "2020-03-24T00:20:12Z",
-        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
-        "title": "ATIVIDADES LÚDICAS PARA FAZER EM CASA",
-        "description": "Link do Material em pdf: https://drive.google.com/file/d/16NaKZBhgXRbBJYCpbenAK3zvDWXvGcwp/view?usp=sharing Links das Músicas utilizadas na aula: A ...",
+        "publishedAt": "2018-10-25T19:00:01Z",
+        "channelId": "UCBbsyG0o_cWlyY46ZRSdYJg",
+        "title": "Canción de los Números - Nueva Versión Corta (New Numbers Song) | Canciones infantiles | ChuChu TV",
+        "description": "Canción de los Números - Nueva Versión Corta (New Numbers Song) | Canciones infantiles | ChuChu TV.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/zB3KmQBdQz0/default.jpg",
+            "url": "https://i.ytimg.com/vi/0TijcluqtKI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/zB3KmQBdQz0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0TijcluqtKI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/zB3KmQBdQz0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0TijcluqtKI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Taise Agostini",
+        "channelTitle": "ChuChuTV Español",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-03-24T00:20:12Z"
+        "publishTime": "2018-10-25T19:00:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "8sMmceQh4Zt1UfAX8p5F2tBnw7Y",
+      "etag": "h5qZOMaKe7O4CJYt2nM-MyMJG2U",
       "id": {
         "kind": "youtube#video",
-        "videoId": "fEVxDZdFmUI"
+        "videoId": "kq0kh0XvT9c"
       },
       "snippet": {
-        "publishedAt": "2020-06-08T11:29:30Z",
-        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
-        "title": "08/06 - 1º ano EF - Matemática - Comparando números",
-        "description": "Ana Paula Gugelmin - Professora de Matemática.",
+        "publishedAt": "2017-05-14T14:55:44Z",
+        "channelId": "UCo_GJ-xMCWCeJ4jrPxcFk_A",
+        "title": "Como somar os números - vídeo educativo infantil",
+        "description": "Apoie o canal inscreva-se: https://www.youtube.com/channel/UCo_GJ-xMCWCeJ4jrPxcFk_A?sub_confirmation=1 Como somar os números - vídeo educativo ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/fEVxDZdFmUI/default.jpg",
+            "url": "https://i.ytimg.com/vi/kq0kh0XvT9c/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/fEVxDZdFmUI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kq0kh0XvT9c/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/fEVxDZdFmUI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kq0kh0XvT9c/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "1o ano EF - CMSP",
+        "channelTitle": "Ensinando meu filho",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-06-08T11:29:30Z"
+        "publishTime": "2017-05-14T14:55:44Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "nFRDFCgi6YwdZQs_5iudHewFtxk",
+      "etag": "HFtcDkEmkz_OcpYCW6ecm3hGdhA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "1pFi6UPHSj0"
+        "videoId": "DxIGzsIfvhc"
       },
       "snippet": {
-        "publishedAt": "2020-10-20T14:28:43Z",
-        "channelId": "UCk_RcE3XYJZ0tt3BYslHuRw",
-        "title": "20/10 - 3º ano EF - Matemática - Comparando números",
-        "description": "Viviane da Costa Batista Pereira - Professora de Matemática Kelly Cristina de Souza Barroso Muniz Moraes - Moderadora CMSP.",
+        "publishedAt": "2016-07-12T21:00:00Z",
+        "channelId": "UCrYwqJZ-AnvnyF8vRndgvnA",
+        "title": "Contando del 1 al 20 | Números | PINKFONG Canciones Infantiles",
+        "description": "Suscríbete ahora para ver nuevos videos cada semana! ☆ Baby Shark Official ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/1pFi6UPHSj0/default.jpg",
+            "url": "https://i.ytimg.com/vi/DxIGzsIfvhc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/1pFi6UPHSj0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DxIGzsIfvhc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/1pFi6UPHSj0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DxIGzsIfvhc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "3o ano EF - CMSP",
+        "channelTitle": "Pinkfong! Canciones Infantiles",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-20T14:28:43Z"
+        "publishTime": "2016-07-12T21:00:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "qDa6zuTlxWnfpRwUpbhnd9NWpoc",
+      "etag": "Fi_E3EVcxibQdhzD4XVCrWNErLo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "0zuE2hE3AQs"
+        "videoId": "dln-gD6WdmU"
       },
       "snippet": {
-        "publishedAt": "2020-05-01T23:33:32Z",
-        "channelId": "UC_gV70G_Y51LTa3qhu8KiEA",
-        "title": "LIVE DO LUCCAS NETO: A PEDRA DO PODER SUMIU - Ao Vivo #FiqueEmCasa #Comigo",
-        "description": "Live do Luccas Neto: A PEDRA DO PODER SUMIU!!! Obs.: Este vídeo contém publicidade infantil.",
+        "publishedAt": "2020-07-21T08:25:16Z",
+        "channelId": "UCblqngMKrSjBlOIQv9_sMJQ",
+        "title": "🔢🎶CANCIONES INFANTILES de POCOYÓ - Canción de los números | Caricaturas y dibujos animados",
+        "description": "Suscríbete para nuevos vídeos cada semana: https://www.youtube.com/user/UCblqngMKrSjBlOIQv9_sMJQ?sub_confirmation=1 ➜ MÁS canciones infantiles ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0zuE2hE3AQs/default.jpg",
+            "url": "https://i.ytimg.com/vi/dln-gD6WdmU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0zuE2hE3AQs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dln-gD6WdmU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0zuE2hE3AQs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dln-gD6WdmU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "LUCCAS NETO - LUCCAS TOON",
+        "channelTitle": "Pocoyó - Canciones infantiles",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-05-01T23:33:32Z"
+        "publishTime": "2020-07-21T08:25:16Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "rOT_Y1KMh9PHt852JxnBkOgeDdQ",
+      "etag": "B166adqbZ_x7oajIhajsXtR49uU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "P-mKPv1ZxNI"
+        "videoId": "NH4P2I30QMo"
       },
       "snippet": {
-        "publishedAt": "2020-01-06T00:35:30Z",
-        "channelId": "UCuSo4gcgxJRf4Bzu43wwVyg",
-        "title": "Masha y el Oso - Todos Los Episodios 🎬 Dibujos Animados en Español!",
-        "description": "Las Maravillas Invernales ⛄ https://youtu.be/DOKoB9u2Wk4 Cuando Los Cactus Florecen https://youtu.be/yGe35TjZA7c ¡Todos a bailar!",
+        "publishedAt": "2019-03-14T18:23:19Z",
+        "channelId": "UC2_MKAugZiqZ43fvbyH16Aw",
+        "title": "Aprende los Números con el Ábaco para Niños | Dibujos animados Infantiles para Contar",
+        "description": "Aprende los colores y los números con el ábaco de juguete en 3D de Magic Dibupaint. SUSCRÍBETE Aprende y disfruta dibujando y coloreando con ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/P-mKPv1ZxNI/default.jpg",
+            "url": "https://i.ytimg.com/vi/NH4P2I30QMo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/P-mKPv1ZxNI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NH4P2I30QMo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/P-mKPv1ZxNI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NH4P2I30QMo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Masha y el Oso",
+        "channelTitle": "MAGIC DibuPaint",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-01-06T00:35:30Z"
+        "publishTime": "2019-03-14T18:23:19Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "xsWraE7EMwvDcWrQuD8CoWH2qjQ",
+      "etag": "IHTwoDZLgj11N9uo7f4Upxx4yws",
       "id": {
         "kind": "youtube#video",
-        "videoId": "7j9Ki8MBTqo"
+        "videoId": "wpF2ol3KQvM"
       },
       "snippet": {
-        "publishedAt": "2020-05-17T23:04:12Z",
-        "channelId": "UCuSo4gcgxJRf4Bzu43wwVyg",
-        "title": "Masha y el Oso - Todos Los Episodios 🎬 Dibujos Animados en Español!",
-        "description": "Llegó la Primavera https://youtu.be/opLqfa_IU6k JUGANDO AL GATO Y AL RATÓN https://youtu.be/zpOc4ZigL6o ¡Sorpresa! ¡Sorpresa!",
+        "publishedAt": "2015-08-04T11:30:00Z",
+        "channelId": "UCscIA6WB0CrHlhmD-D7_bSA",
+        "title": "Números para niños en español - Aprender a contar del 1 al 10 con Los Animales del Zoo Lunacreciente",
+        "description": "Música original de Victor y Pablo Escalona copyright ASCAP https://www.facebook.com/LunaMusicVideos Síguenos en Twitter https://twitter.com/lunacreciente ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/7j9Ki8MBTqo/default.jpg",
+            "url": "https://i.ytimg.com/vi/wpF2ol3KQvM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/7j9Ki8MBTqo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wpF2ol3KQvM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/7j9Ki8MBTqo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wpF2ol3KQvM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Masha y el Oso",
+        "channelTitle": "lunacreciente",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-05-17T23:04:12Z"
+        "publishTime": "2015-08-04T11:30:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "qt219x0TqM1pfBWljZa38PBpqfg",
+      "etag": "U6nrSpGodnbqgcivonpc51bc_rM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "oAij6JZFbtI"
+        "videoId": "4NygYKY2KMg"
       },
       "snippet": {
-        "publishedAt": "2018-01-17T21:47:03Z",
-        "channelId": "UCj7emKNt33yP-CttuUifqEg",
-        "title": "Kinder, ayuda para leer y reconocer números",
-        "description": "",
+        "publishedAt": "2019-09-01T18:03:52Z",
+        "channelId": "UCPrJct0R4vW_oCfVAc1wTtA",
+        "title": "Aprende los números para niños del 1 al 10 en español | Tino Juguetes &amp; Niños Caricaturas educativos",
+        "description": "Oigan Chicos! Vean este vídeo educativo de dibujos animados para niños pequeños con un tren de madera llamado Tino y muchas pelotitas divertidas.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/oAij6JZFbtI/default.jpg",
+            "url": "https://i.ytimg.com/vi/4NygYKY2KMg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/oAij6JZFbtI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4NygYKY2KMg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/oAij6JZFbtI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4NygYKY2KMg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "IMtexasteacherstyle",
+        "channelTitle": "Tino - Juguetes y Niños",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-01-17T21:47:03Z"
+        "publishTime": "2019-09-01T18:03:52Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "dMkKLs7LGEgDjSpZEpIp4IQ6O1Q",
+      "etag": "cFdgCF8hECpjOWEIm4Li_kkKQko",
       "id": {
         "kind": "youtube#video",
-        "videoId": "oT97zPevRxE"
+        "videoId": "rFyWqp7izrY"
       },
       "snippet": {
-        "publishedAt": "2019-02-19T18:49:18Z",
-        "channelId": "UCoB7wLA9hJ8-H4ss1KlR_JQ",
-        "title": "MATEMÁTICA E RACIOCÍNIO LÓGICO PARA PM CE : QUIZ DE OPERAÇÕES COM NÚMEROS NATURAIS,INTEIROS E REAIS",
-        "description": "Multistreaming with https://restream.io/ Aprenda Raciocínio lógico e matemático para a PM CE com nosso professor MARCÃO. Nesse quiz mostramos os ...",
+        "publishedAt": "2015-02-15T15:03:20Z",
+        "channelId": "UCW0fLAGU31dyY7PDgjCs0pQ",
+        "title": "Aprendizaje de Números y Palabras | Clase BabyFirst para niños - Volumen 1 | 30 minutos",
+        "description": "Este video incluye canciones alegres que enseñar sobre los números y el alfabeto. Bebés disfrutaran aprendiendo de las formas y el abecedario con nuestros ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/oT97zPevRxE/default.jpg",
+            "url": "https://i.ytimg.com/vi/rFyWqp7izrY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/oT97zPevRxE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rFyWqp7izrY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/oT97zPevRxE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rFyWqp7izrY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Matemática Pra Passar",
+        "channelTitle": "BabyFirst Español",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-02-19T18:49:18Z"
+        "publishTime": "2015-02-15T15:03:20Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "JxB7c1Zcj8RYicnMJdvsmk_JpsM",
+      "etag": "T2_ilxSkyA4yM1RMqtOmerz0Yw0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "RRWDG1GE_T8"
+        "videoId": "E1NdKFebLrk"
       },
       "snippet": {
-        "publishedAt": "2020-10-23T02:45:02Z",
-        "channelId": "UCuSo4gcgxJRf4Bzu43wwVyg",
-        "title": "LIVE! Masha y el Oso 👱\u200d♀️🐻 ¡Canciones para niños y aventuras fantásticas!✨",
-        "description": "Masha y el Oso - Todos Los Episodios https://bit.ly/Masha-y-el-Oso-Episodios Masha y el Oso - Compilación https://bit.ly/Masha-y-el-Oso-Compilacion LIVE!",
+        "publishedAt": "2015-05-28T19:28:23Z",
+        "channelId": "UCp8ErIBI1Tvh86vYEJCHwhA",
+        "title": "Patinho Tuga - Os números [música infantil]",
+        "description": "Clipe educativo e divertido, aprendendo a contar de 1 a 10 com o Patinho Tuga! O clipe é um ensinamento nos diversos lugares aonde os números aparecem.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RRWDG1GE_T8/default.jpg",
+            "url": "https://i.ytimg.com/vi/E1NdKFebLrk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RRWDG1GE_T8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/E1NdKFebLrk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RRWDG1GE_T8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/E1NdKFebLrk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Masha y el Oso",
+        "channelTitle": "Patinho Tuga",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-23T02:45:02Z"
+        "publishTime": "2015-05-28T19:28:23Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "hCWQANDc3JcNmIT9q1JW1gB-QDM",
+      "etag": "W5oOZS686ncT-7huyS878kZ-Im4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "oyTO_EhnqTk"
+        "videoId": "fpYtj3uukAs"
       },
       "snippet": {
-        "publishedAt": "2019-06-20T23:47:44Z",
-        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
-        "title": "AULA INTERATIVA AO VIVO - O QUE É O QUE É JUNINO",
-        "description": "https://go.hotmart.com/T14294372P?dp=1 Clique e adquira o arquivo! --------------------------------------------- Siga-me nas redes sociais: FACEBOOK: ...",
+        "publishedAt": "2017-11-02T03:25:29Z",
+        "channelId": "UCjPuhbrgFxDBbOizjgK2Yug",
+        "title": "🔟LOS NUMEROS PARA NIÑOS DEL 1 AL 10 (UNO AL DIEZ)👧 🧑",
+        "description": "ENSEÑAR A LOS NIÑOS LOS NÚMEROS DEL 1 AL 10 CON SUS PERSONAJES PREFERIDOS DE LAS SERIES DE TV ES LA MEJOR FORMA DE ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/oyTO_EhnqTk/default.jpg",
+            "url": "https://i.ytimg.com/vi/fpYtj3uukAs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/oyTO_EhnqTk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fpYtj3uukAs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/oyTO_EhnqTk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fpYtj3uukAs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Taise Agostini",
+        "channelTitle": "Mills y una Aventura",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-06-20T23:47:44Z"
+        "publishTime": "2017-11-02T03:25:29Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "VjZVlfx7tqQLMsX__psFLCpxFWY",
+      "etag": "ByC7uGZG_l7U8Z2SCMk3U2T40fA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "vI9aui6r0_Q"
+        "videoId": "_rRPmdh8Hdc"
       },
       "snippet": {
-        "publishedAt": "2019-12-16T01:37:15Z",
-        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
-        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2019!",
-        "description": "Amigos Para Sempre🦄 https://youtu.be/V-V-rCHZj-8 Maravilhas Do Inverno ⛄ https://youtu.be/Hz5sjIMafDc 🤶 Salvando o Natal!",
+        "publishedAt": "2017-10-22T11:00:02Z",
+        "channelId": "UCHclrXg11nJf2T1IhF40zaQ",
+        "title": "Aprender a Contar até 20 | Atividades com Números na Educação Infantil | Brink &amp; Aprenda",
+        "description": "Olá, Amiguinhos! Neste vídeo vamos aprender os números... e eu vou ensinar pra vocês como contar de 1 até 20! Gostou? Então, deixe o teu \"joinha\" e ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/vI9aui6r0_Q/default.jpg",
+            "url": "https://i.ytimg.com/vi/_rRPmdh8Hdc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/vI9aui6r0_Q/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_rRPmdh8Hdc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/vI9aui6r0_Q/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_rRPmdh8Hdc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Masha e o Urso",
+        "channelTitle": "Brink & Aprenda",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-12-16T01:37:15Z"
+        "publishTime": "2017-10-22T11:00:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "S3IYfBVLu6IMZrEVpMQLTipP7Vw",
+      "etag": "3IUlspTlGEgwhravI2vuMaH3JDM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "nM1GOtOEKHg"
+        "videoId": "b67Ikok2BYo"
       },
       "snippet": {
-        "publishedAt": "2020-10-16T23:08:11Z",
-        "channelId": "UCLYjo8bfsOSxWvnNVxUNmQw",
-        "title": "Música Infantil com 2 acordes / Live 16/10",
-        "description": "Curso Completo de Violão (Apoio exclusivo comigo via Whatsapp) - https://cursodeviolaoemcasa.com/ WhatsApp: (47)9 8476-4520 Facebook: ...",
+        "publishedAt": "2018-06-12T15:30:35Z",
+        "channelId": "UCSVlkV96xSgv5LBnOiAeytA",
+        "title": "La Canción de los Números del 1 al 10 | Canciones Infantiles | SuperDivertido",
+        "description": "La Canción de los Números del 1 al 10 | Canciones Infantiles | SuperDivertido.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/nM1GOtOEKHg/default.jpg",
+            "url": "https://i.ytimg.com/vi/b67Ikok2BYo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/nM1GOtOEKHg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/b67Ikok2BYo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/nM1GOtOEKHg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/b67Ikok2BYo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Janete Online - Violão para iniciantes",
+        "channelTitle": "SuperDivertido",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-16T23:08:11Z"
+        "publishTime": "2018-06-12T15:30:35Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "wNasfcUI-Bu2Px2VPAvLeK1tFh4",
+      "etag": "qrigh3B7irIbPp-omPxDbb9q_pQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "JKnA1DjDrYA"
+        "videoId": "v2DkcHnTITo"
       },
       "snippet": {
-        "publishedAt": "2018-11-30T17:20:49Z",
-        "channelId": "UCTl91e4cxOjpphrLuNXVQ2A",
-        "title": "Lingokids - Nursery Rhymes &amp; Kids Songs",
-        "description": "SUBSCRIBE for new videos every week!▻ https://www.youtube.com/c/Lingokids?sub_confirmation=1 Download the app for more songs and fun games!",
+        "publishedAt": "2016-10-04T21:00:02Z",
+        "channelId": "UCW0fLAGU31dyY7PDgjCs0pQ",
+        "title": "Los Numeros para bebes | Canciones Infantiles de Números para Niños | Videos Educativos | BabyFirst",
+        "description": "Ayude a sus bebes aprender los numeros por nuestros canciones infantiles de números para niños y otros videos educativos. Toma un tiempo de cantar y ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/JKnA1DjDrYA/default.jpg",
+            "url": "https://i.ytimg.com/vi/v2DkcHnTITo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/JKnA1DjDrYA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/v2DkcHnTITo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/JKnA1DjDrYA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/v2DkcHnTITo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Lingokids - The playlearning app",
+        "channelTitle": "BabyFirst Español",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-11-30T17:20:49Z"
+        "publishTime": "2016-10-04T21:00:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "DGHTTmy_xM_WNNDVpqXQxeN3HBA",
+      "etag": "uk3ZnlZkZzHzTCQXgGk3P45vVwI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "K3DFZ61CJzo"
+        "videoId": "0PDvNCievUM"
       },
       "snippet": {
-        "publishedAt": "2019-05-19T20:06:23Z",
-        "channelId": "UCJAO3KgZdEhCqwpkZyAYY6A",
-        "title": "Crescimento: Números e dados da família Adventista na América do Sul - Comissão Diretiva Plenária #3",
-        "description": "No terceiro dia de atividades da Comissão Diretiva, destacamos os resultados da pesquisa realizada em todos os templos Adventistas na América do Sul, em ...",
+        "publishedAt": "2020-05-13T22:00:10Z",
+        "channelId": "UCZasI9QbgE4_EMDbZn5OA5Q",
+        "title": "NÚMEROS 1 A 100 - CRIANÇAS INTELIGENTES  WhatsApp 11 970676929",
+        "description": "NÚMEROS 1 A 100 - CRIANÇAS INTELIGENTES WhatsApp 11 970676929 Conheça a plataforma www.criancasinteligentes.com.br , com nosso conteúdo ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/K3DFZ61CJzo/default.jpg",
+            "url": "https://i.ytimg.com/vi/0PDvNCievUM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/K3DFZ61CJzo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0PDvNCievUM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/K3DFZ61CJzo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0PDvNCievUM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Adventistas Brasil",
+        "channelTitle": "CRIANÇAS INTELIGENTES",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-05-19T20:06:23Z"
+        "publishTime": "2020-05-13T22:00:10Z"
       }
     }
   ]

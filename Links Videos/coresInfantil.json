@@ -1,1031 +1,1031 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "5MK5oJhxEZw8GzoVQGd0qDcoKTk",
+  "etag": "c46-TPldKsEPAo4Kp_n2KpMKrBI",
   "nextPageToken": "CB4QAA",
   "regionCode": "BR",
   "pageInfo": {
-    "totalResults": 341757,
+    "totalResults": 1000000,
     "resultsPerPage": 30
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "PX6Zlgx3OzCSZ2biu-qhMxRinq8",
+      "etag": "IJoFIDb63eIHufkE4LYkNmcGSxQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "OxuKCElfyM4"
+        "videoId": "FCnetD61G6A"
       },
       "snippet": {
-        "publishedAt": "2018-07-18T22:42:25Z",
-        "channelId": "UCIAGNW3LKOMV5mUV9DM55Ag",
-        "title": "Cores, fontes, formatos e texturas: a importância da materialidade no livro infantil",
-        "description": "A Taba acredita que em um bom livro para infância a materialidade do objeto deve estar a serviço da construção de sentido. Cores, fontes, formatos e texturas ...",
+        "publishedAt": "2017-01-28T19:47:55Z",
+        "channelId": "UCrJiWoyA4TV6b_zdPanB75A",
+        "title": "As cores em português  - Teaching colors in Portuguese",
+        "description": "Olá, nesse vídeo a gente fala sobre as cores em português. Espero que seja útil para vocês.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/OxuKCElfyM4/default.jpg",
+            "url": "https://i.ytimg.com/vi/FCnetD61G6A/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/OxuKCElfyM4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FCnetD61G6A/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/OxuKCElfyM4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FCnetD61G6A/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "A Taba",
+        "channelTitle": "Super Jamila Inglês",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-07-18T22:42:25Z"
+        "publishTime": "2017-01-28T19:47:55Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "AXOK_iljf73rAvQPuSNUyeMSZFQ",
+      "etag": "Le3gTLePT-rnZ5ElV1tv_wk6N30",
       "id": {
         "kind": "youtube#video",
-        "videoId": "E0u2L-cdBzw"
+        "videoId": "VJpE20MrW24"
       },
       "snippet": {
-        "publishedAt": "2020-10-15T11:00:48Z",
-        "channelId": "UC4ialke-fDRabvauZcOLQ0A",
-        "title": "Especial Dia das Crianças - Festas das Cores - Escola Infantil ALFA",
-        "description": "",
+        "publishedAt": "2018-04-23T10:00:05Z",
+        "channelId": "UCYhv5cQYJuFBEjAXSMo9ZlA",
+        "title": "cores canção para crianças | canções para crianças | aprender cores | Colors Song in Portuguese",
+        "description": "cores canção e muito mais das suas músicas favoritas. Esperamos que aproveite esta coleção de animacoes de 3D que fazemos para voces! A coleção de ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/E0u2L-cdBzw/default.jpg",
+            "url": "https://i.ytimg.com/vi/VJpE20MrW24/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/E0u2L-cdBzw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VJpE20MrW24/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/E0u2L-cdBzw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VJpE20MrW24/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Escola Infantil Alfa",
+        "channelTitle": "Little Treehouse Português - Canções dos miúdos",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-15T11:00:48Z"
+        "publishTime": "2018-04-23T10:00:05Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "38rTLK3P48pz66nnvd3DJ2AMLd0",
+      "etag": "fRoEzP0c3ojP_yXG8nq7Bpe9fWQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Jb6Vw6Eb_r8"
+        "videoId": "InZXjBErcug"
       },
       "snippet": {
-        "publishedAt": "2017-02-24T03:21:39Z",
-        "channelId": "UCXZ9FVbtRfwKPr7UDVyEILg",
-        "title": "Paleta de Cores na Decoração de Festa Infantil/Mandy Designer Decoração de Festa",
-        "description": "1° Aula ao Vivo do Ano de 2017 no EVENTO DIA DE FESTA Nessa aula, falo Paleta de Cores na Decoração de Festa Infantil e sua importância. IMPERDÍVEL.",
+        "publishedAt": "2018-03-20T15:26:10Z",
+        "channelId": "UCdt8Maq3DVgcIkE6zgn6iRw",
+        "title": "AS CORES em português para crianças",
+        "description": "Vídeo para ensinar as cores em português para as crianças, enquanto são entretidos com desenhos de personagens, objetos e formas, bem como com ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Jb6Vw6Eb_r8/default.jpg",
+            "url": "https://i.ytimg.com/vi/InZXjBErcug/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Jb6Vw6Eb_r8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/InZXjBErcug/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Jb6Vw6Eb_r8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/InZXjBErcug/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Amanda Nege",
+        "channelTitle": "Baby Nenes",
         "liveBroadcastContent": "none",
-        "publishTime": "2017-02-24T03:21:39Z"
+        "publishTime": "2018-03-20T15:26:10Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ukrIIxMJpwJia5WG8mKmtDCYjUQ",
+      "etag": "BH2McN-7NXzg6eFPEZLvCUtG0AM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "SGOUeWaExnM"
+        "videoId": "vIm-2zjSW14"
       },
       "snippet": {
-        "publishedAt": "2020-03-28T00:16:50Z",
-        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
-        "title": "CRIANÇA EM CASA, VAMOS APRENDER! Aula interativa ao vivo 4",
-        "description": "A Pulguinha - Palavra Cantada https://youtu.be/v4AcZqDR6BA Grupo Triii - Dedinhos https://youtu.be/fplRBcKqXCM Palavra Cantada | Dá Sua Mão ...",
+        "publishedAt": "2020-10-19T07:54:52Z",
+        "channelId": "UC5nrB6LSxXhowk7i2rTgNng",
+        "title": "Video Infantil Educativo | Desenhos Educativos em Português | ovos surpresa | BabyFirst Brasil",
+        "description": "Aprender Formas para Bebes | Ovos Surpresa | Desenhos Educativos | Vídeos para Crianças | Larry o Passarinho | ovos surpresa com músicas | música para ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/SGOUeWaExnM/default.jpg",
+            "url": "https://i.ytimg.com/vi/vIm-2zjSW14/default_live.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/SGOUeWaExnM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vIm-2zjSW14/mqdefault_live.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/SGOUeWaExnM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vIm-2zjSW14/hqdefault_live.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Taise Agostini",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-03-28T00:16:50Z"
+        "channelTitle": "BabyFirst Brasil Vídeos Educativos para crianças",
+        "liveBroadcastContent": "live",
+        "publishTime": "2020-10-19T07:54:52Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "B_Or-J5jLw6S36KXedtj8baH734",
+      "etag": "ZX0BWEFJDc5HLt4AUw_xjIh05J8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "qdQReO3pNik"
+        "videoId": "kygn6QpxlOk"
       },
       "snippet": {
-        "publishedAt": "2020-05-08T20:52:00Z",
+        "publishedAt": "2016-08-02T11:00:02Z",
+        "channelId": "UC8KtrITlYjeAp39WgUqflDA",
+        "title": "Aprender as cores com Dino o Dinossauro, balas e trens |  Desenho Animado Educativo 🎨🦕",
+        "description": "É mais fácil para a criança de aprender as cores com diversão. Aprender com Dino o Dinossauro é um canal para aprender com diversão: aprender as cores ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kygn6QpxlOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kygn6QpxlOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kygn6QpxlOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Aprender com o Dino - Desenhos animados educativos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-02T11:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WpZYzwqIPp7YMSME-Lcb70RAK3Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OKm4G2ziABY"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-08T16:56:50Z",
+        "channelId": "UC-gS5HC3ibMB8ZOeb2F87VA",
+        "title": "APRENDA AS CORES COM AS BOLAS DE FUTEBOL COLORIDAS  | Aprenda Português com OmNom",
+        "description": "Venha aprender se divertindo com a turminha mais legal do pedaço, agora em Português! Conheça todos os personagens e todos os vídeos de OM NOM e ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OKm4G2ziABY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OKm4G2ziABY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OKm4G2ziABY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Aprenda Português com Om Nom",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-08T16:56:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OgROkur9B5zppwGhcAETO3S2xy8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AuRZ3oQ4rEM"
+      },
+      "snippet": {
+        "publishedAt": "2015-04-07T18:33:01Z",
+        "channelId": "UCjT9KdfbeG0hK01XkCTaNTw",
+        "title": "Canção das cores | Video Musical Infantil | Toobys",
+        "description": "Em Toobys estão as melhores canções de ninar. Ensina as cores do arco-íris com esta bela canção. Registre-se: http://bit.ly/1FrTDNL Música: Google Play: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AuRZ3oQ4rEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AuRZ3oQ4rEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AuRZ3oQ4rEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Toobys Portugues",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-04-07T18:33:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HeFFAWctvhVKzKurPcDqvqhT6wI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KCj8BemPjhQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-08T14:00:12Z",
+        "channelId": "UCA_cNiyHvf-vDOmLwB84kyw",
+        "title": "Aprenda as cores em portugues - atividades educativas infantil - Educação infantil",
+        "description": "atividades educação infantil Vamos aprender as cores com vídeo educativo para crianças, aprenda as cores em portugues com atividades educativas simples e ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KCj8BemPjhQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KCj8BemPjhQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KCj8BemPjhQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ABC e Aprender",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-08T14:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KQUQIheykMFJ5Vbga5IBRXeHjA0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EW1Is3BVp5U"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-05T09:00:04Z",
         "channelId": "UC0cGVh96osM7yqMu0ENSKKQ",
-        "title": "LIVE MUNDO BITA #FICAEMCASA",
-        "description": "O Bita e a Flora se juntam ao cantor e criador do Mundo Bita Chaps Melo nessa live cheia de aprendizados, surpresas e músicas que fazem a cabeça das ...",
+        "title": "Mundo Bita - Magia das Cores [clipe infantil]",
+        "description": "Qual a sua cor preferida? Quais os significados e representações? O amor e a alegria preenchem a vida com novos tons e, através da música, o Bita, a Lila, ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/qdQReO3pNik/default.jpg",
+            "url": "https://i.ytimg.com/vi/EW1Is3BVp5U/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/qdQReO3pNik/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EW1Is3BVp5U/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/qdQReO3pNik/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EW1Is3BVp5U/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "Mundo Bita",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-05-08T20:52:00Z"
+        "publishTime": "2018-10-05T09:00:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "K4hCim4Fbuc6yofa_P8Nh5cOyXM",
+      "etag": "EyHIpErP0JcYvZL0a6Qd6xKIzSk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "bexkRdqT75g"
+        "videoId": "A2C9PgkzfIg"
       },
       "snippet": {
-        "publishedAt": "2018-07-28T16:36:56Z",
-        "channelId": "UCunquXfeW5gyoYH2Rh7MAkg",
-        "title": "Infantil No Atacado Com Escolha De Estampa, Cor, Tamanho..",
-        "description": "Demonstração de peças de verão,meia estação é inverno Réplicas de primeira linha Compras pelo site www.marikids.com.br Pedido mínimo em compras de ...",
+        "publishedAt": "2016-11-25T10:00:00Z",
+        "channelId": "UCBt_n5Sxs7PwBHwGkSrIh7g",
+        "title": "TuTiTu Pré-escolar | Aprender de cores em Inglês para Crianças | máquina de balão",
+        "description": "TuTiTu Pré-escola é uma série para crianças que estão dando os primeiros passos no mundo dos números, das letras, formas e cores na língua inglesa.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/bexkRdqT75g/default.jpg",
+            "url": "https://i.ytimg.com/vi/A2C9PgkzfIg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/bexkRdqT75g/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/A2C9PgkzfIg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/bexkRdqT75g/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/A2C9PgkzfIg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Atacado infantil Mari kids",
+        "channelTitle": "TuTiTu português",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-07-28T16:36:56Z"
+        "publishTime": "2016-11-25T10:00:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "HEs-0ju6vVaMBPj0MeWIZwS8FIc",
+      "etag": "JQtLoNG2oKoCgcQUmuVz33dKl_w",
       "id": {
         "kind": "youtube#video",
-        "videoId": "MWwhTnJXmMQ"
+        "videoId": "LhvPK68mlRo"
       },
       "snippet": {
-        "publishedAt": "2019-11-15T00:48:38Z",
-        "channelId": "UCS-6NqQawUDvYTiF2UsK_MQ",
-        "title": "[AULÃO DE QUINTA] ANÁLISE DO DESENHO INFANTIL, PERGUNTAS E RESPOSTAS",
-        "description": "O Aulão de Quinta é um projeto pessoal, onde eu compartilho meus aprendizados sobre psicopedagogia, educação, aprendizagem e desenvolvimento com o ...",
+        "publishedAt": "2018-05-09T23:30:02Z",
+        "channelId": "UC5nrB6LSxXhowk7i2rTgNng",
+        "title": "Desenhos Educativos Para Crianças  | Aprenda Cores | Videos Educativos Infantil 2 Anos | BabyFirst",
+        "description": "Inscreva-se no canal do Youtube BABYFIRSTTV para mais vídeos! *** Espero que você tenha gostado desse episódio da BabyFirstTV! Junte-se à BabyFirstTV ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/MWwhTnJXmMQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/LhvPK68mlRo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/MWwhTnJXmMQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LhvPK68mlRo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/MWwhTnJXmMQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LhvPK68mlRo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Tatiane Castro Psicopedagoga",
+        "channelTitle": "BabyFirst Brasil Vídeos Educativos para crianças",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-11-15T00:48:38Z"
+        "publishTime": "2018-05-09T23:30:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "HW-cpwDKgHk2PZtkUYXckdDUqQ4",
+      "etag": "wFydKKo85D-YP-5TIZ2JBDtCSog",
       "id": {
         "kind": "youtube#video",
-        "videoId": "uwuABPiad8s"
+        "videoId": "ulhi5SLq34E"
       },
       "snippet": {
-        "publishedAt": "2020-10-19T23:55:37Z",
-        "channelId": "UCpqDUBzpN78meaFtlqWCAWQ",
-        "title": "🔴 Vamos Brincar e Aprender com o FREELY | Desenhos Educativos para Crianças",
-        "description": "Inscreva-se no canal do Freely para receber novos vídeos: http://bit.ly/Freely_Inscreva-Se Vamos aprender e brincar juntos! ♫ FREELY – APRENDER É ...",
+        "publishedAt": "2017-06-07T16:43:49Z",
+        "channelId": "UCOD2Fygr_xeVgEawvgi5tIw",
+        "title": "NOVO Família dos Dedos do Balões - Músicas Infantis Compiladas - HooplaKidz Brasil",
+        "description": "NOVO Família dos Dedos do Balões - Músicas Infantis Compiladas - Hooplakidz Brasil VENHA SE DIVERTIR COM A FAMÍLIA DOS DEDOS DOS BALÕES!",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/uwuABPiad8s/default.jpg",
+            "url": "https://i.ytimg.com/vi/ulhi5SLq34E/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/uwuABPiad8s/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ulhi5SLq34E/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/uwuABPiad8s/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ulhi5SLq34E/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Freely - Aprender é Mágico",
+        "channelTitle": "HooplaKidz Brasil",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-19T23:55:37Z"
+        "publishTime": "2017-06-07T16:43:49Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "bCu0zpfchocxMnQ4WwCUVW_RClw",
+      "etag": "ZHScVm_QQyN_HAXZtSHbfKL4lr8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "nHFLKlMFIqg"
+        "videoId": "_RG-XDQg64U"
       },
       "snippet": {
-        "publishedAt": "2018-12-12T00:23:27Z",
-        "channelId": "UCgfgPyU5Vc4s1tyBSM6CCvw",
-        "title": "Como Escolher/Fazer Brinquedos que estimulem o Desenvolvimento Infantil",
-        "description": "Conheça meu livro: Aprendendo a Falar: do \"gugu-dadá\" ao \"mamãe, me dá\": ...",
+        "publishedAt": "2013-08-31T01:52:44Z",
+        "channelId": "UCtK643oS4BsoYJPoyxFLC_w",
+        "title": "GUGUDADA - A Música das Cores (animação infantil)",
+        "description": "BAIXE NOSSO APLICATIVO PARA IPHONE, IPAD E IPOD NA APPSTORE**: https://itunes.apple.com/br/app/dudu-dada-tv/id1063394683?mt=8 **BAIXE AS ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/nHFLKlMFIqg/default.jpg",
+            "url": "https://i.ytimg.com/vi/_RG-XDQg64U/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/nHFLKlMFIqg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_RG-XDQg64U/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/nHFLKlMFIqg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_RG-XDQg64U/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Fala Fono por Juliana Trentini",
+        "channelTitle": "Gugu DadaTV",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-12-12T00:23:27Z"
+        "publishTime": "2013-08-31T01:52:44Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "GK-vu8KLrzdenxnXJuP8xZaoZ4s",
+      "etag": "puecGVc7xgAEfEE89-xHiwkHcjA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "TW93TBGaKWQ"
+        "videoId": "ZL9pTiY1RPg"
       },
       "snippet": {
-        "publishedAt": "2019-05-15T23:57:43Z",
-        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
-        "title": "DOCE SURPRESA! ATIVIDADES DE ALFABETIZAÇÃO",
-        "description": "PEM - Programa de Estimulação Motora - COM TAISE AGOSTINI https://hotm.art/ProgramaEstimular-TaiseAgostini -------------------------------------- Siga-me nas ...",
+        "publishedAt": "2018-02-24T14:30:01Z",
+        "channelId": "UCeVpY5P9nvQavvVMaGadIyg",
+        "title": "Bento e Totó - O Patinho Colorido (Desenho Infantil)",
+        "description": "Bento e Totó - O Patinho Colorido Oferecimento: BMart Conheça os endereços das Lojas em http://www.bmart.com.br Inscreva-se no nosso canal e clique no ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/TW93TBGaKWQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/ZL9pTiY1RPg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/TW93TBGaKWQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZL9pTiY1RPg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/TW93TBGaKWQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZL9pTiY1RPg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Taise Agostini",
+        "channelTitle": "Bento e Totó",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-05-15T23:57:43Z"
+        "publishTime": "2018-02-24T14:30:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "EX_4Ng-pr4SwEVbelBBZoxZ6VZc",
+      "etag": "BI6FB_kW83wjW5Bx3xYrCPFpv-A",
       "id": {
         "kind": "youtube#video",
-        "videoId": "7qrMKCOUJIE"
+        "videoId": "g-HEhUf_5wo"
       },
       "snippet": {
-        "publishedAt": "2019-05-31T00:19:46Z",
-        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
-        "title": "AULA INTERATIVA - ATIVIDADES DE ATENÇÃO E CONCENTRAÇÃO",
-        "description": "Faça já sua inscrição no PEM - Programa de Estimulação Motora https://hotm.art/ProgramaEstimular-TaiseAgostini ------------------------------------- Aula ao vivo ...",
+        "publishedAt": "2019-05-10T20:06:26Z",
+        "channelId": "UCaJmr6heJHK9sKJt_aTtv_Q",
+        "title": "Meninos de Todas as Cores - História Contada/Infantil/Educacional - Mundo Serelepe",
+        "description": "Meninos de Todas as Cores História contada do livro de Luisa Ducla Soares (Editora: Nova Gaia), onde retrata de uma maneira simples e inocente as ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/7qrMKCOUJIE/default.jpg",
+            "url": "https://i.ytimg.com/vi/g-HEhUf_5wo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/7qrMKCOUJIE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/g-HEhUf_5wo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/7qrMKCOUJIE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/g-HEhUf_5wo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Taise Agostini",
+        "channelTitle": "Mundo S",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-05-31T00:19:46Z"
+        "publishTime": "2019-05-10T20:06:26Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "WbzYJnRFBPKzP9IUsIq4GSnK5XM",
+      "etag": "DANn_C_ZZB-ghLl8U1h5-Ih8blA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Qg35V6vDmXU"
+        "videoId": "FxV4GMcb1HI"
       },
       "snippet": {
-        "publishedAt": "2019-04-25T22:05:55Z",
-        "channelId": "UCvwLsDp9qudBZfnUXl8wnBQ",
-        "title": "Como fazer Pipocas Coloridas",
-        "description": "Receita 100g de milho de pipoca ou meia xícara 100g de açúcar ou meia xícara 40ml de óleo 40ml de água 10ml de essência de baunilha.",
+        "publishedAt": "2016-05-28T13:00:00Z",
+        "channelId": "UC5nrB6LSxXhowk7i2rTgNng",
+        "title": "Vídeos Educativos para crianças – Compilação | Cores, formas, números e muito mais! | BabyFirst",
+        "description": "Inscreva-se no canal do Youtube BABYFIRST BRASIL para mais vídeos! Esta compilação extensa é uma oportunidade maravilhosa para suas crianças ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Qg35V6vDmXU/default.jpg",
+            "url": "https://i.ytimg.com/vi/FxV4GMcb1HI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Qg35V6vDmXU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FxV4GMcb1HI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Qg35V6vDmXU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FxV4GMcb1HI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Chef Léo Oliveira",
+        "channelTitle": "BabyFirst Brasil Vídeos Educativos para crianças",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-04-25T22:05:55Z"
+        "publishTime": "2016-05-28T13:00:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "a8e8rXFpmqLaICNexnQGNVSgLOg",
+      "etag": "mJtqY2lkTXggrga3vVwnfev-dFc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "W-l7ywXq9Cs"
+        "videoId": "HLLbqC6_xa4"
       },
       "snippet": {
-        "publishedAt": "2019-06-27T17:37:39Z",
-        "channelId": "UCY90WSTGXGkhZ7ewHQUfodA",
-        "title": "Aprender japonês cantando: música infantil",
-        "description": "Quantas vezes você já pensou que gostaria de aprender japonês mas pensa que não tem tempo para aprender a língua e acaba postergando esse objetivo?",
+        "publishedAt": "2018-06-19T10:12:56Z",
+        "channelId": "UChtWQ20MXmA_QJPWvvNFvCA",
+        "title": "Uma grande corrida! 4 carros coloridos.Desenho animado.",
+        "description": "Aí estão os 4 carros. Eles estão atravessando a rua. Carros, venha até aqui. Este é o início da pista de corrida. A pista é semelhante a um piscina de bola ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/W-l7ywXq9Cs/default.jpg",
+            "url": "https://i.ytimg.com/vi/HLLbqC6_xa4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/W-l7ywXq9Cs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HLLbqC6_xa4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/W-l7ywXq9Cs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HLLbqC6_xa4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "123 Japonês",
+        "channelTitle": "Desenhos animados para crianças",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-06-27T17:37:39Z"
+        "publishTime": "2018-06-19T10:12:56Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "oINNCTWGNr2eGifZsQgC-HZs5HI",
+      "etag": "yN_XVBu63-fEQ1o0C6tNZiqgXrk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "LPo9Js2IFm4"
+        "videoId": "5V2EMDUjQmY"
       },
       "snippet": {
-        "publishedAt": "2019-06-07T23:57:19Z",
-        "channelId": "UCWNJuf6X1KYHiZp7mwQZtOg",
-        "title": "Dia 3 - 07/06 - Semana de Pintura Infantil | Márcia Suelí - Cantinho de Pintura",
-        "description": "Para participar e receber o material que será pintado na live do dia 05/06 basta se inscrever em: https://contato.site/f4f6b87/semana-de-pintura-infantil/inscricao ...",
+        "publishedAt": "2018-11-16T16:28:09Z",
+        "channelId": "UCNmZLVajXPXYeSLiZGAaYZg",
+        "title": "Brinquedos infantil | Cores da Aquarela Kids | Jogos de Pintar  | Video infantil | para crianças",
+        "description": "Inscreva-se no Canal: https://goo.gl/f2B6MN Brinquedo infantil | Cores da Aquarela Kids Cartoon Cores | Jogos de Pintar Desenhos | Video infantil | diversão ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/LPo9Js2IFm4/default.jpg",
+            "url": "https://i.ytimg.com/vi/5V2EMDUjQmY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/LPo9Js2IFm4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5V2EMDUjQmY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/LPo9Js2IFm4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5V2EMDUjQmY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Márcia Suelí - Cantinho de Pintura",
+        "channelTitle": "Desenholandia",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-06-07T23:57:19Z"
+        "publishTime": "2018-11-16T16:28:09Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "wpsGoqnDdlX9IDNuHwzNorSlWXY",
+      "etag": "bL5DKX3wHHmrL6acqljpVoE2vf0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "JLNRg917pME"
+        "videoId": "NT5zca91pWc"
       },
       "snippet": {
-        "publishedAt": "2019-12-18T22:44:51Z",
-        "channelId": "UCvwLsDp9qudBZfnUXl8wnBQ",
-        "title": "BOLO PARA ANIVERSÁRIO INFANTIL / 1 ANINHO",
-        "description": "Para se cadastrar na 3º MASTERCLASS INTERNACIONAL - A MARATONA DO CONFEITEIRO é só apertar o link abaixo: ...",
+        "publishedAt": "2017-10-03T22:00:00Z",
+        "channelId": "UCHclrXg11nJf2T1IhF40zaQ",
+        "title": "Nomes das Cores | Ensinando as Cores na Educação Infantil | Brink &amp; Aprenda",
+        "description": "Olá, Amiguinhos! Neste vídeo vamos aprender os nomes de algumas cores... Gostou? Então, deixe o teu \"joinha\" e inscreva-se no nosso canal pra ficar por ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/JLNRg917pME/default.jpg",
+            "url": "https://i.ytimg.com/vi/NT5zca91pWc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/JLNRg917pME/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NT5zca91pWc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/JLNRg917pME/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NT5zca91pWc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Chef Léo Oliveira",
+        "channelTitle": "Brink & Aprenda",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-12-18T22:44:51Z"
+        "publishTime": "2017-10-03T22:00:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Tx57clKjOyVcuu5prsyvv8sQ54s",
+      "etag": "9nZ6tWuZOdG4qEaogeiSRJ0YNeU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "LfxVeVLFwbg"
+        "videoId": "CKy3HMxagkE"
       },
       "snippet": {
-        "publishedAt": "2020-04-26T15:14:37Z",
-        "channelId": "UCoRKvp7ton-fSWtBFrov-jg",
-        "title": "MINHAS EMOÇÕES - CULTO INFANTIL",
-        "description": "CULTO DE INFANTIL 26-04-2020 http://www.ivida.com.br http://facebook.com/igrejavidariodosul http://instagram.com/igrejavidariodosul Acompanhe nosso culto ...",
+        "publishedAt": "2018-06-23T14:00:00Z",
+        "channelId": "UCeVpY5P9nvQavvVMaGadIyg",
+        "title": "Bento e Totó - Brincando com as Cores (Desenho Infantil)",
+        "description": "Bento e Totó - Brincando com as Cores Inscreva-se no nosso canal para assistir aos vídeos da série sempre em primeira mão. Conheça nossas redes sociais: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/LfxVeVLFwbg/default.jpg",
+            "url": "https://i.ytimg.com/vi/CKy3HMxagkE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/LfxVeVLFwbg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CKy3HMxagkE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/LfxVeVLFwbg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CKy3HMxagkE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Igreja Vida Rio do Sul",
+        "channelTitle": "Bento e Totó",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-04-26T15:14:37Z"
+        "publishTime": "2018-06-23T14:00:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "DeBBaXBwNIEPR1cVWMYY1y0rU8U",
+      "etag": "awMCK0EruNFG4LmNnB2YtdQAX0o",
       "id": {
         "kind": "youtube#video",
-        "videoId": "ahCEFiOZCUo"
+        "videoId": "-vgQch5AiDc"
       },
       "snippet": {
-        "publishedAt": "2017-11-14T12:20:36Z",
-        "channelId": "UCiFg-2CjsG_xcSsHNjDeLpw",
-        "title": "Pica-Pau em Português | LIVE | Compilação de Cenas Engraçadas | Desenhos Animados",
-        "description": "Veja mais vídeos aqui: http://bit.ly/2rWORrx O Pica-Pau Season 1 é uma série de televisão animada baseada no desenho original de Walter Lantz, produzido ...",
+        "publishedAt": "2019-05-20T20:21:29Z",
+        "channelId": "UCaJmr6heJHK9sKJt_aTtv_Q",
+        "title": "História Infantil - As Cores - Mundo Serelepe",
+        "description": "História Infantil - As Cores - Mundo Serelepe https://youtu.be/-vgQch5AiDc.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ahCEFiOZCUo/default.jpg",
+            "url": "https://i.ytimg.com/vi/-vgQch5AiDc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ahCEFiOZCUo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-vgQch5AiDc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ahCEFiOZCUo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-vgQch5AiDc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Pica-Pau em Português",
+        "channelTitle": "Mundo S",
         "liveBroadcastContent": "none",
-        "publishTime": "2017-11-14T12:20:36Z"
+        "publishTime": "2019-05-20T20:21:29Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "QYI8m8vt5MG094ojrz3pmeKtrhA",
+      "etag": "mwwNSecw3w0tBX762sHvSBguow0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "_SKrCL23u64"
+        "videoId": "hDogE5THWvA"
       },
       "snippet": {
-        "publishedAt": "2017-10-03T18:26:25Z",
-        "channelId": "UC2Kon4ekOzwtcptbmJCsiXw",
-        "title": "Combinando Cores nas Nossas 👣 havaianas Decoradas",
-        "description": "LEIA A DESCRIÇÃO COM ATENÇÃO... Hoje eu mesma ja forneço Materiais Amoras. Se inscreva no canal : https://goo.gl/Ihqbyj . Tudo de Chinelos ...",
+        "publishedAt": "2012-02-24T01:05:17Z",
+        "channelId": "UCFLpVscujBy6QLZjmW0fDOg",
+        "title": "CORES PRIMÁRIAS - MÚSICA INFANTIL",
+        "description": "Musica infantil de composicao própria, ensinando quais são as cores primárias e as secundarias. visitem : http://criancasdecoracao.blogspot.com.br Espero que ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/_SKrCL23u64/default.jpg",
+            "url": "https://i.ytimg.com/vi/hDogE5THWvA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/_SKrCL23u64/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hDogE5THWvA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/_SKrCL23u64/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hDogE5THWvA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Maguida Silva",
+        "channelTitle": "Eric Tamari",
         "liveBroadcastContent": "none",
-        "publishTime": "2017-10-03T18:26:25Z"
+        "publishTime": "2012-02-24T01:05:17Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "JBup9Z2MaN-8rLJJsy-GopnNsqo",
+      "etag": "pfwMATswEMYSIa1DONdqdRZO2A0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "ylJ4YNYO0t4"
+        "videoId": "NtHFhCQzhsE"
       },
       "snippet": {
-        "publishedAt": "2019-12-20T00:07:58Z",
-        "channelId": "UCoYLI3B3NbuvCB03vjBDnUg",
-        "title": "Vestido Mullet Infantil",
-        "description": "Olá, hoje vim ao vivo trazer a modelagem desse lindo vestidinho mullet, espero que gostem.... Link dos curso infantil e moda praia promoção até dia 05/01/20 ...",
+        "publishedAt": "2020-03-18T11:00:09Z",
+        "channelId": "UCHWk3yAzYqbJxMC1lodBVqw",
+        "title": "Mãozinhas de Cores - Aprenda As Cores Com Música Infantil | O Reino A Brincar",
+        "description": "Mãozinhas de Cores - Aprenda As Cores Com Música Infantil | O Reino A Brincar ▻Inscreva-se no nosso canal! http://bit.ly/Inscreva-seOReinoaBrincar.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ylJ4YNYO0t4/default.jpg",
+            "url": "https://i.ytimg.com/vi/NtHFhCQzhsE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ylJ4YNYO0t4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NtHFhCQzhsE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ylJ4YNYO0t4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NtHFhCQzhsE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Costura & Cia Com Mari",
+        "channelTitle": "O Reino a Brincar",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-12-20T00:07:58Z"
+        "publishTime": "2020-03-18T11:00:09Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "50E-8a_nb-b3oHCTZkzXn-_W6yE",
+      "etag": "A84G_VHBlLfe_k9LLzRDpb2Z7N8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "QsrGCeEsZXg"
+        "videoId": "_fW-7s60Ih0"
       },
       "snippet": {
-        "publishedAt": "2020-01-09T22:46:02Z",
-        "channelId": "UCvwLsDp9qudBZfnUXl8wnBQ",
-        "title": "COMO FAZER A COR ROSÉ GOLD NO CHANTININHO",
-        "description": "Para se cadastrar na 3º MASTERCLASS INTERNACIONAL - A MARATONA DO CONFEITEIRO é só apertar o link abaixo: ...",
+        "publishedAt": "2019-02-26T13:53:39Z",
+        "channelId": "UCOl_xOZUh-xzaD6KEsRTg-w",
+        "title": "GORILAS COLORIDOS, APRENDENDO AS CORES, VIDEO EDUCACIONAL EM PORTUGUÊS, VIDEO INFANTIL",
+        "description": "ASSISTA TAMBEM: https://www.youtube.com/watch?v=Z286PcqxlAI . GORILAS COLORIDOS, APRENDENDO AS CORES, VIDEO EDUCACIONAL EM ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/QsrGCeEsZXg/default.jpg",
+            "url": "https://i.ytimg.com/vi/_fW-7s60Ih0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/QsrGCeEsZXg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_fW-7s60Ih0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/QsrGCeEsZXg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_fW-7s60Ih0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Chef Léo Oliveira",
+        "channelTitle": "Hoje e Amanhã Kids",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-01-09T22:46:02Z"
+        "publishTime": "2019-02-26T13:53:39Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "D482xPPT53LCBq-lnW71YGzcJgA",
+      "etag": "cQVxfDgQNYyBvnDTHy0vp9RCDE4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "JdCcxG2H4xQ"
+        "videoId": "izKKB43q48c"
       },
       "snippet": {
-        "publishedAt": "2020-10-08T22:40:58Z",
-        "channelId": "UCWP4-w1ltsNN_9z6VXZxr7A",
-        "title": "VENHA FAZER UMA BOLSINHA INFANTIL MOLDE GRÁTIS",
-        "description": "MOLDE BOLSINHA INFANTIL https://drive.google.com/file/d/1yU5lamGjqZy-gINNsBdUJYVgCQ6dlh3x/view?usp=sharing COMEDOURO OU BEBEDOURO ...",
+        "publishedAt": "2020-09-24T10:00:30Z",
+        "channelId": "UCckWKg08w2GqD-lqs0fg2XA",
+        "title": "Canção cores | Musica infantil portuguesa | Animação | Desenhos animado | Educação",
+        "description": "Ola crianças, assista a este divertido animado canção de ninar Canção cores para baixo engraçada desenhos animados em português. Assista ao nosso canal ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/JdCcxG2H4xQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/izKKB43q48c/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/JdCcxG2H4xQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/izKKB43q48c/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/JdCcxG2H4xQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/izKKB43q48c/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Arte de Paninho Rosimary Cavalcante",
+        "channelTitle": "Kids Channel Português - Vídeo Para Crianças",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-08T22:40:58Z"
+        "publishTime": "2020-09-24T10:00:30Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "65OBk5aJiBu4hdHqIBcZzZtsqUI",
+      "etag": "-RrnfCPGnGIO7Ejove7-1R56SLM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Eu_07neThtI"
+        "videoId": "dhnR7TokVIQ"
       },
       "snippet": {
-        "publishedAt": "2020-10-23T18:15:16Z",
-        "channelId": "UCcE5U2PDL7QNBuWPLwHmoEw",
-        "title": "O papel social da alimentação na Educação Infantil",
-        "description": "Aula Aberta O papel social da alimentação na Educação Infantil Elza Corsi Cristiano Alcântara.",
+        "publishedAt": "2020-02-17T14:00:11Z",
+        "channelId": "UCA_cNiyHvf-vDOmLwB84kyw",
+        "title": "Música como aprender a ler CORES inglês infantil Aprendendo a ler",
+        "description": "aprendendo a ler inglês nosso vídeo para aprender musica cores em ingles infantil abc kids como usamos a musica infantil para criança falar e aprender o ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Eu_07neThtI/default.jpg",
+            "url": "https://i.ytimg.com/vi/dhnR7TokVIQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Eu_07neThtI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dhnR7TokVIQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Eu_07neThtI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dhnR7TokVIQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Instituto Avisa Lá",
+        "channelTitle": "ABC e Aprender",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-23T18:15:16Z"
+        "publishTime": "2020-02-17T14:00:11Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "iulzqXLWI1Rc2Bb0ajCy6D7ouJU",
+      "etag": "jhbAfwCK-57L519EA4V30Ap0Zeg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "4NW2dDv1Gro"
+        "videoId": "rgA3Ji_cCTU"
       },
       "snippet": {
-        "publishedAt": "2020-09-30T00:59:30Z",
-        "channelId": "UCoh3254hlUAyRLDtDffqCUA",
-        "title": "10 Mitos sobre o desenho infantil",
-        "description": "Susana Rangel É professora de Arte, itinerante, dedicada às questões da Arte na infância. Tem licenciatura em Artes Plásticas, com mestrado e doutorado em ...",
+        "publishedAt": "2019-06-22T15:00:05Z",
+        "channelId": "UCooY3HgjOMWoDpIHMDM4ghQ",
+        "title": "Futebol Com Bolas Coloridas Na Fazenda do Zenon | Aprender as Cores | O Reino",
+        "description": "Continue se divertindo com mais vídeos de A Brincar! Descubra seu canal e continue jogando com seus personagens favoritos.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4NW2dDv1Gro/default.jpg",
+            "url": "https://i.ytimg.com/vi/rgA3Ji_cCTU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4NW2dDv1Gro/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rgA3Ji_cCTU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4NW2dDv1Gro/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rgA3Ji_cCTU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Infancia Viva",
+        "channelTitle": "O Reino Infantil",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-09-30T00:59:30Z"
+        "publishTime": "2019-06-22T15:00:05Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "RUQqwNuZs5f6zQJ0Whz-iuiJz2Y",
+      "etag": "2mJ3C7XQsTJHD-yI9oOqaEc3qbg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "S6aLTb7Vvgs"
+        "videoId": "7YwLAGiMuzc"
       },
       "snippet": {
-        "publishedAt": "2020-08-13T00:16:10Z",
-        "channelId": "UCbzI3oYBkwg_XwEj8t8NqMg",
-        "title": "Bolo Tie Dye - TENDÊNCIA DO MOMENTO!",
-        "description": "É Tendência que você quer @? Então olha só essa que fizemos para você! ✏️Essa Aula Fabulosa foi ministrada pela Tacio Barros Instagram: ...",
+        "publishedAt": "2019-10-19T12:00:00Z",
+        "channelId": "UC4_NiqdAtd2-6w_p4uYKDaA",
+        "title": "Família dos Dedos de Cores de Halloween ♫ Música Infantil Dia das Bruxas - Um Herói do Coração",
+        "description": "Inscrevase no Canal ▻ https://goo.gl/TV7ytm As minhas canções de Halloween na Spotify! ▻ https://spoti.fi/3lmvluN E não esqueça de....⬇️ Siga-nos no ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/S6aLTb7Vvgs/default.jpg",
+            "url": "https://i.ytimg.com/vi/7YwLAGiMuzc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/S6aLTb7Vvgs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7YwLAGiMuzc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/S6aLTb7Vvgs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7YwLAGiMuzc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Fab!",
+        "channelTitle": "Um Herói do Coração",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-08-13T00:16:10Z"
+        "publishTime": "2019-10-19T12:00:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "6pg9qXLI6mU7mn1bpSDdqqIi2gE",
+      "etag": "7WmY6ClIv24TUsAWT7F4dXq_7uQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "rhapF_vNyaA"
+        "videoId": "S4auSIVXXmw"
       },
       "snippet": {
-        "publishedAt": "2018-03-08T20:32:57Z",
-        "channelId": "UCKwL3feuf38wQwKdbGE2daw",
-        "title": "Como ensinar vogais e consoantes - Gato come letras",
-        "description": "Aprenda a ensinar vogais e consoantes para crianças na educação infantil, para idosos e crianças especiais em processo de alfabetização. Tem garrafão pet?",
+        "publishedAt": "2019-06-28T13:36:35Z",
+        "channelId": "UChtWQ20MXmA_QJPWvvNFvCA",
+        "title": "Aprender as cores para crianças. Carros Inteligentes. Animação infantil.",
+        "description": "Carros Inteligentes. Desenhos animados para crianças. Animação infantil. Essa é a casa de Boo! Bom dia! O que é isso? Este é um cavalete! Coloque o papel ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rhapF_vNyaA/default.jpg",
+            "url": "https://i.ytimg.com/vi/S4auSIVXXmw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rhapF_vNyaA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S4auSIVXXmw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rhapF_vNyaA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S4auSIVXXmw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Marcializ S.M.Martins",
+        "channelTitle": "Desenhos animados para crianças",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-03-08T20:32:57Z"
+        "publishTime": "2019-06-28T13:36:35Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "U41srW9MRpUtaAfYwHqf3pGqgDE",
+      "etag": "EEPWFKOnrqadceoG_eh5kuF8IAc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "8wroNecNhV4"
+        "videoId": "fsxPWrVNooU"
       },
       "snippet": {
-        "publishedAt": "2020-10-24T00:26:05Z",
-        "channelId": "UChoE45YDu40KO9KHSkRjbUA",
-        "title": "Saberes da Educação Infantil: novos olhares e possibilidades",
-        "description": "Vamos tecer ideias sobre educação infantil e implicações pedagógicas históricas-culturais.",
+        "publishedAt": "2020-07-10T20:30:10Z",
+        "channelId": "UCXyGbNdywPKSJ88vPKN0vgw",
+        "title": "A Musica das Cores | Desenho animado | Musica infantil Educativa com Os Amiguinhos",
+        "description": "Acompanha-nos https://twitter.com/OsAmiguinhosTV https://www.facebook.com/OsAmiguinhos/ ---- Clique aqui para Subscrever o canal OS AMIGUINHOS ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/8wroNecNhV4/default.jpg",
+            "url": "https://i.ytimg.com/vi/fsxPWrVNooU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/8wroNecNhV4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fsxPWrVNooU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/8wroNecNhV4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fsxPWrVNooU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Tecendo Ideias Educação Pública",
+        "channelTitle": "Os Amiguinhos",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-24T00:26:05Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "lECOMwq7O3knZnFZPF6oZzDlhTI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "PRT1-CAMBKU"
-      },
-      "snippet": {
-        "publishedAt": "2020-07-01T05:08:40Z",
-        "channelId": "UCwXRx8mKt0qhN2-jPxmiwmw",
-        "title": "Desenho animado infantil - O mundo de Laranjito 🍊 - 05 episódios",
-        "description": "Embarque em uma viagem lúdica ao universo do saber com O MUNDO DO LARANJITO com desenhos animados musicais. LARANJITO leva o aprendizado a ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/PRT1-CAMBKU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/PRT1-CAMBKU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/PRT1-CAMBKU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "O mundo de Laranjito",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-07-01T05:08:40Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "50sgvfbKH4SIxn-i7PxBbDr2a8s",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Iww_Ou6FLG0"
-      },
-      "snippet": {
-        "publishedAt": "2020-10-23T21:52:35Z",
-        "channelId": "UCxW4GwCP5nHuaixrF7L68VA",
-        "title": "Faby Corte Costura AULA #5545: FABY CORTE E COSTURA  Costurando  Vestido Infantil inteiriço",
-        "description": "SEJA TODOS BEM VINDOS AO CANAL DA FABY CORTE COSTURA ✅ Inscreva-se ✅ Compartilhe ✅ Comente ✅ Favorite Deixe seu Like  ✓ ✅ Joinha Email: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Iww_Ou6FLG0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Iww_Ou6FLG0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Iww_Ou6FLG0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Faby CorteCostura",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-10-23T21:52:35Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Yqh_ltGHgTAZH8YpqTTVqHz9XYc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "KPLT8GMGxi4"
-      },
-      "snippet": {
-        "publishedAt": "2020-10-13T21:15:50Z",
-        "channelId": "UCLVGouNK8BRLUwRhJaos2eg",
-        "title": "Seminário de Educação Infantil - Um Olhar Para O Futuro",
-        "description": "Se existe um período em que podemos atuar e, de forma significativa, propiciar, com maior facilidade, o desenvolvimento de novas habilidades é durante a ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/KPLT8GMGxi4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/KPLT8GMGxi4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/KPLT8GMGxi4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "SIEEESP",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-10-13T21:15:50Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "GQmsyF6JvuoRcp39-G0UOqKHyNc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "6rsgYo1iIiI"
-      },
-      "snippet": {
-        "publishedAt": "2020-10-24T12:36:29Z",
-        "channelId": "UCle-ZHfzJZNQuOmPffoznFw",
-        "title": "MODELE COMIGO JARDINEIRA INFANTIL",
-        "description": "Link do molde: Jardineira masculina: https://1drv.ms/u/s!AmVxX-MExTnz33hO_DzZsm9ohOLd?e=HAg8Et Seja membro deste canal e ganhe benefícios: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/6rsgYo1iIiI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/6rsgYo1iIiI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/6rsgYo1iIiI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Minha Mãe Costura",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-10-24T12:36:29Z"
+        "publishTime": "2020-07-10T20:30:10Z"
       }
     }
   ]
