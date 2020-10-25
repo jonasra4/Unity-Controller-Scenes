@@ -1,0 +1,1032 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "kAlz7cL-VEoXbmBaI5zlsIgi0oM",
+  "nextPageToken": "CB4QAA",
+  "regionCode": "BR",
+  "pageInfo": {
+    "totalResults": 313304,
+    "resultsPerPage": 30
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KG_2RJ_zDlycVCh8YVCGJ8Lru8o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZSpxq3hBr2g"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-26T00:43:21Z",
+        "channelId": "UCyLFt2mI7bgRzkCnu5eM0Fw",
+        "title": "Ensinando os números para crianças",
+        "description": "Como começar a ensinar os números? Basta repetir uma sequência para as crianças? Que estratégias utilizar? Se você quer saber, assista ao vídeo!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZSpxq3hBr2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZSpxq3hBr2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZSpxq3hBr2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clarissa Pereira Pedagoga",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-26T00:43:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jrobOv2YzkGI_Gk6Y1MvCEg5sSg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FiNLH7-ZYfw"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-18T15:53:22Z",
+        "channelId": "UCwoEscYbiqMUwjo_LfHSs9Q",
+        "title": "Devocional Infantil - Números 22.36-40",
+        "description": "A Barbara vai ler para as crianças e amigos o devocional que ela sempre faz antes de dormir. Acompanhe. É muito bom que, antes de dormir, as crianças ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FiNLH7-ZYfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FiNLH7-ZYfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FiNLH7-ZYfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "As Guedes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-18T15:53:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BovEf4kto9G_OUEWKa6qBeiyNmA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r7pMfc7NHDA"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-30T23:55:58Z",
+        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
+        "title": "Live 30/06 - Atividades para aulas on-line e pós-pandemia",
+        "description": "INSCRIÇÕES ABERTAS POR TEMPO LIMITADO PARA O CURSO DE ADAPTAÇÃO INFANTIL NA PRÁTICA https://go.hotmart.com/A17437755R MUSICA ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r7pMfc7NHDA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r7pMfc7NHDA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r7pMfc7NHDA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taise Agostini",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-30T23:55:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "14h_OcvXBANjSAfJFofS6BnS8Kg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C3esoZOyz1w"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-10T01:07:47Z",
+        "channelId": "UCfa3fDotsisKmBemsDvxR1w",
+        "title": "números de 0 a 10 / representando a quantidade",
+        "description": "Agrupamento 5 A.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C3esoZOyz1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C3esoZOyz1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C3esoZOyz1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Colégio Saber Mais",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-10T01:07:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "slRa4rd79__2RJaQ127rSA0ZLvk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4mTzN9JSk14"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-16T05:39:55Z",
+        "channelId": "UCr9C7GJh4e4mduvlzkMvFRg",
+        "title": "Inglês para crianças - Inglês Infantil - NÚMEROS",
+        "description": "Inglês para crianças - Inglês Infantil #inglês #para #crianças #inglêsparacrianças Abaixo temos diversos cursos, saiba mais clicando no link: CURSO Donuts ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4mTzN9JSk14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4mTzN9JSk14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4mTzN9JSk14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LAM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-16T05:39:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MguSLkYNNAR0I4wHZVH5KfS4SJQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QrFGEN9Kf0w"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-19T00:27:59Z",
+        "channelId": "UCyLFt2mI7bgRzkCnu5eM0Fw",
+        "title": "Como ensinar a contar os números #9/20",
+        "description": "Você tem alunos que só sabem contar com o auxílio das mãos? Você mesmo precisa dos dedos? Hoje, quero te ensinar estratégias que vão avançar as suas ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QrFGEN9Kf0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QrFGEN9Kf0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QrFGEN9Kf0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clarissa Pereira Pedagoga",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-19T00:27:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IXQflIuiRY6v9tCSgxojDPpQCzk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F-opA8Yl6Ns"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-16T06:06:55Z",
+        "channelId": "UCr9C7GJh4e4mduvlzkMvFRg",
+        "title": "Inglês para crianças - Inglês Infantil - ACERTE OS BALÕES COM NÚMEROS",
+        "description": "Inglês para crianças - Inglês Infantil #inglês #para #crianças #inglêsparacrianças Abaixo temos diversos cursos, saiba mais clicando no link: CURSO Donuts ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F-opA8Yl6Ns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F-opA8Yl6Ns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F-opA8Yl6Ns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LAM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-16T06:06:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NEdAiIFIMHxGLEQm8OUTlKlQZ4c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vNGtA6D1gks"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-22T13:30:26Z",
+        "channelId": "UCUUEpvwJfOktmiwhc2DIOeA",
+        "title": "22/09 - 2º ano EF - Matemática - Comparar, ordenar e registrar números: Parte II",
+        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa Viviane da Costa Batista Pereira - Moderadora CMSP.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vNGtA6D1gks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vNGtA6D1gks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vNGtA6D1gks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "2o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-22T13:30:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PEJnHgH8Oir2EI0Lk2D7NwYO7ks",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NVG6cud-dss"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-29T15:55:13Z",
+        "channelId": "UCXbpBgQUDi-hwP3-VF3navQ",
+        "title": "Niños Unir los puntos Animales - niños aprenden números y animales en la granja",
+        "description": "Xem tôi chơi Unir Puntos - Animales! Niños Unir los puntos Animales - niños aprenden números y animales en la granja Aprender números y letras con este ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NVG6cud-dss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NVG6cud-dss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NVG6cud-dss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TE Channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-29T15:55:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ukrIIxMJpwJia5WG8mKmtDCYjUQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SGOUeWaExnM"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-28T00:16:50Z",
+        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
+        "title": "CRIANÇA EM CASA, VAMOS APRENDER! Aula interativa ao vivo 4",
+        "description": "A Pulguinha - Palavra Cantada https://youtu.be/v4AcZqDR6BA Grupo Triii - Dedinhos https://youtu.be/fplRBcKqXCM Palavra Cantada | Dá Sua Mão ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SGOUeWaExnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SGOUeWaExnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SGOUeWaExnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taise Agostini",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-28T00:16:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oG6sR4UIAnHxRioTHQB2qmDtpas",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sg9jgPRTlPc"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-10T22:56:20Z",
+        "channelId": "UC1seW4xOOONEQtorUaZJ63Q",
+        "title": "PRENDO LOS NÚMEROS 🎅 COLOREANDO NÚMEROS DEL 1 AL 10 PARA NIÑOS / PREESCOLAR",
+        "description": "HOY APRENDEMOS LOS NÚMEROS. APRENDEMOS A CONTAR DEL 1 AL 10 Y COLOREAMOS. APRENDEMOS LOS COLORES. Suscribe: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sg9jgPRTlPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sg9jgPRTlPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sg9jgPRTlPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Luna Mia Kids",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-10T22:56:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7o-7MBSqM8NsYfR2ViB8mNrTujQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rHXmte6al30"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-23T11:57:36Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "23/09 - 1º ano EF - Matemática - Ler e comparar números",
+        "description": "Viviane da Costa Batista Pereira - Professora de Matemática Kelly Cristina de Souza Barroso Muniz Moraes - Moderadora CMSP.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rHXmte6al30/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rHXmte6al30/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rHXmte6al30/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-23T11:57:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9r-Ce8EcLuVz4_VxBBgggBQoam4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nbON2T4htlU"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-19T16:27:43Z",
+        "channelId": "UCeq_SgWZDF8h-ujzwBXI5jQ",
+        "title": "#ProfesMelos, Números de más de seis cifras e invitaciones  - Teleantioquia",
+        "description": "Suscríbete A Nuestro Canal Aquí https://goo.gl/BXYMM7 Hoy en clase de matemáticas aprenderemos sobre números de más de seis cifras y en la clase de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nbON2T4htlU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nbON2T4htlU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nbON2T4htlU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Teleantioquia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-19T16:27:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rb1TkUDyHLKjuFz-cp9LIufHOiQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vXCgW2Ck_Lk"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-26T20:03:59Z",
+        "channelId": "UC14UlmYlSNiQCBe9Eookf_A",
+        "title": "[ESP] Final Torneo MIC 2016 (Alevín): FC Barcelona A - Real Madrid (2-0)",
+        "description": "Partido correspondiente a la gran final de la categoría D del Torneo MIC entre el Alevín A del FC Barcelona y el Real Madrid. ---- FC Barcelona on Social Media ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vXCgW2Ck_Lk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vXCgW2Ck_Lk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vXCgW2Ck_Lk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FC Barcelona",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-26T20:03:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S02xnnrC6Nv8DQyLO7rZ1kKgaKk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LMMUZN0OaEQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-11T02:55:14Z",
+        "channelId": "UCuSo4gcgxJRf4Bzu43wwVyg",
+        "title": "LIVE! Masha y el Oso 👱\u200d♀️🐻 Las mejores canciones infantiles para niños 👶👧",
+        "description": "Masha y el Oso - Todos Los Episodios https://bit.ly/Masha-y-el-Oso-Episodios Masha y el Oso - Compilación https://bit.ly/Masha-y-el-Oso-Compilacion LIVE!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LMMUZN0OaEQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LMMUZN0OaEQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LMMUZN0OaEQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masha y el Oso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-11T02:55:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9bMaIDClcHdWwd36KNHaiWSVdV0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2YKEJVHgrPE"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-10T11:59:45Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "10/08 - 1º ano EF - Matemática - Ler e comparar números",
+        "description": "Viviane da Costa Batista Pereira - Professora de Matemática.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2YKEJVHgrPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2YKEJVHgrPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2YKEJVHgrPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-10T11:59:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jeonLVTVEEq_hF5ivtMVVhDnl60",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zB3KmQBdQz0"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-24T00:20:12Z",
+        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
+        "title": "ATIVIDADES LÚDICAS PARA FAZER EM CASA",
+        "description": "Link do Material em pdf: https://drive.google.com/file/d/16NaKZBhgXRbBJYCpbenAK3zvDWXvGcwp/view?usp=sharing Links das Músicas utilizadas na aula: A ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zB3KmQBdQz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zB3KmQBdQz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zB3KmQBdQz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taise Agostini",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-24T00:20:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8sMmceQh4Zt1UfAX8p5F2tBnw7Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fEVxDZdFmUI"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-08T11:29:30Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "08/06 - 1º ano EF - Matemática - Comparando números",
+        "description": "Ana Paula Gugelmin - Professora de Matemática.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fEVxDZdFmUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fEVxDZdFmUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fEVxDZdFmUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-08T11:29:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nFRDFCgi6YwdZQs_5iudHewFtxk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1pFi6UPHSj0"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-20T14:28:43Z",
+        "channelId": "UCk_RcE3XYJZ0tt3BYslHuRw",
+        "title": "20/10 - 3º ano EF - Matemática - Comparando números",
+        "description": "Viviane da Costa Batista Pereira - Professora de Matemática Kelly Cristina de Souza Barroso Muniz Moraes - Moderadora CMSP.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1pFi6UPHSj0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1pFi6UPHSj0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1pFi6UPHSj0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "3o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-20T14:28:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qDa6zuTlxWnfpRwUpbhnd9NWpoc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0zuE2hE3AQs"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-01T23:33:32Z",
+        "channelId": "UC_gV70G_Y51LTa3qhu8KiEA",
+        "title": "LIVE DO LUCCAS NETO: A PEDRA DO PODER SUMIU - Ao Vivo #FiqueEmCasa #Comigo",
+        "description": "Live do Luccas Neto: A PEDRA DO PODER SUMIU!!! Obs.: Este vídeo contém publicidade infantil.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0zuE2hE3AQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0zuE2hE3AQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0zuE2hE3AQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LUCCAS NETO - LUCCAS TOON",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-01T23:33:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rOT_Y1KMh9PHt852JxnBkOgeDdQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P-mKPv1ZxNI"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-06T00:35:30Z",
+        "channelId": "UCuSo4gcgxJRf4Bzu43wwVyg",
+        "title": "Masha y el Oso - Todos Los Episodios 🎬 Dibujos Animados en Español!",
+        "description": "Las Maravillas Invernales ⛄ https://youtu.be/DOKoB9u2Wk4 Cuando Los Cactus Florecen https://youtu.be/yGe35TjZA7c ¡Todos a bailar!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P-mKPv1ZxNI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P-mKPv1ZxNI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P-mKPv1ZxNI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masha y el Oso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-06T00:35:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xsWraE7EMwvDcWrQuD8CoWH2qjQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7j9Ki8MBTqo"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-17T23:04:12Z",
+        "channelId": "UCuSo4gcgxJRf4Bzu43wwVyg",
+        "title": "Masha y el Oso - Todos Los Episodios 🎬 Dibujos Animados en Español!",
+        "description": "Llegó la Primavera https://youtu.be/opLqfa_IU6k JUGANDO AL GATO Y AL RATÓN https://youtu.be/zpOc4ZigL6o ¡Sorpresa! ¡Sorpresa!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7j9Ki8MBTqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7j9Ki8MBTqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7j9Ki8MBTqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masha y el Oso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-17T23:04:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qt219x0TqM1pfBWljZa38PBpqfg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oAij6JZFbtI"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-17T21:47:03Z",
+        "channelId": "UCj7emKNt33yP-CttuUifqEg",
+        "title": "Kinder, ayuda para leer y reconocer números",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oAij6JZFbtI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oAij6JZFbtI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oAij6JZFbtI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IMtexasteacherstyle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-17T21:47:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dMkKLs7LGEgDjSpZEpIp4IQ6O1Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oT97zPevRxE"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-19T18:49:18Z",
+        "channelId": "UCoB7wLA9hJ8-H4ss1KlR_JQ",
+        "title": "MATEMÁTICA E RACIOCÍNIO LÓGICO PARA PM CE : QUIZ DE OPERAÇÕES COM NÚMEROS NATURAIS,INTEIROS E REAIS",
+        "description": "Multistreaming with https://restream.io/ Aprenda Raciocínio lógico e matemático para a PM CE com nosso professor MARCÃO. Nesse quiz mostramos os ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oT97zPevRxE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oT97zPevRxE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oT97zPevRxE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Matemática Pra Passar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-19T18:49:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JxB7c1Zcj8RYicnMJdvsmk_JpsM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RRWDG1GE_T8"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-23T02:45:02Z",
+        "channelId": "UCuSo4gcgxJRf4Bzu43wwVyg",
+        "title": "LIVE! Masha y el Oso 👱\u200d♀️🐻 ¡Canciones para niños y aventuras fantásticas!✨",
+        "description": "Masha y el Oso - Todos Los Episodios https://bit.ly/Masha-y-el-Oso-Episodios Masha y el Oso - Compilación https://bit.ly/Masha-y-el-Oso-Compilacion LIVE!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RRWDG1GE_T8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RRWDG1GE_T8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RRWDG1GE_T8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masha y el Oso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-23T02:45:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hCWQANDc3JcNmIT9q1JW1gB-QDM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oyTO_EhnqTk"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-20T23:47:44Z",
+        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
+        "title": "AULA INTERATIVA AO VIVO - O QUE É O QUE É JUNINO",
+        "description": "https://go.hotmart.com/T14294372P?dp=1 Clique e adquira o arquivo! --------------------------------------------- Siga-me nas redes sociais: FACEBOOK: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oyTO_EhnqTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oyTO_EhnqTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oyTO_EhnqTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taise Agostini",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-20T23:47:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VjZVlfx7tqQLMsX__psFLCpxFWY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vI9aui6r0_Q"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-16T01:37:15Z",
+        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
+        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2019!",
+        "description": "Amigos Para Sempre🦄 https://youtu.be/V-V-rCHZj-8 Maravilhas Do Inverno ⛄ https://youtu.be/Hz5sjIMafDc 🤶 Salvando o Natal!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vI9aui6r0_Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vI9aui6r0_Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vI9aui6r0_Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masha e o Urso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-16T01:37:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S3IYfBVLu6IMZrEVpMQLTipP7Vw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nM1GOtOEKHg"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-16T23:08:11Z",
+        "channelId": "UCLYjo8bfsOSxWvnNVxUNmQw",
+        "title": "Música Infantil com 2 acordes / Live 16/10",
+        "description": "Curso Completo de Violão (Apoio exclusivo comigo via Whatsapp) - https://cursodeviolaoemcasa.com/ WhatsApp: (47)9 8476-4520 Facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nM1GOtOEKHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nM1GOtOEKHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nM1GOtOEKHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Janete Online - Violão para iniciantes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-16T23:08:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wNasfcUI-Bu2Px2VPAvLeK1tFh4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JKnA1DjDrYA"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-30T17:20:49Z",
+        "channelId": "UCTl91e4cxOjpphrLuNXVQ2A",
+        "title": "Lingokids - Nursery Rhymes &amp; Kids Songs",
+        "description": "SUBSCRIBE for new videos every week!▻ https://www.youtube.com/c/Lingokids?sub_confirmation=1 Download the app for more songs and fun games!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JKnA1DjDrYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JKnA1DjDrYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JKnA1DjDrYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lingokids - The playlearning app",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-30T17:20:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DGHTTmy_xM_WNNDVpqXQxeN3HBA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K3DFZ61CJzo"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-19T20:06:23Z",
+        "channelId": "UCJAO3KgZdEhCqwpkZyAYY6A",
+        "title": "Crescimento: Números e dados da família Adventista na América do Sul - Comissão Diretiva Plenária #3",
+        "description": "No terceiro dia de atividades da Comissão Diretiva, destacamos os resultados da pesquisa realizada em todos os templos Adventistas na América do Sul, em ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K3DFZ61CJzo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K3DFZ61CJzo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K3DFZ61CJzo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Adventistas Brasil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-19T20:06:23Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1032 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "-aBUBQ59BUE0pMosfQf2ZBErdDo",
+  "nextPageToken": "CB4QAA",
+  "regionCode": "BR",
+  "pageInfo": {
+    "totalResults": 47370,
+    "resultsPerPage": 30
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "578i1o0N-bN7Q9cuTTS6V1zaGbE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "40UNeS3mjXA"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-19T23:41:52Z",
+        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
+        "title": "Masha e o Urso Musica 🎤💥 LIVE 💥🎤 Coleção de canções de Masha e o Urso 🎵",
+        "description": "Bem-vindo ao canal de Masha e o Urso no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade Primavera para o Urso ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/40UNeS3mjXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/40UNeS3mjXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/40UNeS3mjXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaDaBoom Português",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-19T23:41:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "btxZSa-i_glWoyluGeCUO7lPc6g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KhAfUv3ZbbM"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-21T17:39:39Z",
+        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
+        "title": "TaDaBoom Português 🎤💥 LIVE 💥🎤 Coleção de canções de Masha e o Urso 🎵",
+        "description": "Bem-vindo ao canal de TaDaBoom Português - Masha e o Urso Musica no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KhAfUv3ZbbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KhAfUv3ZbbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KhAfUv3ZbbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaDaBoom Português",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-21T17:39:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uy0gpOs6aCsaXsSsv9-BcXKgnUc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wH269R2CXE4"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-02T22:54:47Z",
+        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
+        "title": "TaDaBoom Português 🎤💥 LIVE 💥🎤 Coleção de canções de Masha e o Urso 🎵",
+        "description": "Bem-vindo ao canal de TaDaBoom Português - Masha e o Urso Musica no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wH269R2CXE4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wH269R2CXE4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wH269R2CXE4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaDaBoom Português",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-02T22:54:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i6NhNE7Tbm-l5tTRvt0QCOtwZ_k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZQecKeqACz4"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-16T13:48:21Z",
+        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
+        "title": "TaDaBoom Português 🎤❄️ LIVE ❄️🎤 Coleção de canções de Masha e o Urso 🎵",
+        "description": "Bem-vindo ao canal de TaDaBoom Português - Masha e o Urso Musica no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZQecKeqACz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZQecKeqACz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZQecKeqACz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaDaBoom Português",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-16T13:48:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XPW_Ws1puTj3XdDLMMwO_9kFD0A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Pt1KeeX_ohY"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-10T19:46:01Z",
+        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
+        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2019!",
+        "description": "Os Três Mashqueteiros ⚔️ https://youtu.be/OhOPmlJ1ipo Halloween 2019 https://youtu.be/TuSrOu9i83w Deus Salve A Rainha!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pt1KeeX_ohY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pt1KeeX_ohY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pt1KeeX_ohY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masha e o Urso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-10T19:46:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a8e8rXFpmqLaICNexnQGNVSgLOg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W-l7ywXq9Cs"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-27T17:37:39Z",
+        "channelId": "UCY90WSTGXGkhZ7ewHQUfodA",
+        "title": "Aprender japonês cantando: música infantil",
+        "description": "Quantas vezes você já pensou que gostaria de aprender japonês mas pensa que não tem tempo para aprender a língua e acaba postergando esse objetivo?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W-l7ywXq9Cs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W-l7ywXq9Cs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W-l7ywXq9Cs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "123 Japonês",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-27T17:37:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WsxUT2dp8zZ-mp6aeb8qHS17ubU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OkQcj1M-3zw"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-10T19:15:02Z",
+        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
+        "title": "TaDaBoom Português 🎤💥 LIVE 💥🎤 Coleção de canções de Masha e o Urso 🎵",
+        "description": "Bem-vindo ao canal de TaDaBoom Português - Masha e o Urso Musica no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OkQcj1M-3zw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OkQcj1M-3zw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OkQcj1M-3zw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaDaBoom Português",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-10T19:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QlXu0Yx-G-xl-aGo8CSAe2ZLVI8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7ZTmNjngM3s"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-04T05:18:43Z",
+        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
+        "title": "🔴 LIVE! TaDaBoom Português 🧸🎈 VAMOS JOGAR! 🎈🧸 Coleção de canções 🎵 Masha e o Urso",
+        "description": "Bem-vindo ao canal de TaDaBoom Português - Masha e o Urso Musica no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7ZTmNjngM3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7ZTmNjngM3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7ZTmNjngM3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaDaBoom Português",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-04T05:18:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B_Or-J5jLw6S36KXedtj8baH734",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qdQReO3pNik"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-08T20:52:00Z",
+        "channelId": "UC0cGVh96osM7yqMu0ENSKKQ",
+        "title": "LIVE MUNDO BITA #FICAEMCASA",
+        "description": "O Bita e a Flora se juntam ao cantor e criador do Mundo Bita Chaps Melo nessa live cheia de aprendizados, surpresas e músicas que fazem a cabeça das ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qdQReO3pNik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qdQReO3pNik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qdQReO3pNik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mundo Bita",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-08T20:52:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rK_8c0WUod8zsz9-3yilUHr9W8k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fNUe-fye8xs"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-28T22:24:20Z",
+        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
+        "title": "TaDaBoom Português 🎤❄️ LIVE ❄️🎤 Coleção de canções de Masha e o Urso 🎵",
+        "description": "Bem-vindo ao canal de TaDaBoom Português - Masha e o Urso Musica no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fNUe-fye8xs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fNUe-fye8xs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fNUe-fye8xs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaDaBoom Português",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-28T22:24:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xz9R5OaewHCasm4-4w5zo9oAdjM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-7NyP15mkAY"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-29T22:03:14Z",
+        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
+        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2019!",
+        "description": "Amigos Para Sempre🦄 https://youtu.be/V-V-rCHZj-8 Maravilhas Do Inverno ⛄ https://youtu.be/Hz5sjIMafDc 🤶 Salvando o Natal!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-7NyP15mkAY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-7NyP15mkAY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-7NyP15mkAY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masha e o Urso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-29T22:03:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S7g4BJ4yzZ7NAkmNQR1_sCj_zG0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MwGo3T1G7w8"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-02T21:50:16Z",
+        "channelId": "UCxEmJEJ2O9fyTq-mEhPNntw",
+        "title": "Desenho infantil em português | Transmissão ao vivo novelinha de bonecas",
+        "description": "Desenho infantil em português | Transmissão ao vivo novelinha de bonecas. Nesse vídeo você vai assistir todos os episódios da novelinha de bonecas do ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MwGo3T1G7w8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MwGo3T1G7w8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MwGo3T1G7w8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diver Channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-02T21:50:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8n0h_5RMXaaG2ERsfGotQCMrYIs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IVWESu1M_UA"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-08T21:39:32Z",
+        "channelId": "UCY3zfHNiJwu1AOVRYhB0BIA",
+        "title": "MÚSICAS INFANTIS CRISTÃS 🎶 - Pri Mastrocolla",
+        "description": "Spotify: https://open.spotify.com/user/alokaporgatos/playlist/0r3eMdRlMsLE0BlPg4AslE.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IVWESu1M_UA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IVWESu1M_UA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IVWESu1M_UA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pri Mastrocolla",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-08T21:39:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UfHXE4L4Erb0W5EyKaKozxa2Zwg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R3oNMJ7cpfs"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-02T20:14:32Z",
+        "channelId": "UCb08zJgXapidkizIaEN5EfQ",
+        "title": "Live 3 Palavrinhas - Ao Vivo - Sábado - 15 horas - #FiqueEmCasa e Cante #Comigo",
+        "description": "A nossa Live foi demais, amiguinhos! Agradecemos pelo carinho ... nos divertimos muito com vocês! Agora, acompanhem também todas as empresas e ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R3oNMJ7cpfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R3oNMJ7cpfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R3oNMJ7cpfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "3Palavrinhas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-02T20:14:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VjZVlfx7tqQLMsX__psFLCpxFWY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vI9aui6r0_Q"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-16T01:37:15Z",
+        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
+        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2019!",
+        "description": "Amigos Para Sempre🦄 https://youtu.be/V-V-rCHZj-8 Maravilhas Do Inverno ⛄ https://youtu.be/Hz5sjIMafDc 🤶 Salvando o Natal!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vI9aui6r0_Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vI9aui6r0_Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vI9aui6r0_Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masha e o Urso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-16T01:37:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SddhKWkbZYo_1Zs3_x4slknEr4k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zZfrDflZEiE"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-05T00:27:43Z",
+        "channelId": "UCawMahIiRYOA8uzQMbDz5iQ",
+        "title": "TaDaBoom Português 🎤💥 LIVE 💥🎤 Coleção de canções de Masha e o Urso 🎵",
+        "description": "Bem-vindo ao canal de TaDaBoom Português - Masha e o Urso Musica no YouTube Inscrever-se agora! Músicas nesta coleção: Musica Da Amizade ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zZfrDflZEiE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zZfrDflZEiE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zZfrDflZEiE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaDaBoom Português",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-05T00:27:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yRLliwjMxjWlr0DIczPTVEZCusw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Kf_bj-nhjXg"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-12T22:37:29Z",
+        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
+        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2020!",
+        "description": "TOP 10 https://youtu.be/JhCSfP0sYTg Amigos Para Sempre🦄 https://youtu.be/V-V-rCHZj-8 Maravilhas Do Inverno ⛄ https://youtu.be/Hz5sjIMafDc ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kf_bj-nhjXg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kf_bj-nhjXg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kf_bj-nhjXg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masha e o Urso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-12T22:37:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iwVlAuM-qXuNUXAGV8rpk-GLn1A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ac3xtB3qynQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-27T00:42:16Z",
+        "channelId": "UCnY02liF-iMzV3ozxQhW8jQ",
+        "title": "Ovos Surpresa | Canções em Português para Crianças | ChuChuTV Brazil Live Stream",
+        "description": "Ovos Surpresa | Canções em Português para Crianças | ChuChuTV Brazil Live Stream.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ac3xtB3qynQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ac3xtB3qynQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ac3xtB3qynQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChuChuTV Brazil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-27T00:42:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hg7VuSzfE-_Gq0fJiJ1k-Ei6leg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UPGeFFU9KD8"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-21T23:01:07Z",
+        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
+        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2020!",
+        "description": "Aulas De Direção https://youtu.be/ZFOP-9QN0tE #MashaUrso Bem-vindo ao canal de Masha e o Urso no YouTube Inscrever-se agora! Masha e o Urso lista ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UPGeFFU9KD8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UPGeFFU9KD8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UPGeFFU9KD8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masha e o Urso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-21T23:01:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C_hkYBFvvWx1NntnYNWqYOvlhiw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AeLdEvT3APQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-17T22:09:56Z",
+        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
+        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2020!",
+        "description": "Fique bem! https://youtu.be/ORdP_aVAPq0 Aulas De Direção https://youtu.be/ZFOP-9QN0tE #MashaUrso Bem-vindo ao canal de Masha e o Urso no ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AeLdEvT3APQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AeLdEvT3APQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AeLdEvT3APQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masha e o Urso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-17T22:09:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jeonLVTVEEq_hF5ivtMVVhDnl60",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zB3KmQBdQz0"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-24T00:20:12Z",
+        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
+        "title": "ATIVIDADES LÚDICAS PARA FAZER EM CASA",
+        "description": "Link do Material em pdf: https://drive.google.com/file/d/16NaKZBhgXRbBJYCpbenAK3zvDWXvGcwp/view?usp=sharing Links das Músicas utilizadas na aula: A ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zB3KmQBdQz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zB3KmQBdQz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zB3KmQBdQz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taise Agostini",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-24T00:20:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J9FRGC9ubafpwXJtvTdsTc3ZhPY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BAcnHAZBmOg"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-17T13:20:01Z",
+        "channelId": "UCGkLuQt34WUEc2FmHNvgdBQ",
+        "title": "Simon LIVE EPISÓDIO Português Brasileiro - Compilação HD [Oficial]",
+        "description": "YouTube : http://bit.ly/SimonINSCREVER-SE_ @Facebook : https://www.facebook.com/simonsuperrabbit/ @Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BAcnHAZBmOg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BAcnHAZBmOg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BAcnHAZBmOg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Simon [Português Brasileiro] Oficial",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-17T13:20:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tCfk50czYbD0fs-2fz80JSfbsKE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IHFzcaTfi8M"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-11T22:37:15Z",
+        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
+        "title": "Masha e o Urso - Todas os episódios 🎬 Desenho animado novo 2020!",
+        "description": "Aulas De Direção https://youtu.be/ZFOP-9QN0tE #MashaUrso Bem-vindo ao canal de Masha e o Urso no YouTube Inscrever-se agora! Masha e o Urso lista ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IHFzcaTfi8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IHFzcaTfi8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IHFzcaTfi8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masha e o Urso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-11T22:37:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BoG2Aigue7dqtFoU5CP6pngyyPk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MnG3oumiQgw"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-25T13:24:23Z",
+        "channelId": "UCpqDUBzpN78meaFtlqWCAWQ",
+        "title": "🔴 #FiqueEmCasa e Brinque com o FREELY | DESENHOS ANIMADOS EDUCATIVOS para as crianças",
+        "description": "Inscreva-se no canal do Freely para receber novos vídeos: http://bit.ly/Freely_Inscreva-Se ♫ FREELY – APRENDER É MÁGICO tem como propósito ensinar e ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MnG3oumiQgw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MnG3oumiQgw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MnG3oumiQgw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Freely - Aprender é Mágico",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-25T13:24:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xKHNN2_HuL2MdKeZ7fvk8d_h5O8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Br8QCDFDynE"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-24T21:28:23Z",
+        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
+        "title": "Masha e o Urso - ❤️ Episódios favoritos de Masha ❤️",
+        "description": "Um dia com a Masha https://youtu.be/VJVi2YjvOTI 🥨 Doçuras e alegrias https://youtu.be/Tb8V51ERiDo ❤️ O amor é… ❤️ https://youtu.be/zokETZxEOHs ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Br8QCDFDynE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Br8QCDFDynE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Br8QCDFDynE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masha e o Urso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-24T21:28:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3KUjqGRMaqh_ZQM2aXfHGB_OAjg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tl7xm7vQajg"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-14T22:37:18Z",
+        "channelId": "UCJKBSfD5JSUxGhriFeoPCCg",
+        "title": "Masha e o Urso - ⚽  Estilo de vida saudável com a Masha 🏀",
+        "description": "Fique bem! https://youtu.be/ORdP_aVAPq0 Aulas De Direção https://youtu.be/ZFOP-9QN0tE #MashaUrso Bem-vindo ao canal de Masha e o Urso no ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tl7xm7vQajg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tl7xm7vQajg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tl7xm7vQajg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masha e o Urso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-14T22:37:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sYFLah4bHam0MAzRbY9dOFAfjQk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4_tHaohj9b0"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-23T01:59:41Z",
+        "channelId": "UCDIYAmAv7hdouRQqWyB-h2Q",
+        "title": "A Música no processo de desenvolvimento motor infantil",
+        "description": "A Michael e a Allegro Momento vão promover três imperdíveis encontros para falar de música e desenvolvimento infantil, evento 100% ONLINE e GRATUITO.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4_tHaohj9b0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4_tHaohj9b0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4_tHaohj9b0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Michael Instrumentos Musicais",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-23T01:59:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dqwJV2xViIJpYqv-NwkAuzQ3_tM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cxYmQmX6rbs"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-22T02:16:13Z",
+        "channelId": "UCDIYAmAv7hdouRQqWyB-h2Q",
+        "title": "A Música como estímulo para o desenvolvimento da linguagem infantil",
+        "description": "A Michael e a Allegro Momento vão promover três imperdíveis encontros para falar de música e desenvolvimento infantil, evento 100% ONLINE e GRATUITO.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cxYmQmX6rbs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cxYmQmX6rbs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cxYmQmX6rbs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Michael Instrumentos Musicais",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-22T02:16:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yVLJHWXr6kgOexSrUboyBw5jFAk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R69pDYCCFZs"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-26T15:39:19Z",
+        "channelId": "UC_vLMlX_JkPct41_nHpdw_Q",
+        "title": "LIVE INFANTIL",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R69pDYCCFZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R69pDYCCFZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R69pDYCCFZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Igreja Evangélica Assembleia de Deus de Ji-Paraná",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-26T15:39:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l0qiMrucItZizyqhLkaBEZEqxbc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XrnCsOzaCHs"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-06T21:04:56Z",
+        "channelId": "UCK_FvuzJN7rP4k2Ppwnvj5g",
+        "title": "Live infantil",
+        "description": "Nome vídeo Inscreva-se no meu canal: http://bit.ly/AlineBarrosYouTube -- Ouça Álbum Completo [NOME DO ALBÚM] nas Plataformas Digitais: -- LETRA: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XrnCsOzaCHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XrnCsOzaCHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XrnCsOzaCHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Aline Barros",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-06T21:04:56Z"
+      }
+    }
+  ]
+}

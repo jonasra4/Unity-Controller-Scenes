@@ -1,0 +1,1032 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "5MK5oJhxEZw8GzoVQGd0qDcoKTk",
+  "nextPageToken": "CB4QAA",
+  "regionCode": "BR",
+  "pageInfo": {
+    "totalResults": 341757,
+    "resultsPerPage": 30
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PX6Zlgx3OzCSZ2biu-qhMxRinq8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OxuKCElfyM4"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-18T22:42:25Z",
+        "channelId": "UCIAGNW3LKOMV5mUV9DM55Ag",
+        "title": "Cores, fontes, formatos e texturas: a importância da materialidade no livro infantil",
+        "description": "A Taba acredita que em um bom livro para infância a materialidade do objeto deve estar a serviço da construção de sentido. Cores, fontes, formatos e texturas ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OxuKCElfyM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OxuKCElfyM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OxuKCElfyM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "A Taba",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-18T22:42:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AXOK_iljf73rAvQPuSNUyeMSZFQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E0u2L-cdBzw"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-15T11:00:48Z",
+        "channelId": "UC4ialke-fDRabvauZcOLQ0A",
+        "title": "Especial Dia das Crianças - Festas das Cores - Escola Infantil ALFA",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E0u2L-cdBzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E0u2L-cdBzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E0u2L-cdBzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Escola Infantil Alfa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-15T11:00:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "38rTLK3P48pz66nnvd3DJ2AMLd0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Jb6Vw6Eb_r8"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-24T03:21:39Z",
+        "channelId": "UCXZ9FVbtRfwKPr7UDVyEILg",
+        "title": "Paleta de Cores na Decoração de Festa Infantil/Mandy Designer Decoração de Festa",
+        "description": "1° Aula ao Vivo do Ano de 2017 no EVENTO DIA DE FESTA Nessa aula, falo Paleta de Cores na Decoração de Festa Infantil e sua importância. IMPERDÍVEL.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jb6Vw6Eb_r8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jb6Vw6Eb_r8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jb6Vw6Eb_r8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Amanda Nege",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-24T03:21:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ukrIIxMJpwJia5WG8mKmtDCYjUQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SGOUeWaExnM"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-28T00:16:50Z",
+        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
+        "title": "CRIANÇA EM CASA, VAMOS APRENDER! Aula interativa ao vivo 4",
+        "description": "A Pulguinha - Palavra Cantada https://youtu.be/v4AcZqDR6BA Grupo Triii - Dedinhos https://youtu.be/fplRBcKqXCM Palavra Cantada | Dá Sua Mão ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SGOUeWaExnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SGOUeWaExnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SGOUeWaExnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taise Agostini",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-28T00:16:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B_Or-J5jLw6S36KXedtj8baH734",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qdQReO3pNik"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-08T20:52:00Z",
+        "channelId": "UC0cGVh96osM7yqMu0ENSKKQ",
+        "title": "LIVE MUNDO BITA #FICAEMCASA",
+        "description": "O Bita e a Flora se juntam ao cantor e criador do Mundo Bita Chaps Melo nessa live cheia de aprendizados, surpresas e músicas que fazem a cabeça das ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qdQReO3pNik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qdQReO3pNik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qdQReO3pNik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mundo Bita",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-08T20:52:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K4hCim4Fbuc6yofa_P8Nh5cOyXM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bexkRdqT75g"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-28T16:36:56Z",
+        "channelId": "UCunquXfeW5gyoYH2Rh7MAkg",
+        "title": "Infantil No Atacado Com Escolha De Estampa, Cor, Tamanho..",
+        "description": "Demonstração de peças de verão,meia estação é inverno Réplicas de primeira linha Compras pelo site www.marikids.com.br Pedido mínimo em compras de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bexkRdqT75g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bexkRdqT75g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bexkRdqT75g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Atacado infantil Mari kids",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-28T16:36:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HEs-0ju6vVaMBPj0MeWIZwS8FIc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MWwhTnJXmMQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-15T00:48:38Z",
+        "channelId": "UCS-6NqQawUDvYTiF2UsK_MQ",
+        "title": "[AULÃO DE QUINTA] ANÁLISE DO DESENHO INFANTIL, PERGUNTAS E RESPOSTAS",
+        "description": "O Aulão de Quinta é um projeto pessoal, onde eu compartilho meus aprendizados sobre psicopedagogia, educação, aprendizagem e desenvolvimento com o ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MWwhTnJXmMQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MWwhTnJXmMQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MWwhTnJXmMQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tatiane Castro Psicopedagoga",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-15T00:48:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HW-cpwDKgHk2PZtkUYXckdDUqQ4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uwuABPiad8s"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-19T23:55:37Z",
+        "channelId": "UCpqDUBzpN78meaFtlqWCAWQ",
+        "title": "🔴 Vamos Brincar e Aprender com o FREELY | Desenhos Educativos para Crianças",
+        "description": "Inscreva-se no canal do Freely para receber novos vídeos: http://bit.ly/Freely_Inscreva-Se Vamos aprender e brincar juntos! ♫ FREELY – APRENDER É ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uwuABPiad8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uwuABPiad8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uwuABPiad8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Freely - Aprender é Mágico",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-19T23:55:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bCu0zpfchocxMnQ4WwCUVW_RClw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nHFLKlMFIqg"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-12T00:23:27Z",
+        "channelId": "UCgfgPyU5Vc4s1tyBSM6CCvw",
+        "title": "Como Escolher/Fazer Brinquedos que estimulem o Desenvolvimento Infantil",
+        "description": "Conheça meu livro: Aprendendo a Falar: do \"gugu-dadá\" ao \"mamãe, me dá\": ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nHFLKlMFIqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nHFLKlMFIqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nHFLKlMFIqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fala Fono por Juliana Trentini",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-12T00:23:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GK-vu8KLrzdenxnXJuP8xZaoZ4s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TW93TBGaKWQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-15T23:57:43Z",
+        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
+        "title": "DOCE SURPRESA! ATIVIDADES DE ALFABETIZAÇÃO",
+        "description": "PEM - Programa de Estimulação Motora - COM TAISE AGOSTINI https://hotm.art/ProgramaEstimular-TaiseAgostini -------------------------------------- Siga-me nas ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TW93TBGaKWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TW93TBGaKWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TW93TBGaKWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taise Agostini",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-15T23:57:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EX_4Ng-pr4SwEVbelBBZoxZ6VZc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7qrMKCOUJIE"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-31T00:19:46Z",
+        "channelId": "UCsuZXTGuyQzIG9jEMqlpntQ",
+        "title": "AULA INTERATIVA - ATIVIDADES DE ATENÇÃO E CONCENTRAÇÃO",
+        "description": "Faça já sua inscrição no PEM - Programa de Estimulação Motora https://hotm.art/ProgramaEstimular-TaiseAgostini ------------------------------------- Aula ao vivo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7qrMKCOUJIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7qrMKCOUJIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7qrMKCOUJIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taise Agostini",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-31T00:19:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WbzYJnRFBPKzP9IUsIq4GSnK5XM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qg35V6vDmXU"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-25T22:05:55Z",
+        "channelId": "UCvwLsDp9qudBZfnUXl8wnBQ",
+        "title": "Como fazer Pipocas Coloridas",
+        "description": "Receita 100g de milho de pipoca ou meia xícara 100g de açúcar ou meia xícara 40ml de óleo 40ml de água 10ml de essência de baunilha.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qg35V6vDmXU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qg35V6vDmXU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qg35V6vDmXU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chef Léo Oliveira",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-25T22:05:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a8e8rXFpmqLaICNexnQGNVSgLOg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W-l7ywXq9Cs"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-27T17:37:39Z",
+        "channelId": "UCY90WSTGXGkhZ7ewHQUfodA",
+        "title": "Aprender japonês cantando: música infantil",
+        "description": "Quantas vezes você já pensou que gostaria de aprender japonês mas pensa que não tem tempo para aprender a língua e acaba postergando esse objetivo?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W-l7ywXq9Cs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W-l7ywXq9Cs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W-l7ywXq9Cs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "123 Japonês",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-27T17:37:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oINNCTWGNr2eGifZsQgC-HZs5HI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LPo9Js2IFm4"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-07T23:57:19Z",
+        "channelId": "UCWNJuf6X1KYHiZp7mwQZtOg",
+        "title": "Dia 3 - 07/06 - Semana de Pintura Infantil | Márcia Suelí - Cantinho de Pintura",
+        "description": "Para participar e receber o material que será pintado na live do dia 05/06 basta se inscrever em: https://contato.site/f4f6b87/semana-de-pintura-infantil/inscricao ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LPo9Js2IFm4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LPo9Js2IFm4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LPo9Js2IFm4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Márcia Suelí - Cantinho de Pintura",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-07T23:57:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wpsGoqnDdlX9IDNuHwzNorSlWXY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JLNRg917pME"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-18T22:44:51Z",
+        "channelId": "UCvwLsDp9qudBZfnUXl8wnBQ",
+        "title": "BOLO PARA ANIVERSÁRIO INFANTIL / 1 ANINHO",
+        "description": "Para se cadastrar na 3º MASTERCLASS INTERNACIONAL - A MARATONA DO CONFEITEIRO é só apertar o link abaixo: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JLNRg917pME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JLNRg917pME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JLNRg917pME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chef Léo Oliveira",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-18T22:44:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Tx57clKjOyVcuu5prsyvv8sQ54s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LfxVeVLFwbg"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-26T15:14:37Z",
+        "channelId": "UCoRKvp7ton-fSWtBFrov-jg",
+        "title": "MINHAS EMOÇÕES - CULTO INFANTIL",
+        "description": "CULTO DE INFANTIL 26-04-2020 http://www.ivida.com.br http://facebook.com/igrejavidariodosul http://instagram.com/igrejavidariodosul Acompanhe nosso culto ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LfxVeVLFwbg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LfxVeVLFwbg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LfxVeVLFwbg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Igreja Vida Rio do Sul",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-26T15:14:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DeBBaXBwNIEPR1cVWMYY1y0rU8U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ahCEFiOZCUo"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-14T12:20:36Z",
+        "channelId": "UCiFg-2CjsG_xcSsHNjDeLpw",
+        "title": "Pica-Pau em Português | LIVE | Compilação de Cenas Engraçadas | Desenhos Animados",
+        "description": "Veja mais vídeos aqui: http://bit.ly/2rWORrx O Pica-Pau Season 1 é uma série de televisão animada baseada no desenho original de Walter Lantz, produzido ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ahCEFiOZCUo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ahCEFiOZCUo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ahCEFiOZCUo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pica-Pau em Português",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-14T12:20:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QYI8m8vt5MG094ojrz3pmeKtrhA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_SKrCL23u64"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-03T18:26:25Z",
+        "channelId": "UC2Kon4ekOzwtcptbmJCsiXw",
+        "title": "Combinando Cores nas Nossas 👣 havaianas Decoradas",
+        "description": "LEIA A DESCRIÇÃO COM ATENÇÃO... Hoje eu mesma ja forneço Materiais Amoras. Se inscreva no canal : https://goo.gl/Ihqbyj . Tudo de Chinelos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_SKrCL23u64/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_SKrCL23u64/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_SKrCL23u64/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Maguida Silva",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-03T18:26:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JBup9Z2MaN-8rLJJsy-GopnNsqo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ylJ4YNYO0t4"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-20T00:07:58Z",
+        "channelId": "UCoYLI3B3NbuvCB03vjBDnUg",
+        "title": "Vestido Mullet Infantil",
+        "description": "Olá, hoje vim ao vivo trazer a modelagem desse lindo vestidinho mullet, espero que gostem.... Link dos curso infantil e moda praia promoção até dia 05/01/20 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ylJ4YNYO0t4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ylJ4YNYO0t4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ylJ4YNYO0t4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Costura & Cia Com Mari",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-20T00:07:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "50E-8a_nb-b3oHCTZkzXn-_W6yE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QsrGCeEsZXg"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-09T22:46:02Z",
+        "channelId": "UCvwLsDp9qudBZfnUXl8wnBQ",
+        "title": "COMO FAZER A COR ROSÉ GOLD NO CHANTININHO",
+        "description": "Para se cadastrar na 3º MASTERCLASS INTERNACIONAL - A MARATONA DO CONFEITEIRO é só apertar o link abaixo: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QsrGCeEsZXg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QsrGCeEsZXg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QsrGCeEsZXg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chef Léo Oliveira",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-09T22:46:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D482xPPT53LCBq-lnW71YGzcJgA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JdCcxG2H4xQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-08T22:40:58Z",
+        "channelId": "UCWP4-w1ltsNN_9z6VXZxr7A",
+        "title": "VENHA FAZER UMA BOLSINHA INFANTIL MOLDE GRÁTIS",
+        "description": "MOLDE BOLSINHA INFANTIL https://drive.google.com/file/d/1yU5lamGjqZy-gINNsBdUJYVgCQ6dlh3x/view?usp=sharing COMEDOURO OU BEBEDOURO ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JdCcxG2H4xQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JdCcxG2H4xQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JdCcxG2H4xQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Arte de Paninho Rosimary Cavalcante",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-08T22:40:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "65OBk5aJiBu4hdHqIBcZzZtsqUI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Eu_07neThtI"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-23T18:15:16Z",
+        "channelId": "UCcE5U2PDL7QNBuWPLwHmoEw",
+        "title": "O papel social da alimentação na Educação Infantil",
+        "description": "Aula Aberta O papel social da alimentação na Educação Infantil Elza Corsi Cristiano Alcântara.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Eu_07neThtI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Eu_07neThtI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Eu_07neThtI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Instituto Avisa Lá",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-23T18:15:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iulzqXLWI1Rc2Bb0ajCy6D7ouJU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4NW2dDv1Gro"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-30T00:59:30Z",
+        "channelId": "UCoh3254hlUAyRLDtDffqCUA",
+        "title": "10 Mitos sobre o desenho infantil",
+        "description": "Susana Rangel É professora de Arte, itinerante, dedicada às questões da Arte na infância. Tem licenciatura em Artes Plásticas, com mestrado e doutorado em ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4NW2dDv1Gro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4NW2dDv1Gro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4NW2dDv1Gro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Infancia Viva",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-30T00:59:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RUQqwNuZs5f6zQJ0Whz-iuiJz2Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S6aLTb7Vvgs"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-13T00:16:10Z",
+        "channelId": "UCbzI3oYBkwg_XwEj8t8NqMg",
+        "title": "Bolo Tie Dye - TENDÊNCIA DO MOMENTO!",
+        "description": "É Tendência que você quer @? Então olha só essa que fizemos para você! ✏️Essa Aula Fabulosa foi ministrada pela Tacio Barros Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S6aLTb7Vvgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S6aLTb7Vvgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S6aLTb7Vvgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fab!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-13T00:16:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6pg9qXLI6mU7mn1bpSDdqqIi2gE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rhapF_vNyaA"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-08T20:32:57Z",
+        "channelId": "UCKwL3feuf38wQwKdbGE2daw",
+        "title": "Como ensinar vogais e consoantes - Gato come letras",
+        "description": "Aprenda a ensinar vogais e consoantes para crianças na educação infantil, para idosos e crianças especiais em processo de alfabetização. Tem garrafão pet?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rhapF_vNyaA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rhapF_vNyaA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rhapF_vNyaA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Marcializ S.M.Martins",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-08T20:32:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U41srW9MRpUtaAfYwHqf3pGqgDE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8wroNecNhV4"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-24T00:26:05Z",
+        "channelId": "UChoE45YDu40KO9KHSkRjbUA",
+        "title": "Saberes da Educação Infantil: novos olhares e possibilidades",
+        "description": "Vamos tecer ideias sobre educação infantil e implicações pedagógicas históricas-culturais.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8wroNecNhV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8wroNecNhV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8wroNecNhV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tecendo Ideias Educação Pública",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-24T00:26:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lECOMwq7O3knZnFZPF6oZzDlhTI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PRT1-CAMBKU"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-01T05:08:40Z",
+        "channelId": "UCwXRx8mKt0qhN2-jPxmiwmw",
+        "title": "Desenho animado infantil - O mundo de Laranjito 🍊 - 05 episódios",
+        "description": "Embarque em uma viagem lúdica ao universo do saber com O MUNDO DO LARANJITO com desenhos animados musicais. LARANJITO leva o aprendizado a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PRT1-CAMBKU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PRT1-CAMBKU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PRT1-CAMBKU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "O mundo de Laranjito",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-01T05:08:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "50sgvfbKH4SIxn-i7PxBbDr2a8s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iww_Ou6FLG0"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-23T21:52:35Z",
+        "channelId": "UCxW4GwCP5nHuaixrF7L68VA",
+        "title": "Faby Corte Costura AULA #5545: FABY CORTE E COSTURA  Costurando  Vestido Infantil inteiriço",
+        "description": "SEJA TODOS BEM VINDOS AO CANAL DA FABY CORTE COSTURA ✅ Inscreva-se ✅ Compartilhe ✅ Comente ✅ Favorite Deixe seu Like  ✓ ✅ Joinha Email: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iww_Ou6FLG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iww_Ou6FLG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iww_Ou6FLG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Faby CorteCostura",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-23T21:52:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yqh_ltGHgTAZH8YpqTTVqHz9XYc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KPLT8GMGxi4"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-13T21:15:50Z",
+        "channelId": "UCLVGouNK8BRLUwRhJaos2eg",
+        "title": "Seminário de Educação Infantil - Um Olhar Para O Futuro",
+        "description": "Se existe um período em que podemos atuar e, de forma significativa, propiciar, com maior facilidade, o desenvolvimento de novas habilidades é durante a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KPLT8GMGxi4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KPLT8GMGxi4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KPLT8GMGxi4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SIEEESP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-13T21:15:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GQmsyF6JvuoRcp39-G0UOqKHyNc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6rsgYo1iIiI"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-24T12:36:29Z",
+        "channelId": "UCle-ZHfzJZNQuOmPffoznFw",
+        "title": "MODELE COMIGO JARDINEIRA INFANTIL",
+        "description": "Link do molde: Jardineira masculina: https://1drv.ms/u/s!AmVxX-MExTnz33hO_DzZsm9ohOLd?e=HAg8Et Seja membro deste canal e ganhe benefícios: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6rsgYo1iIiI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6rsgYo1iIiI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6rsgYo1iIiI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Minha Mãe Costura",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-24T12:36:29Z"
+      }
+    }
+  ]
+}

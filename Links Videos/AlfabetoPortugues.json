@@ -1,0 +1,1032 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "wq7g3JG3kt1TphKqDX3Fero9w1w",
+  "nextPageToken": "CB4QAA",
+  "regionCode": "BR",
+  "pageInfo": {
+    "totalResults": 148211,
+    "resultsPerPage": 30
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KCmBT-6djIrfYRnVrfNz-0Hke5A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vXXRZ3fj6Ow"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-07T10:57:41Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "07/10 - 1º ano EF - Língua Portuguesa - Letras do alfabeto",
+        "description": "Kelly Cristina de Souza Barroso Muniz Moraes - Professora de Língua Portuguesa.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vXXRZ3fj6Ow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vXXRZ3fj6Ow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vXXRZ3fj6Ow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-07T10:57:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "53DuzLxGagxqwReGQfYkwiIagmw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dDSa969gvqQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-08T10:57:34Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "08/10 - 1º ano EF - Língua Portuguesa - Alfabeto",
+        "description": "Kelly Cristina de Souza Barroso Muniz Moraes - Professora de Língua Portuguesa Viviane da Costa Batista Pereira - Moderadora CMSP.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dDSa969gvqQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dDSa969gvqQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dDSa969gvqQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-08T10:57:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jFLDbsED1FlSCNHT6H8Lf61OXRI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oSNIcUmXkio"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-26T18:20:44Z",
+        "channelId": "UC53LwjR_dwCDyvXmyK8pO2A",
+        "title": "Francês básico: o alfabeto",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oSNIcUmXkio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oSNIcUmXkio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oSNIcUmXkio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "123 Francês",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-26T18:20:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_UqSWEoCFvAYF9HOKHqwLINHTYY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "39zon1DLdyw"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-22T08:31:24Z",
+        "channelId": "UCnctqKwYtgKnXnbV4uw466g",
+        "title": "APRENDA O ALFABETO EM PORTUGUÊS",
+        "description": "Na aula ao vivo de hoje vamos aprender o alfabeto em português.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/39zon1DLdyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/39zon1DLdyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/39zon1DLdyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Marcia Cypriano",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-22T08:31:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pC_zFAWmoZGk4qiGloMbqwyjwMg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G7ciOUIzypY"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-03T10:57:41Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "03/09 - 1º ano EF - Língua Portuguesa - Diferentes tipos de letras do alfabeto",
+        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa Kelly Cristina de Souza Barroso Muniz Moraes - Moderadora CMSP.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G7ciOUIzypY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G7ciOUIzypY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G7ciOUIzypY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-03T10:57:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZZlcYu73Syau9hjXgRRJV3pnQTY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-_LrNVYe2HM"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-02T01:26:30Z",
+        "channelId": "UCyLFt2mI7bgRzkCnu5eM0Fw",
+        "title": "Como fazer para a criança aprender as letras",
+        "description": "Hoje é dia de responder a uma das perguntas mais feitas pro Google. Eu não sou o Google, mas também te ajudo muito a encontrar respostas! (risos) - que ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-_LrNVYe2HM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-_LrNVYe2HM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-_LrNVYe2HM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clarissa Pereira Pedagoga",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-02T01:26:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3q_l8zxzEhlkc7POdB_JnAglQ7g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bW8ZDgGU2Yo"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-19T14:22:06Z",
+        "channelId": "UCHGsksWULbnSWLnJkkwLVvA",
+        "title": "🔴 COMO é o ALFABETO CHINÊS? | Clube de Chinês",
+        "description": "Nesse aula vamos começar a conhecer o alfabeto chinês! Primeiro, você vai aprender o que é o pinyin: o sistema fonético do chinês! Serão apresentadas as ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bW8ZDgGU2Yo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bW8ZDgGU2Yo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bW8ZDgGU2Yo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clube de Chinês",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-19T14:22:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lx3Va0WEwZrOaSdl9RUlIPcuL24",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sM-N8xXZqT8"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-05T10:57:35Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "05/10 - 1º ano EF - Língua Portuguesa - Bingo de letras",
+        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sM-N8xXZqT8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sM-N8xXZqT8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sM-N8xXZqT8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-05T10:57:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QC6K0DA-w-H-_eWnmNbsBkKdKYI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oWxYlnLWsWU"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-23T23:57:35Z",
+        "channelId": "UCj-1K7e84cKQXIt415r9pSQ",
+        "title": "AULÃO - PORTUGUÊS COMEÇANDO DO ZERO..",
+        "description": "https://drive.google.com/file/d/1tFL19IPK7HX_7aGDX8exd2NsEwqFQXLv/view?usp=sharing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oWxYlnLWsWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oWxYlnLWsWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oWxYlnLWsWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gabarito Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-23T23:57:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7o8g7FfnJHn2CaP3IWOKhqyzoc8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OhKuY8U887s"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-16T16:10:20Z",
+        "channelId": "UCs3vpdQWaAtmRv7hcNt1jIw",
+        "title": "COMO MELHORAR A PRONÚNCIA DO PORTUGUÊS?#04/20",
+        "description": "INFORMAÇÕES SOBRE O CURSO DE PORTUGUÊS FLUENTI: http://fluenti.com.br/ INSCREVA-SE NO CANAL: http://bit.ly/yOUTUBe FACEBOOK: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OhKuY8U887s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OhKuY8U887s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OhKuY8U887s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Português com Marcia Macedo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-16T16:10:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "05FzAwrD0Qwr0C6ADWUPkN9U3jE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uwzouA0sjIk"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-10T15:25:13Z",
+        "channelId": "UCoihrBTsIlpFnTkJFU-kdtQ",
+        "title": "Aulão de Ortografia para concursos - Profº Noslen Borges - AlfaCon",
+        "description": "Fique por dentro de todas as AULAS GRÁTIS que o AlfaCon prepara para você: acesse nossa agenda: http://bit.ly/2BVZiQw #AlfaCon #AulaGratuita Este é O ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uwzouA0sjIk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uwzouA0sjIk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uwzouA0sjIk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AlfaCon Concursos Públicos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-10T15:25:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Arinv_1IGzROFJ4LCXkJ-RmdWUY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eRBVO_8lcZk"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-24T23:35:40Z",
+        "channelId": "UCIMj0dOMA3m2zKbSZrwX-2g",
+        "title": "Fonética e fonologia - Português",
+        "description": "Assista a aula sobre fonética e fonologia com o professor Romulo Bolivar. Faça o download do material da aula no link: http://www.promilitares.com.br/conten...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eRBVO_8lcZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eRBVO_8lcZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eRBVO_8lcZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ProMilitares",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-24T23:35:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EDZQ6yPIY-cONVhOUaRi78tnyhc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1KqdT6KnEJ8"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-14T10:57:15Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "14/10 - 1º ano EF - Língua Portuguesa - Parlenda do ABC e descubra as palavras: Parte I",
+        "description": "Kelly Cristina de Souza Barroso Muniz Moraes - Professora de Língua Portuguesa.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1KqdT6KnEJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1KqdT6KnEJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1KqdT6KnEJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-14T10:57:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "114C95s8f4nnl5G2Lv-9Mn6bwBo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hMQx4A3aeeI"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-06T10:57:44Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "06/07 - 1º ano EF - Língua Portuguesa - Alfabetização",
+        "description": "Kátia Cristina Kovacs de Faria - Professora de Língua Portuguesa.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hMQx4A3aeeI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hMQx4A3aeeI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hMQx4A3aeeI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-06T10:57:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NwQBHpIuCWclrK9UDq-DT1gAres",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2YQHgtQ73iw"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-24T10:57:42Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "24/09 - 1º ano EF - Língua Portuguesa - Bingo de letras!",
+        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa Kelly Cristina de Souza Barroso Muniz Moraes - Moderadora CMSP.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2YQHgtQ73iw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2YQHgtQ73iw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2YQHgtQ73iw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-24T10:57:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UtO5wHqYH30KmmSIRe-dBEdXm40",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HKJp3aoHGKc"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-05T01:14:24Z",
+        "channelId": "UCwpEtd9d_4n3sQSDhDvu9jQ",
+        "title": "Minimaratona de Língua Portuguesa - Sidney Martins - Focus Concursos",
+        "description": "Assinatura Focus: Clique neste link e entenda por que os alunos do Focus têm maiores chances de aprovação em concursos públicos.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HKJp3aoHGKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HKJp3aoHGKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HKJp3aoHGKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Focus Concursos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-05T01:14:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bkRKtshpSj4OvznGRmGA-XyxrEM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oL1X7G-2pSY"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-15T11:27:52Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "15/10 - 1º ano EF - Língua Portuguesa - Leitura de cantigas e parlendas",
+        "description": "Kelly Cristina de Souza Barroso Muniz Moraes - Professora de Língua Portuguesa Viviane da Costa Batista Pereira - Moderadora CMSP.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oL1X7G-2pSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oL1X7G-2pSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oL1X7G-2pSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-15T11:27:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RgD24qEsj7uhNMetfg1vyYfQruA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oVHVGVbhEPg"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-01T10:57:11Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "01/10 - 1º ano EF - Língua Portuguesa - A casinha do conto João e Maria",
+        "description": "Kelly Cristina de Souza Barroso Muniz Moraes - Professora de Língua Portuguesa Viviane da Costa Batista Pereira - Moderadora CMSP.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oVHVGVbhEPg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oVHVGVbhEPg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oVHVGVbhEPg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-01T10:57:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "77yQ4d9jse1JU6lU03RfoLNWYS8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_0YtKoRs23Y"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-06T10:57:12Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "06/10 - 1º ano EF - Língua Portuguesa - Brincadeira com parlenda",
+        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa Kelly Cristina de Souza Barroso Muniz Moraes - Moderadora CMSP.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_0YtKoRs23Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_0YtKoRs23Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_0YtKoRs23Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-06T10:57:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kMePH4YKMddeZSVGYUZKRPLP27M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NKWBtLpz_oc"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-30T19:39:08Z",
+        "channelId": "UCs3vpdQWaAtmRv7hcNt1jIw",
+        "title": "COMO FALAR PORTUGUÊS COM MAIS SEGURANÇA?",
+        "description": "INFORMAÇÕES SOBRE O CURSO DE PORTUGUÊS FLUENTI: http://fluenti.com.br/ INSCREVA-SE NO CANAL: http://bit.ly/yOUTUBe FACEBOOK: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NKWBtLpz_oc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NKWBtLpz_oc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NKWBtLpz_oc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Português com Marcia Macedo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-30T19:39:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I7JJfFRfUdaBy9jCUBFbqAn58eg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "esFZ3tRMQZs"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-13T10:57:24Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "13/07 - 1º ano EF - Língua Portuguesa - Hora da leitura",
+        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/esFZ3tRMQZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/esFZ3tRMQZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/esFZ3tRMQZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-13T10:57:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y0j4wCqARwMUD8FOy8xB6T5-T7c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nviktt_7rPA"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-08T10:58:10Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "08/09 - 1º ano EF - Língua Portuguesa - Produção de escrita",
+        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa Kelly Cristina de Souza Barroso Muniz Moraes - Moderadora CMSP.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nviktt_7rPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nviktt_7rPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nviktt_7rPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-08T10:58:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EiSEfIvEIiz7rKsi57iSE3A_gnI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wgl1cr_B_xE"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-30T10:57:29Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "30/06 - 1º ano EF - Língua Portuguesa - Recitação",
+        "description": "Joyce Andrade Souza de Aguiar - Professora de Língua Portuguesa.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wgl1cr_B_xE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wgl1cr_B_xE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wgl1cr_B_xE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-30T10:57:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h1ENrc7ZeYx7tyErefboVz0IohQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oxx30WdZEZo"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-22T10:57:50Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "22/07 - 1º ano EF - Língua Portuguesa - Construção do sistema da escrita: Parte I",
+        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa Viviane da Costa Batista Pereira - Moderadora CMSP.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oxx30WdZEZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oxx30WdZEZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oxx30WdZEZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-22T10:57:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LKlIcifxBp-7teRlLWN7jnSWVeI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c28dzm9B-R4"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-23T10:57:30Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "23/09 - 1º ano EF - Língua Portuguesa - Análise e reflexão da escrita",
+        "description": "Kelly Cristina de Souza Barroso Muniz Moraes - Professora de Língua Portuguesa Viviane da Costa Batista Pereira - Moderadora CMSP.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c28dzm9B-R4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c28dzm9B-R4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c28dzm9B-R4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-23T10:57:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0u7yRRJkk1-rOJxYv4C0y13Hslo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VNMBYxiUjoo"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-11T10:57:50Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "11/08 - 1º ano EF - Língua Portuguesa - Lista de animais da reunião do zoológico",
+        "description": "Ana Paula Gugelmin Damião - Professora de Língua Portuguesa Kelly Cristina de Souza Barroso Muniz Moraes - Moderadora CMSP.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VNMBYxiUjoo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VNMBYxiUjoo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VNMBYxiUjoo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-11T10:57:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9UGg9Uo2H4D4HNTdfKs-SCBvtrc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jOTgUyKVSik"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-10T10:58:40Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "10/09 - 1º ano EF - Língua Portuguesa - Diferentes tipos de letras",
+        "description": "Ana Paula Gugelmin - Professora de Língua Portuguesa Kelly Cristina de Souza Barroso Muniz Moraes - Moderadora CMSP.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jOTgUyKVSik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jOTgUyKVSik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jOTgUyKVSik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-10T10:58:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CGCITHJDGI0OZSzHwl9mgrYCegM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hCtl3kP3BnA"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-23T11:01:15Z",
+        "channelId": "UCH3p_wPirx69UZX5EhFRlyg",
+        "title": "23/06 - 1º ano EF - Língua Portuguesa - Recitação",
+        "description": "Joyce Andrade Souza de Aguiar - Professora de Língua Portuguesa Lilian Barboza - Moderadora do CMSP.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hCtl3kP3BnA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hCtl3kP3BnA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hCtl3kP3BnA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1o ano EF - CMSP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-23T11:01:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2F_oTYE1HLLomg-ldtClSiDdcVs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8210tSaLgCw"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-05T15:58:46Z",
+        "channelId": "UCs3vpdQWaAtmRv7hcNt1jIw",
+        "title": "MDS| VIRA-LATA| TENGO SUEÑO? VIU? PROF RESPONDE!!  #18/20",
+        "description": "INSCREVA-SE NO CANAL: http://bit.ly/yOUTUBe FACEBOOK: https://facebook.com/professoramarciamacedo INSTAGRAM: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8210tSaLgCw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8210tSaLgCw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8210tSaLgCw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Português com Marcia Macedo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-05T15:58:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gY3hkHUVk7EdAEVQ8c-RfQBjRQw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "59iqZzLTk7U"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-28T16:39:40Z",
+        "channelId": "UChJF0WY5izNn7oBz-yneuCQ",
+        "title": "Aula #1: Das Deutsche Alphabet (O Alfabeto Alemão) - Nível A1",
+        "description": "estudealemãocomigo #aulasdealemão #professoradealemão Este canal tem por objetivo o ensino da língua alemã através de vídeo aulas para falantes do ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/59iqZzLTk7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/59iqZzLTk7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/59iqZzLTk7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cristiane Heinrichs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-28T16:39:40Z"
+      }
+    }
+  ]
+}
