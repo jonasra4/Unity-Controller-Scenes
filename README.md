@@ -18,7 +18,8 @@ Os dados estão na pasta "listas", nessa pasta contem um arquivo .CSV com os e-m
 
 A inserção de novos itens na lista de compras e na lista de e-mails deve obedecer ao padrão .CSV.
 
-| nome  |  preco  | quantidade  |
+lista_compras.csv
+|  nome  |  preco  | quantidade  |
 | ------------------- | ------------------- | ------------------- |
 |  arroz |  250 |  13 |
 |  biscoito |  312  |  5  |
