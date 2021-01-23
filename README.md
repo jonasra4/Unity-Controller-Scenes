@@ -34,3 +34,5 @@ lista_emails.csv
 
 Nesse desafio considerei que a entrada dos valores referentes aos preços dos produtos serão em centavos, logo não fiz a conversão de real para centavo e vice-versa.
 
+Se o sistema indentificar alguma irregularidade na entrada de dados, um erro geral sera imprimido e o calculo será cancelado.
+
