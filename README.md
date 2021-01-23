@@ -24,6 +24,12 @@ lista_compras.csv
 |  arroz |  250 |  13 |
 |  biscoito |  312  |  5  |
 
+lista_emails.csv
+|  email  |  
+| ------------------- |
+|  jonasra4@gmail.com | 
+|  carla@hotmail.com | 
+
 ## Considerações
 
 Nesse desafio considerei que a entrada dos valores referentes aos preços dos produtos serão em centavos, logo não fiz a conversão de real para centavo e vice-versa.
