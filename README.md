@@ -7,7 +7,7 @@
 ```
 pip install pandas
 ```
-- Após a intalação, executar o comando: 
+- Após a instalação, executar o comando: 
 ```
 python desafio.py
 ```
