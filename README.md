@@ -14,7 +14,7 @@ python desafio.py
 
 ## Listas de dados
 
-Os dados estão na pasta "listas", nessa pasta contem um arquivo .CSV com os e-mails e outro arquivo com os itens da lista de compras.
+Os dados estão na pasta "listas", nessa pasta contem um arquivo com os e-mails e outro arquivo com os itens da lista de compras.
 
 A inserção de novos itens na lista de compras e na lista de e-mails deve obedecer ao padrão .CSV.
 
