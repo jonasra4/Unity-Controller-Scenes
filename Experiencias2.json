@@ -1,85 +1,85 @@
 {
-  "ExperienciasOnline": [
+  "OnlineExpiriences": [
       {   
           "id": 0,
-          "nomeExperiencia": "experiencia1",
-          "versao": 1,
-          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia1?raw=true",
-          "indice": 0,
-          "observacao": "",
-          "tipo": "RA"
+          "expirienceName": "experiencia1",
+          "version": 1,
+          "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia1?raw=true",
+          "index": 0,
+          "about": "",
+          "type": "RA"
       },
       {
           "id": 1,
-          "nomeExperiencia": "experiencia2",
-          "versao": 2,
-          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia2?raw=true",
-          "indice": 1,
-          "observacao": "",
-          "tipo": "RA"
+          "expirienceName": "experiencia2",
+          "version": 2,
+          "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia2?raw=true",
+          "index": 1,
+          "about": "",
+          "type": "RA"
       },
       {
           "id": 2,
-          "nomeExperiencia": "experiencia3",
-          "versao": 1,
-          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia3?raw=true",
-          "indice": 2,
-          "observacao": "",
-          "tipo": "RA"
+          "expirienceName": "experiencia3",
+          "version": 1,
+          "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia3?raw=true",
+          "index": 2,
+          "about": "",
+          "type": "RA"
       },
       {
           "id": 3,
-          "nomeExperiencia": "experiencia4",
-          "versao": 1,
-          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia4?raw=true",
-          "indice": 3,
-          "observacao": "",
-          "tipo": "RA"
+          "expirienceName": "experiencia4",
+          "version": 1,
+          "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia4?raw=true",
+          "index": 3,
+          "about": "",
+          "type": "RA"
       },
       {
           "id": 4,
-          "nomeExperiencia": "experiencia5",
-          "versao": 1,
-          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia5?raw=true",
-          "indice": 4,
-          "observacao": "",
-          "tipo": "RA"
+          "expirienceName": "experiencia5",
+          "version": 1,
+          "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia5?raw=true",
+          "index": 4,
+          "about": "",
+          "type": "RA"
       },
       {
           "id": 5,
-          "nomeExperiencia": "experiencia6",
-          "versao": 1,
-          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia6?raw=true",
-          "indice": 5,
-          "observacao": "",
-          "tipo": "RA"
+          "expirienceName": "experiencia6",
+          "version": 1,
+          "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia6?raw=true",
+          "index": 5,
+          "about": "",
+          "type": "RA"
       },
       {
           "id": 6,
-          "nomeExperiencia": "experiencia7",
-          "versao": 1,
-          "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia7?raw=true",
-          "indice": 6,
-          "observacao": "",
-          "tipo": "2D"
+          "expirienceName": "experiencia7",
+          "version": 1,
+          "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia7?raw=true",
+          "index": 6,
+          "about": "",
+          "type": "2D"
       },
       {
         "id": 7,
-        "nomeExperiencia": "experiencia8",
-        "versao": 1,
-        "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia8?raw=true",
-        "indice": 7,
-        "observacao": "",
-        "tipo": "RA"
+        "expirienceName": "experiencia8",
+        "version": 1,
+        "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia8?raw=true",
+        "index": 7,
+        "about": "",
+        "type": "RA"
     },
     {
         "id": 8,
-        "nomeExperiencia": "experiencia9",
-        "versao": 1,
-        "link": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia9?raw=true",
-        "indice": 8,
-        "observacao": "",
-        "tipo": "RA"
+        "expirienceName": "experiencia9",
+        "version": 1,
+        "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia9?raw=true",
+        "index": 8,
+        "about": "",
+        "type": "RA"
     }
 
   ]
