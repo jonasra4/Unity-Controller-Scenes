@@ -1,7 +1,7 @@
 {"expiriences": [
       {   
           "id": 0,
-          "expirienceName": "experiencia1",
+          "name": "Vogais",
           "version": 1,
           "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia1?raw=true",
           "index": 0,
@@ -10,7 +10,7 @@
       },
       {
           "id": 1,
-          "expirienceName": "experiencia2",
+          "name": "Numeros",
           "version": 2,
           "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia2?raw=true",
           "index": 1,
@@ -19,7 +19,7 @@
       },
       {
           "id": 2,
-          "expirienceName": "experiencia3",
+          "name": "Alfabeto",
           "version": 1,
           "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia3?raw=true",
           "index": 2,
@@ -28,7 +28,7 @@
       },
       {
           "id": 3,
-          "expirienceName": "experiencia4",
+          "name": "Alfabeto 3",
           "version": 1,
           "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia4?raw=true",
           "index": 3,
@@ -37,7 +37,7 @@
       },
       {
           "id": 4,
-          "expirienceName": "experiencia5",
+          "name": "Quebra cabeca",
           "version": 1,
           "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia5?raw=true",
           "index": 4,
@@ -46,7 +46,7 @@
       },
       {
           "id": 5,
-          "expirienceName": "experiencia6",
+          "name": "experiencia6",
           "version": 1,
           "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia6?raw=true",
           "index": 5,
@@ -55,7 +55,7 @@
       },
       {
           "id": 6,
-          "expirienceName": "experiencia7",
+          "name": "experiencia7",
           "version": 1,
           "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia7?raw=true",
           "index": 6,
@@ -64,7 +64,7 @@
       },
       {
         "id": 7,
-        "expirienceName": "experiencia8",
+        "name": "experiencia8",
         "version": 1,
         "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia8?raw=true",
         "index": 7,
@@ -73,7 +73,7 @@
     },
     {
         "id": 8,
-        "expirienceName": "experiencia9",
+        "name": "experiencia9",
         "version": 1,
         "path": "https://github.com/jonasra4/Unity-Controller-Scenes/blob/master/ExperienciasPrefabs/experiencia9?raw=true",
         "index": 8,
