@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1282227813
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bear
+      Dependencies: {}
+    Info_1:
+      Name: chicken
+      Dependencies: {}
+    Info_2:
+      Name: rabbit
+      Dependencies: {}
+    Info_3:
+      Name: coelho
+      Dependencies: {}
+    Info_4:
+      Name: mundo
+      Dependencies: {}
