@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2200518790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f5e53df72bc99913c39603f44511d0ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 045213c52eecc7aeba131c62b418c535
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f5e53df72bc99913c39603f44511d0ad
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/prefabs/models/anabel-a-abelha5.prefab
+Dependencies: []
