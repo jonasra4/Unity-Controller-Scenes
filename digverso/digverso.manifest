@@ -1,19 +1,22 @@
 ManifestFileVersion: 0
-CRC: 370220074
+CRC: 2226624925
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: coelho
+      Name: chicken
       Dependencies: {}
     Info_1:
-      Name: mundo
+      Name: bear
       Dependencies: {}
     Info_2:
-      Name: chicken
+      Name: mundo
       Dependencies: {}
     Info_3:
       Name: rabbit
       Dependencies: {}
     Info_4:
-      Name: bear
+      Name: coelho
+      Dependencies: {}
+    Info_5:
+      Name: anabel-a-abelha
       Dependencies: {}
