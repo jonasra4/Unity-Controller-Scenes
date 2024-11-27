@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 537819061
+CRC: 2049949130
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -18,5 +18,5 @@ AssetBundleManifest:
       Name: coelho
       Dependencies: {}
     Info_5:
-      Name: anabel-a-abelhata
+      Name: anabel-a-abelhata1
       Dependencies: {}
